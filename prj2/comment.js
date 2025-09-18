@@ -3,7 +3,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const puppeteer = require('puppeteer');
 
-const CSV_FILE_PATH = './hemkop_meat.csv';
+const CSV_FILE_PATH = './Hemkoop_links/meat/hemkop_meat.csv';
 const OUTPUT_FILE_PATH = 'scraped_data.json';
 
 /**
@@ -62,6 +62,9 @@ try {
       
       // --- B. SCRAPE THE PRODUCT DATA ---
       const productTitle = await page.$eval('h1', h1 => h1.textContent.trim());
+      const productDescription= await page.$eval('.caySWU', p=>p.innerText);
+
+      console.log(productDescription);
 
       // Step 1: Click the correct <button> to reveal the nutrition content// 1. Click Näringsvärde tab
     await page.click('.hRlDxS');
