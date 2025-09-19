@@ -63,9 +63,12 @@ try {
       // --- B. SCRAPE THE PRODUCT DATA ---
       const productTitle = await page.$eval('h1', h1 => h1.textContent.trim());
       const productDescription= await page.$eval('.caySWU', p=>p.innerText);
+  const price = await page.$eval(
+    'span[data-testid="price-container"]',
+    el => el.innerText
+  );
 
-      console.log(productDescription);
-
+  console.log("Price:", price);
       // Step 1: Click the correct <button> to reveal the nutrition content// 1. Click Näringsvärde tab
     await page.click('.hRlDxS');
 
@@ -93,6 +96,8 @@ await new Promise(r => setTimeout(r, 10000))
       // --- C. STORE AND LOG THE RESULTS ---
       scrapedData.push({
         title: productTitle,
+        price: price,
+        product_description: productDescription,
         url: url,
         nutrition: nutritionData
       });
@@ -102,16 +107,26 @@ console.log('The following data was scrapped:', JSON.stringify(nutritionData, nu
     } catch (error) {
       console.error(`❌ Failed to scrape ${url}: ${error.message}`);
     } 
+
+     // --- 5. SAVE THE RESULTS ---
+    if (Object.keys(scrapedData).length > 0) {
+      fs.writeFileSync(OUTPUT_FILE_PATH, JSON.stringify(scrapedData, null, 2));
+      console.log(`\nResults saved to ${OUTPUT_FILE_PATH}`);
+      console.log(scrapedData);
+    } else {
+      console.log("\nNo data was scraped.");
+    }
     
   }
+ 
 
-  // 5. Close the browser and save the final results
+  // 6. Close the browser and save the final results
   await browser.close();
   console.log("\nProcess complete!");
 
-  fs.writeFileSync(OUTPUT_FILE_PATH, JSON.stringify(scrapedData, null, 2));
-  console.log(`Data saved to ${OUTPUT_FILE_PATH}`);
-}
+    
+  }
+
 
 // Run the script and handle any top-level errors
 runScraper().catch(error => console.error("An unexpected error occurred:", error));
