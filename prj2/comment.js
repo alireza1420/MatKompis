@@ -2,9 +2,14 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 const puppeteer = require('puppeteer');
+//
+// ATENTION !!!, PLEASE CHANGE THE NAME OF INPUT_OUTPUT, ACCORDING TO THE CSV FILE YOU WANT TO PARSE.
+//
+const input_output_name='hemkop_bird' // This is what you want to change !!!!
+const CSV_FILE_PATH = `./Hemkoop_links/meat/${input_output_name}.csv`; // And this
+const OUTPUT_FILE_PATH = `${input_output_name}.json`; // Also this !!
 
-const CSV_FILE_PATH = './Hemkoop_links/meat/hemkop_meat.csv';
-const OUTPUT_FILE_PATH = 'scraped_data.json';
+//Dont change anything after :)
 
 /**
  * Reads URLs from a specified CSV file.
