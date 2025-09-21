@@ -1,0 +1,1491 @@
+[
+  {
+    "title": "Kycklingkebab Fryst",
+    "price": "67,95",
+    "product_description": "Djupfryst kycklingkebab. 700 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingkebab-Fryst-101301928_ST",
+    "nutrition": {
+      "energi": "134 kilokalori",
+      "fett": "5.1 gram",
+      "varav mättat fett": "1.2 gram",
+      "kolhydrat": "4.9 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0.1 gram",
+      "protein": "17 gram",
+      "salt": "1.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Svensk",
+    "price": "249,00",
+    "product_description": "100% SVENSK EKOLOGISK KYCKLING",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Svensk-101240503_KG",
+    "nutrition": {
+      "energi": "208 kilokalori",
+      "fett": "14.9 gram",
+      "varav mättat fett": "3.28 gram",
+      "kolhydrat": "0.93 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "17.8 gram",
+      "salt": "0.16 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Bröstfilé Sverige",
+    "price": "129,00",
+    "product_description": "Färsk kycklingbrösfilé. Saftig och fin. Från utvalda svenska gårdar. Ca 850 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Brostfile-Sverige-101253220_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklinglårfil Färsk Sverige",
+    "price": "129,00",
+    "product_description": "Färsk lårfilé av svensk kyckling. Saftig och fin. Ca 850 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglarfil-Farsk-Sverige-101253219_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Strimlad Sverige",
+    "price": "35,00",
+    "product_description": "Färsk strimlad svensk kycklingfilé. Saftig och fin. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Strimlad-Sverige-101258401_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0 gram",
+      "protein": "23 gram",
+      "natrium": "0 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Hel Sverige",
+    "price": "77,95",
+    "product_description": "Färsk hel majskyckling. Från Sverige. Ca 1,3 kg.",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Hel-Sverige-101232454_KG",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Marinerade Sverige",
+    "price": "74,95",
+    "product_description": "Färska marinerade svenska kycklingben. Saftiga och fina. Ca 1,8 kg.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Marinerade-Sverige-101208470_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "8.9 gram",
+      "varav mättat fett": "2.9 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Färska Sverige",
+    "price": "63,95",
+    "product_description": "Färska kycklingben av svensk kyckling. Saftig och fin. Ca 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Farska-Sverige-101003502_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "175,00",
+    "product_description": "Färsk kycklingbröstfilé av svensk fågel. En god produkt från svenska gårdar med höga krav på kvalitet. Det känner du på smaken.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101499304_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Hel Färsk Sverige",
+    "price": "58,95",
+    "product_description": "Färsk hel kyckling från Sverige. Saftig och fin. Ca 1,35 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Hel-Farsk-Sverige-101313951_KG",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Bröstfilé Sverige",
+    "price": "175,00",
+    "product_description": "Färsk bröstfilé av svensk majskyckling. Ca 750 gram.",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Brostfile-Sverige-101232453_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingklubba Sverige",
+    "price": "65,95",
+    "product_description": "Färsk kycklingklubba av svensk kyckling. Saftig och fin. Ca 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingklubba-Sverige-100917527_KG",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Ben Frysta",
+    "price": "38,95",
+    "product_description": "Djupfrysta kycklingben av svensk kyckling. Mörad. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Ben-Frysta-101273702_ST",
+    "nutrition": {
+      "energi": "650 kilojoule",
+      "fett": "9 gram",
+      "kolhydrat": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram",
+      "varav mättat fett": "3 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Vingar Frysta",
+    "price": "38,95",
+    "product_description": "Djupfrysta kycklingvingar av svensk kyckling. Utan vingspets. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Vingar-Frysta-101273579_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklinglår Frysta",
+    "price": "38,95",
+    "product_description": "Djupfryst kycklinglår av svensk kyckling. Mörad med del av ryggben. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglar-Frysta-101273580_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Klubba Fryst",
+    "price": "38,95",
+    "product_description": "Djupfryst kycklingklubba av svensk kyckling. Mörad med del av ryggben. 1kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Klubba-Fryst-101273506_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Köttbullar",
+    "price": "52,95",
+    "product_description": "INGREDIENSER: Maskinurbenad kyckling 65%, rapsolja, kycklingskinn, kyckling 7%, ströbröd (VETEMJÖL, salt, jäst), ättiksyra, salt, lök, vitlök, maltodextrin, socker, hydrolyserat vegetabiliskt protein, vitpeppar, persilja, salladslökblad, VETEFIBER, stabiliseringsmedel (E450). Kan innehålla spår av ÄGG, SOJA, MJÖLK, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Kottbullar-101591055_ST",
+    "nutrition": {
+      "energi": "347 kilokalori",
+      "fett": "30 gram",
+      "varav mättat fett": "6.1 gram",
+      "kolhydrat": "5.8 gram",
+      "varav sockerarter": "0.7 gram",
+      "protein": "13 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Kyckling Nuggets",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Köttmassa 55% (kycklingkött, kycklingskinn, vatten, ströbröd (VETEMJÖL, salt, jäst), stärkelse, VETEMJÖL, salt, jästextrakt), panering 45 % (VETEMJÖL, vatten, majsmjöl, rapsolja, salt, vasslepulver (av MJÖLK), druvsocker, bakpulver (E450, E500), svartpepparextrakt, jäst). Köttmassan innehåller 66% kycklingkött. Kan innehålla spår av ÄGG, SOJA, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Nuggets-101591057_ST",
+    "nutrition": {
+      "energi": "222 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "1.8 gram",
+      "kolhydrat": "18 gram",
+      "varav sockerarter": "1.8 gram",
+      "protein": "10 gram",
+      "salt": "0.8 gram"
+    }
+  },
+  {
+    "title": "Kyckling Burgare 10x90g",
+    "price": "59,95",
+    "product_description": "INGREDIENSER: Kyckling 46%, ströbröd (VETEMJÖL, salt, jäst, färgämne (betakaroten, paprikaextrakt)), kycklingskinn, rapsolja, vatten, ströbröd (VETEMJÖL, salt, jäst), VETEMJÖL, ärtfiber, potatisstärkelse, salt, modifierad potatisstärkelse. Kan innehålla spår av ÄGG, SOJA, MJÖLK, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Burgare-10x90g-101591056_ST",
+    "nutrition": {
+      "energi": "210 kilokalori",
+      "fett": "9.3 gram",
+      "varav mättat fett": "1.5 gram",
+      "kolhydrat": "19 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "12 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Innerfilé av Svensk Kyckling Fryst",
+    "price": "64,95",
+    "product_description": "Djupfryst innerfilé av svensk kyckling. Mörad. 700 gram.",
+    "url": "https://www.hemkop.se/produkt/Innerfile-av-Svensk-Kyckling-Fryst-101222356_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "21 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Filé Svensk Fryst",
+    "price": "99,00",
+    "product_description": "Djupfryst bröstfilé av svensk kyckling. Mörad. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-File-Svensk-Fryst-101222270_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "21 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Innerfilé Fryst",
+    "price": "49,95",
+    "product_description": "Djupfryst mörad kyckling innerfilé. 700 gram.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Innerfile-Fryst-101294827_ST",
+    "nutrition": {
+      "energi": "83 kilokalori",
+      "fett": "0.8 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.43 gram"
+    }
+  },
+  {
+    "title": "Kyckling Filé Fryst",
+    "price": "69,95",
+    "product_description": "Djupfryst mörad kyckling bröstfilé. 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-File-Fryst-101266950_ST",
+    "nutrition": {
+      "energi": "84 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.63 gram"
+    }
+  },
+  {
+    "title": "Kyckling Filé Fryst",
+    "price": "139,00",
+    "product_description": "Djupfryst mörad kyckling bröstfilé. 2 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-File-Fryst-101266948_ST",
+    "nutrition": {
+      "energi": "84 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.63 gram"
+    }
+  },
+  {
+    "title": "Kycklingsteak Sverige",
+    "price": "119,00",
+    "product_description": "KycklingSteak från Kronfågel är en urbenad kycklingklubba med skinn. En rejäl bit kyckling, stektålig, saftig och smakrik. KycklingSteak passar utmärkt till att steka eller grilla. Servera gärna med bearnaisesås, potatisklyftor och tillbehör som cole slaw, nachos eller bönsallad. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklingsteak-Sverige-101269618_KG",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "13 gram",
+      "varav mättat fett": "3.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Sverige",
+    "price": "159,00",
+    "product_description": "Kycklingfilé från Kronfågel är den ädlaste delen på kycklingen. Med sin milda smak lämpar den sig för att marineras och kryddas i det oändliga. Kycklingfilén kan stekas i panna eller ugn. Servera gärna med potatisgratäng, pasta eller en fräsch sallad. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Sverige-100688089_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklinglår Sverige",
+    "price": "72,95",
+    "product_description": "Saftiga kycklinglår med skinn och ben från Kronfågel är goda att steka eller grilla. Krydda med salt och peppar eller din egen favoritkrydda. Passar perfekt till en buffé, pasta eller sallad. Kycklingen kan också värmas och serveras med goda såser och valfria tillbehör. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglar-Sverige-101230852_KG",
+    "nutrition": {
+      "energi": "220 kilokalori",
+      "fett": "16 gram",
+      "varav mättat fett": "5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Sverige",
+    "price": "159,00",
+    "product_description": "Kycklinglårfilé från Kronfågel är en saftig kycklingdel utan skinn och ben. Den passar utmärkt i wokpannan eller i ugnen, fylld med örter och ost. Kycklinglårfilén kan även grillas eller stekas i skivor. Servera gärna med ris, grillade grönsaker och en god örtsås. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Sverige-100688034_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "8.5 gram",
+      "varav mättat fett": "2.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "20 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Ätklar Taco Kyckling Skivad",
+    "price": "46,95",
+    "product_description": "Kycklingbröstfilé, potatismjöl, salt med mindre natrium, paprika, lök, spiskummin, socker, oregano, chilipeppar, vitlök, koriander, cayennepeppar, svartpeppar, salt, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262, E330), kryddextrakt (paprika), antioxidationsmedel (E301), arom. Till 100g färdig kyckling har använts 108g kyckling.",
+    "url": "https://www.hemkop.se/produkt/atklar-Taco-Kyckling-Skivad-101776556_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "3.1 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "20 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Sverige",
+    "price": "195,00",
+    "product_description": "Kycklinglårfilé från Kronfågel är en saftig kycklingdel utan skinn och ben. Den passar utmärkt i wokpannan eller i ugnen, fylld med örter och ost. Kycklinglårfilén kan även grillas eller stekas i skivor. Servera gärna med ris, grillade grönsaker och en god örtsås. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Sverige-100688141_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "8.5 gram",
+      "varav mättat fett": "2.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "20 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Minutbitar Kyckling",
+    "price": "91,00",
+    "product_description": "Tärnad kycklingbröstfilé. Kycklingbrösten är filéade med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+    "url": "https://www.hemkop.se/produkt/Minutbitar-Kyckling-101599329_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Gårdskyckling",
+    "price": "66,95",
+    "product_description": "Hel Gårdskyckling från Kronfågel har en härlig smak, ett populärt val till grytor och annan basmat. Kycklingen levereras utan inkråm. Den är luftkyld vilket ger en förhöjd smakupplevelse i varje rätt. Gårdskyckling kan stekas hel eller i halvor och serveras med valfria tillbehör. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Gardskyckling-101692755_KG",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "11 gram",
+      "varav mättat fett": "3.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingmage Sverige",
+    "price": "29,95",
+    "product_description": "Kycklingmage från Kronfågel passar utmärkt att steka till en snabblagad och het pytt i panna. Gärna stekt med lök till krispig konsistens för bästa smak. Kycklingmage är en smakrik del av kycklingen som passar till lunch och middag alla dagar i veckan. 100 % svensk kyckling omsorgsfullt uppfödd på våra svenska gårdar, vilket innebär god djurhållning, högsta kvalitet och hälsosam, klimatsmart mat på tallriken.",
+    "url": "https://www.hemkop.se/produkt/Kycklingmage-Sverige-100769492_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "17 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Ceasar Ätklar Kyckling Skivad",
+    "price": "64,95",
+    "product_description": "Stekt och skivad kyckling Caesar från Kronfågel är en av våra goda vardagsfavoriter. En stekt och skivad kycklingfilé färdig att äta, perfekt kryddad för en snabb och härligt god Caesarsallad till lunch, middag eller picknick. Kycklingfilé Caesar kan serveras kall eller varm, enkel att servera familjen eller större sällskap. Alltid svensk kyckling för en godare måltid",
+    "url": "https://www.hemkop.se/produkt/Ceasar-atklar-Kyckling-Skivad-101692773_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "1.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Ätklar Bbq Kyckling Skivad",
+    "price": "46,95",
+    "product_description": "Ätklar kyckling i bitar med BBQ smak från Kronfågel är en av våra goda vardagsfavoriter. En stekt kycklingfilé i bitar färdig att äta, smakfullt grillkryddad för att snabbt kunna serveras i härligt goda wraps, röror eller som topping på pizza. Kycklingfilén kan serveras kall eller varm, enkel att servera till familjen eller större sällskap. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/atklar-Bbq-Kyckling-Skivad-101776555_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Kycklinglever Sverige",
+    "price": "29,95",
+    "product_description": "Kycklinglever från Kronfågel har en mild fin smak. Den passar utmärkt som bas i pastejer, patéer och i grytor med bacon och svamp. Kycklinglever kan även stekas samt serveras varm eller ljummen med fransk senapssås och ris eller i en fräsch sallad. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglever-Sverige-100291499_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "2.5 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "16 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Ätklar Classic Kyckling Skivad",
+    "price": "46,95",
+    "product_description": "Stekt och skivad kyckling Classic från Kronfågel är en av våra goda vardagsfavoriter. En kycklingfilé färdig att äta, milt kryddad för att passa i rätter av många olika slag, till lunch, middag eller en festmåltid. Stekt och skivad kycklingfilé Classic med naturell smak kan serveras kall eller varm, enkel att servera familjen eller större sällskap. 100 % svensk kyckling omsorgsfullt uppfödd på våra svenska gårdar, vilket innebär god djurhållning, högsta kvalitet och hälsosam, klimatsmart mat på tallriken",
+    "url": "https://www.hemkop.se/produkt/atklar-Classic-Kyckling-Skivad-101776543_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "21 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Minutstrimlor Kycklingfilé",
+    "price": "91,00",
+    "product_description": "Strimlad kycklingbröstfilé. Kycklingbrösten är filéade med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+    "url": "https://www.hemkop.se/produkt/Minutstrimlor-Kycklingfile-101599330_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklinghjärta Sverige",
+    "price": "29,95",
+    "product_description": "Kycklinghjärtan från Kronfågel passar utmärkt till mustiga grytor med äpple, rödlök, grädde och potatispuré. De är även en god bas i en pastasås. Kycklinghjärta är en smakrik del av kycklingen som passar till lunch och middag alla dagar i veckan. Alltid svensk kyckling för en godare måltid",
+    "url": "https://www.hemkop.se/produkt/Kycklinghjarta-Sverige-100769483_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "3.9 gram",
+      "varav mättat fett": "1.3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "17 gram",
+      "salt": "0.3 gram"
+    }
+  },
+  {
+    "title": "Kycklingsteak Ranch",
+    "price": "115,00",
+    "product_description": "Urbenad kycklingklubba 93%, vatten, salt med mindre natrium, paprika, tomat, lök, socker, vitlök, surhetsreglerande medel (E270, E330), kryddextrakt (paprika), salt, arom.",
+    "url": "https://www.hemkop.se/produkt/Kycklingsteak-Ranch-101511214_KG",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "3.4 gram",
+      "kolhydrat": "1.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "16 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Ätklar Caesar Kyckling",
+    "price": "46,95",
+    "product_description": "Stekt och skivad kyckling Caesar från Kronfågel är en av våra goda vardagsfavoriter. En stekt och skivad kycklingfilé färdig att äta, perfekt kryddad för en snabb och härligt god Caesarsallad till lunch, middag eller picknick. Kycklingfilé Caesar kan serveras kall eller varm, enkel att servera familjen eller större sällskap. Alltid svensk kyckling för en godare måltid",
+    "url": "https://www.hemkop.se/produkt/atklar-Caesar-Kyckling-101776553_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "1.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Innerfilé Kyckling Små Fina",
+    "price": "91,00",
+    "product_description": "Kycklinginnerfilé. Kycklinginnerfilén är filéad med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+    "url": "https://www.hemkop.se/produkt/Innerfile-Kyckling-Sma-Fina-101599331_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Sverige",
+    "price": "72,95",
+    "product_description": "Kycklingben från Kronfågel är barnens favorit. Smakrika och saftiga passar de utmärkt till middag, på en buffé eller picknick. Kycklingen är perfekt att grilla eller steka för att sedan njutas med valfria grönsaker och tillbehör. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Sverige-101230833_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9.5 gram",
+      "varav mättat fett": "2.8 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Minutfilé Kyckling",
+    "price": "91,00",
+    "product_description": "Utbankad kycklingbröstfilé. Kycklingbrösten är filéade med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+    "url": "https://www.hemkop.se/produkt/Minutfile-Kyckling-101599328_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Sverige",
+    "price": "215,00",
+    "product_description": "Kycklingfilé från Kronfågel är den ädlaste delen på kycklingen. Med sin milda smak lämpar den sig för att marineras och kryddas i det oändliga. Kycklingfilén kan stekas i panna eller ugn. Servera gärna med potatisgratäng, pasta eller en fräsch sallad. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Sverige-100688150_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Soltorkad Tomat Ätklart Kyckling Skivad",
+    "price": "64,95",
+    "product_description": "Kycklingbröstfilé, potatismjöl, salt, tomat, vitlök, chili, basilika, oregano, mejram, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262), antioxidationsmedel (E301), arom. Till 100g färdig kyckling har använts 110g kyckling.",
+    "url": "https://www.hemkop.se/produkt/Soltorkad-Tomat-atklart-Kyckling-Skivad-101692775_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "20 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Chicken Nuggets Crispy Frysta",
+    "price": "44,95",
+    "product_description": "Kycklingkött (56%), rismjöl, majsmjöl, vatten, potatisstärkelse, modifierad majsstärkelse, salt, solrosolja, druvsocker, kryddor och kryddextrakt (lök, vitlök, svartpeppar), bakpulver (E450, E500), kycklingbuljong, arom, stabiliseringsmedel (E415), färgämne (E160c). Produkten är friterad i rapsolja.",
+    "url": "https://www.hemkop.se/produkt/Chicken-Nuggets-Crispy-Frysta-101288581_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "18 gram",
+      "kolhydrat": "17 gram",
+      "protein": "12 gram",
+      "salt": "1.4 gram",
+      "varav mättat fett": "4.2 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Drumsticks Chicken Bbq Fryst",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Kycklingben, druvsocker, kryddor och kryddextrakter (cayenne, chili, basilika, gurkmeja, oregano, paprika, persilja, peppar, libbsticka, rosmarin, spiskummin, vitlök), rapsolja, salt, lök, tomat, kycklingbuljong, glukossirap, citronpulver, naturlig arom, surhetsreglerande medel citronsyra Till 100 g produkt har använts 120 g kycklingben",
+    "url": "https://www.hemkop.se/produkt/Drumsticks-Chicken-Bbq-Fryst-100370518_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "21 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Kycklingspett Grillade Fryst",
+    "price": "245,00",
+    "product_description": "Kycklinglårfilé, salt, kryddor (cayenne, koriander, ingefära, paprika, peppar, spiskummin, vitlök), lök, kycklingbuljong. Till 100 g produkt har använts 105 g kycklinglårfilé.",
+    "url": "https://www.hemkop.se/produkt/Kycklingspett-Grillade-Fryst-101085898_ST",
+    "nutrition": {
+      "energi": "170 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Drumsticks Chicken Bbq Fryst",
+    "price": "159,00",
+    "product_description": "INGREDIENSER: Kycklingben, druvsocker, kryddor och kryddextrakter (cayenne, chili, basilika, gurkmeja, oregano, paprika, persilja, peppar, libbsticka, rosmarin, spiskummin, vitlök), rapsolja, salt, lök, tomat, kycklingbuljong, glukossirap, citronpulver, naturlig arom, surhetsreglerande medel citronsyra Till 100g produkt har använts 120g kycklingben.",
+    "url": "https://www.hemkop.se/produkt/Drumsticks-Chicken-Bbq-Fryst-100037835_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "21 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Chicken Drumsticks Grillade Frysta",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Kycklingben, salt, kryddor och kryddextrakter (cayenne, koriander, ingefära, paprika, peppar, spiskummin, vitlök), rapsolja, lök, kycklingbuljong, socker, glukossirap, jästextrakt. Till 100g produkt har använts 120g kycklingben",
+    "url": "https://www.hemkop.se/produkt/Chicken-Drumsticks-Grillade-Frysta-100970013_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "21 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Chicken Kebab Fryst",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Maskinurbenat kycklingkött (90%), vatten, ströbröd (VETEMJÖL, salt), lök, grön paprika, salt, gelatin av nöt, kryddor och kryddextrakter (chili, koriander, oregano, paprika, peppar, rosmarin, spiskummin, gurkmeja, vitlök), druvsocker, antioxidationsmedel citronsyra Produkten är friterad i rapsolja.",
+    "url": "https://www.hemkop.se/produkt/Chicken-Kebab-Fryst-100630658_ST",
+    "nutrition": {
+      "energi": "950 kilojoule",
+      "fett": "18 gram",
+      "kolhydrat": "3 gram",
+      "protein": "14 gram",
+      "salt": "1.4 gram",
+      "varav mättat fett": "6 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Sallads Kyckling",
+    "price": "99,00",
+    "product_description": "INGREDIENSER: Kyckling, salt, paprikapulver, socker, lök, rosmarin, svartpeppar, vitlök, spiskummin, paprikaextrakt, potatisstärkelse, glukossirap, stabiliseringsmedel (E451, E450), antioxidationsmedel (E301). Till 100 g produkt har använts 100 g kyckling (bröst- och lårfilé)",
+    "url": "https://www.hemkop.se/produkt/Sallads-Kyckling-101547203_ST",
+    "nutrition": {
+      "energi": "150 kilokalori",
+      "fett": "4 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "1.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Buffalo Wings Frysta",
+    "price": "159,00",
+    "product_description": "Kycklingvingar, kryddor (cayenne, chili, gurkmeja, ingefära, koriander, oregano, paprika, peppar, spiskummin, vitlök), salt, druvsocker, lök, jästextrakt, surhetsreglerande medel citronsyra. Till 100 g produkt har använts 140 g kycklingvingar.",
+    "url": "https://www.hemkop.se/produkt/Buffalo-Wings-Frysta-100037808_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "15 gram",
+      "varav mättat fett": "5 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "21 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Kycklinggyros Fryst",
+    "price": "99,00",
+    "product_description": "Kycklinglårfilé,salt, kryddor (chili, koriander, oregano, paprika, peppar,spiskummin, vitlök), lök, jästextrakt, modifierad stärkelse, rosmarinextrakt, druvsocker, surhetsreglerande medel (citronsyra, natriumaskorbat) Till 100 g produkt har använts 100g kycklinglårfilé.",
+    "url": "https://www.hemkop.se/produkt/Kycklinggyros-Fryst-101237385_ST",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "1.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Chicken Nuggets Frysta",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Kycklingkött (56%), VETEMJÖL, vatten, stärkelse (potatis, VETE), salt, VETEGLUTEN, kryddor och kryddextrakter (lök, vitlök, svartpeppar, paprika, gurkmeja, SELLERI), jäst, kycklingbuljong, arom. Produkten är friterad i rapsolja.",
+    "url": "https://www.hemkop.se/produkt/Chicken-Nuggets-Frysta-100630621_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6 gram",
+      "kolhydrat": "14 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "12 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Buffalo Wings Grillade Frysta",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Kycklingvingar (delade), salt, druvsocker, paprikapulver, svartpeppar, lök, chilipulver (chilipeppar, spiskummin, salt, vitlök, oregano), cayennepeppar, vitlök, surhetsreglerande medel (citronsyra), koriander, naturliga aromer, ingefära, gurkmeja. Till 100 g produkt har använts 140 g kycklingvingar",
+    "url": "https://www.hemkop.se/produkt/Buffalo-Wings-Grillade-Frysta-100619298_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "15 gram",
+      "varav mättat fett": "5 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "21 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Tacokyckling Fryst",
+    "price": "99,00",
+    "product_description": "INGREDIENSER: Kycklinglårfilé, druvsocker, salt, lök, spiskummin, chilipulver (chilipeppar, salt, spiskummin, vitlök, oregano), potatisstärkelse, vitlök, potatisfiber, kycklingbuljong, oregano, arom, surhetsreglerande medel (citronsyra), koriander, kryddextrakt (paprika, svartpeppar) Till 100 g produkt har använts 100 g kycklinglårfilé.",
+    "url": "https://www.hemkop.se/produkt/Tacokyckling-Fryst-101178120_ST",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.3 gram",
+      "kolhydrat": "3.5 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "19 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Chicken Rings Frysta",
+    "price": "44,95",
+    "product_description": "Kycklingkött (56%), VETEMJÖL, vatten, stärkelse (potatis, VETE), salt, VETEGLUTEN, kryddor och kryddextrakter (lök, vitlök, svartpeppar, paprika, gurkmeja, SELLERI), jäst, kycklingbuljong, druvsocker, arom. Produkten är friterad i rapsolja.",
+    "url": "https://www.hemkop.se/produkt/Chicken-Rings-Frysta-101288535_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6 gram",
+      "kolhydrat": "14 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "12 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Kycklingbröst Filé Svensk",
+    "price": "369,00",
+    "product_description": "100% SVENSK EKOLOGISK KYCKLING",
+    "url": "https://www.hemkop.se/produkt/Kycklingbrost-File-Svensk-101240523_KG",
+    "nutrition": {
+      "energi": "151 kilokalori",
+      "fett": "6.37 gram",
+      "varav mättat fett": "1.49 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "23.2 gram",
+      "salt": "0.09 gram"
+    }
+  },
+  {
+    "title": "Kyckling Hel Färsk Svensk",
+    "price": "179,00",
+    "product_description": "100% SVENSK EKOLOGISK KYCKLING",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Hel-Farsk-Svensk-101240447_KG",
+    "nutrition": {
+      "energi": "193 kilokalori",
+      "fett": "13.1 gram",
+      "varav mättat fett": "2.91 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "18.9 gram",
+      "salt": "0.18 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Sverige",
+    "price": "97,00",
+    "product_description": "Mörad kyckling lårfilé. Svensk fågel. 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Sverige-101286406_ST",
+    "nutrition": {
+      "energi": "140 kilokalori",
+      "fett": "8.1 gram",
+      "varav mättat fett": "2.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "17 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "97,00",
+    "product_description": "Kyckling mörad bröstfilé. Svensk fågel. 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101223961_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "21 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Crispy Kycklingburgare Fryst",
+    "price": "67,95",
+    "product_description": "MAX Crispy kycklingburgare av kycklingfilé från Kronfågel är krispigt panerade kycklingburgare som tillfredsställer alla smaker. Servera med valfria såser och goda tillbehör. Kycklingburgarna är färdiglagade och kan stekas, grillas eller tillagas i varmluftsugn direkt från frysen. MAX rekommenderar grillning. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Crispy-Kycklingburgare-Fryst-101226390_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "9.4 gram",
+      "varav mättat fett": "1.2 gram",
+      "kolhydrat": "14 gram",
+      "varav sockerarter": "1.2 gram",
+      "fiber": "1.6 gram",
+      "protein": "13 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Delifresh Kycklingburgare Frysta",
+    "price": "67,95",
+    "product_description": "MAX kycklingburgare av kycklinglårfilé från Kronfågel är goda, grillade kycklingburgare som passar perfekt i ett fluffigt hamburgerbröd eller till en fräsch sallad. Servera med valfria såser och goda tillbehör. Kycklingburgarna är färdiglagade och kan stekas, grillas eller tillagas i varmluftsugn direkt från frysen. MAX rekommenderar grillning. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Delifresh-Kycklingburgare-Frysta-101226416_ST",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "7.8 gram",
+      "varav mättat fett": "2.2 gram",
+      "kolhydrat": "2.9 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "1 gram",
+      "protein": "19 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Kycklingpinnar Frysta",
+    "price": "52,95",
+    "product_description": "Kycklingpinnar från Kronfågel är en av våra vardagsfavoriter för hela familjen. Med en härligt frasig panering och klassisk smak passar de utmärkt som förrätt, drinktilltugg eller på en fräsch buffé. Kycklingpinnarna av 100 % svensk Gårdskyckling kan tas direkt från frysen och stekas krispiga. Servera med valfria såser samt goda tillbehör. 100 % svensk kyckling omsorgsfullt uppfödd på våra svenska gårdar, vilket innebär god djurhållning, högsta kvalitet och hälsosam, klimatsmart mat på tallriken.",
+    "url": "https://www.hemkop.se/produkt/Kycklingpinnar-Frysta-101246554_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "1.6 gram",
+      "kolhydrat": "19 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "12 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Nuggets Kyckling Frysta",
+    "price": "79,95",
+    "product_description": "Våra underbart goda svenska Chicken Nuggets Crispy är en storfavorit hos både vuxna och barn. Det som gör denna kycklingnugget unik är paneringen som blir perfekt krispig efter tillagning. Tillagas i ugn, fritös eller airfryer. Variera i en caesarsallad, en wrap eller på en nachotallrik. En riktigt bra kycklingnugget som passar med alla tillbehör.",
+    "url": "https://www.hemkop.se/produkt/Nuggets-Kyckling-Frysta-101325718_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "14 gram",
+      "kolhydrat": "17 gram",
+      "protein": "12 gram",
+      "salt": "1.5 gram",
+      "varav mättat fett": "2 gram",
+      "varav sockerarter": "1.3 gram"
+    }
+  },
+  {
+    "title": "Nuggets Kyckling Frysta",
+    "price": "67,95",
+    "product_description": "MAX kycklingnuggets av kycklingfilé från Kronfågel är en frasig och krispig smakupplevelse, framförallt barnens favorit. Våra panerade kycklingnuggets är färdiglagade och kan stekas eller friteras direkt från frysen för att njutas med valfria såser och tillbehör. MAX rekommenderar fritering. Alltid svensk kyckling för en godare måltid.",
+    "url": "https://www.hemkop.se/produkt/Nuggets-Kyckling-Frysta-101226447_ST",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "8.3 gram",
+      "varav mättat fett": "1.2 gram",
+      "kolhydrat": "14 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "13 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Kycklinginnerf Grillad Bbq Smak Sverige",
+    "price": "47,95",
+    "product_description": "Kycklinginnerfilé, druvsocker, kryddor och kryddextrakter (cayenne, chili, basilika, gurkmeja, lagerblad, libbsticka, muskotnöt, oregano, paprika, peppar, persilja, rosmarin, spiskummin, vitlök), salt, rapsolja, lök, tomat, vinäger, kycklingbuljong, glukossirap, stabiliseringsmedel (E451, E450), naturlig arom, antioxidationsmedel (E301). Till 100 g produkt har använts 100 g kycklinginnerfilé",
+    "url": "https://www.hemkop.se/produkt/Kycklinginnerf-Grillad-Bbq-Smak-Sverige-101270073_ST",
+    "nutrition": {
+      "energi": "140 kilokalori",
+      "fett": "4 gram",
+      "varav mättat fett": "1.3 gram",
+      "kolhydrat": "4 gram",
+      "varav sockerarter": "2 gram",
+      "protein": "21 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "175,00",
+    "product_description": "Kycklingbröstfilé (100%)",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101053976_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "96,00",
+    "product_description": "INGREDIENSER: Kycklingbröstfilé(84%), vatten, salt, lök, socker, vitlök, naturliga aromer, citronjuicepulver, persilja, chili, rapsolja, vitvinsvinägerextrakt, kryddextrakter",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101424101_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3.3 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "1.6 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "19 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Kycklingbröst Strimlat Marinerat Korean",
+    "price": "96,00",
+    "product_description": "INGREDIENSER: Kycklingbröstfilé (84%), vatten, salt, socker, paprikabitar (röd), lök, paprikapulver, vitlök, chili (Guajillo), korianderblad, naturliga aromer, cayennepeppar, citronjuicepulver, rapsolja, vitvinsvinägerextrakt, kryddextrakt",
+    "url": "https://www.hemkop.se/produkt/Kycklingbrost-Strimlat-Marinerat-Korean-101776097_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3.4 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "2.4 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "19 gram",
+      "salt": "1.6 gram"
+    }
+  },
+  {
+    "title": "Chicken Nugget Lagat & Klart Sverige",
+    "price": "39,95",
+    "product_description": "Kycklingkött (56%),VETEMJÖL, vatten, stärkelse (potatis,VETE), salt, kryddor och kryddextrakter (lök, vitlök, svartpeppar, paprika, gurkmeja, SELLERI), jäst, kycklingbuljong, (salt, rosmarinextrakt), druvsocker, arom och rapsolja till fritering.",
+    "url": "https://www.hemkop.se/produkt/Chicken-Nugget-Lagat-och-Klart-Sverige-101378590_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6 gram",
+      "kolhydrat": "14 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "12 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Kyckling Grillad Tärnad Sverige",
+    "price": "47,95",
+    "product_description": "INGREDIENSER: Kyckling, salt, paprika, socker, lök, rosmarin, svartpeppar, vitlök, spiskummin, potatisstärkelse, glukossirap, vinäger, stabiliseringsmedel (E451, E450), kryddextrakt, paprikaextrakt, antioxidationsmedel (E301). Till 100 g produkt har använts 100 g kyckling (bröst- och lårfilé)",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Grillad-Tarnad-Sverige-101256437_ST",
+    "nutrition": {
+      "energi": "150 kilokalori",
+      "fett": "4 gram",
+      "varav mättat fett": "1.3 gram",
+      "kolhydrat": "2.4 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Lårfilé Sverige",
+    "price": "175,00",
+    "product_description": "Majskycklinglårfilé (100 %)",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Larfile-Sverige-101246075_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Tunnskivad Sverige",
+    "price": "175,00",
+    "product_description": "Kycklingbröstfilé (100%)",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Tunnskivad-Sverige-101253206_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Panaeng Red Curry Sverige",
+    "price": "96,00",
+    "product_description": "Kycklingbröstfilé (81%), vatten, rapsolja, socker, kryddor och kryddextrakter (cayennepeppar, ingefära, kafir lime, korianderblad, paprika, vitlök), vinäger, salt, citronpulver. Kycklingbrösten är filéade med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Panaeng-Red-Curry-Sverige-101211660_ST",
+    "nutrition": {
+      "energi": "125 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "2 gram",
+      "protein": "20 gram",
+      "salt": "1.5 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Tvådelad Sverige",
+    "price": "175,00",
+    "product_description": "Kycklingbröstfilé (100%)",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Tvadelad-Sverige-101253207_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Innerfilé Sverige",
+    "price": "125,00",
+    "product_description": "Majskycklinginnerfilé (100 %)",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Innerfile-Sverige-101347826_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Köttbullar Kalkon Små Frysta",
+    "price": "61,95",
+    "product_description": "Ingredienser: Kalkonkött (70%), vatten, kalkonfett, potatisstärkelse, lök, potatisgrits, druvsocker(majs), potatisfiber, vegetabilisk buljong, salt, svartpeppar. Stekta i rapsolja.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-Kalkon-Sma-Frysta-101256169_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "17 gram",
+      "varav mättat fett": "5 gram",
+      "kolhydrat": "11 gram",
+      "varav sockerarter": "2.3 gram",
+      "protein": "14 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Kalkonfärs Fryst Fryst",
+    "price": "61,95",
+    "product_description": "Ingredienser: Kalkonkött (100%).",
+    "url": "https://www.hemkop.se/produkt/Kalkonfars-Fryst-Fryst-101240919_ST",
+    "nutrition": {
+      "energi": "170 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "20 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Innerfilé Fryst",
+    "price": "71,95",
+    "product_description": "Mörad kycklinginnerfilé från Kronfågel är den möraste delen på kycklingen. Med sin rika smak passar den perfekt i wokpannan. Kycklinginnerfilén tinas i kylskåp 6-7 timmar innan tillagning. Servera gärna med goda grönsaker och varierande tillbehör. 100 % svensk kyckling omsorgsfullt uppfödd på våra svenska gårdar, vilket innebär god djurhållning, högsta kvalitet och hälsosam, klimatsmart mat på tallriken.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Innerfile-Fryst-100941493_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "20 gram",
+      "salt": "0.6 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Fryst",
+    "price": "109,00",
+    "product_description": "Kycklingbröstfilé 87%, vatten, salt.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Fryst-100323865_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "1 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kycklingbröst Filé Import",
+    "price": "49,95",
+    "product_description": "Ingredienser: Kycklingbröstfilé 100%. Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kycklingbrost-File-Import-101268888_ST",
+    "nutrition": {
+      "energi": "103 kilokalori",
+      "fett": "1.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "22 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Kyckling Innerfilé Import",
+    "price": "49,95",
+    "product_description": "Ingredienser: Kycklinginnerfilé 100%, Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Innerfile-Import-101268889_ST",
+    "nutrition": {
+      "energi": "103 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "23 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Kycklingvingar Import",
+    "price": "35,95",
+    "product_description": "Ingredienser: Kycklingvingar 3-delad, Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kycklingvingar-Import-101268857_ST",
+    "nutrition": {
+      "energi": "157 kilokalori",
+      "fett": "9.4 gram",
+      "varav mättat fett": "2.8 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Import",
+    "price": "49,95",
+    "product_description": "Ingredienser: Kycklinglårfilé 100%, Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Import-101268890_ST",
+    "nutrition": {
+      "energi": "153 kilokalori",
+      "fett": "9.2 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Kycklingklubba Import",
+    "price": "35,95",
+    "product_description": "Ingredienser: Kycklingklubba, Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kycklingklubba-Import-101268855_ST",
+    "nutrition": {
+      "energi": "169 kilokalori",
+      "fett": "11 gram",
+      "varav mättat fett": "3.1 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Import",
+    "price": "35,95",
+    "product_description": "Ingredienser: Kycklingben, Klass A.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Import-101268856_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "1.3 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Buffalo Wings Grillkryddad/sverige",
+    "price": "52,95",
+    "product_description": "Grillkryddade vingar med paprika, örter och spiskummin (Klassisk grillkrydda)",
+    "url": "https://www.hemkop.se/produkt/Buffalo-Wings-Grillkryddad-sverige-101466894_KG",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "3.7 gram",
+      "kolhydrat": "1.8 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "19 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "115,00",
+    "product_description": "Lönneberga kycklingfilé är favoriten till vardag likväl som fest. Perfekt att tillaga i både panna och ugn eller grilla.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101336106_ST",
+    "nutrition": {
+      "energi": "105 kilokalori",
+      "fett": "1.2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Tunna Skivor",
+    "price": "105,00",
+    "product_description": "Lönneberga Tunna filéer, 100% kötthaltet. 5 skivor per förpackningen, ca 1cm tunn.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Tunna-Skivor-101511200_ST",
+    "nutrition": {
+      "energi": "105 kilokalori",
+      "fett": "1.2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Sverige",
+    "price": "109,00",
+    "product_description": "Lårfilé - den saftiga och härligt smakrika styckdetaljen! Den har ett något mörkare kött och fin textur. Perfekt att grilla, ugnssteka och alldeles utmärkt till gryta.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Sverige-101336108_ST",
+    "nutrition": {
+      "energi": "134 kilokalori",
+      "fett": "6.4 gram",
+      "varav mättat fett": "1.6 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Sverige",
+    "price": "45,95",
+    "product_description": "Lönnebergas färska och fantastiskt goda kycklingben,en riktigt sommarklassiker som inslag på picknicken eller varför inte grilla i ugn med en god glaze, hela familjens favorit.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Sverige-101356289_ST",
+    "nutrition": {
+      "energi": "118 kilokalori",
+      "fett": "5.5 gram",
+      "varav mättat fett": "1.4 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.25 gram"
+    }
+  },
+  {
+    "title": "Lårfilè Majskyckling",
+    "price": "95,00",
+    "product_description": "100% kyckling (klass A)",
+    "url": "https://www.hemkop.se/produkt/Larfile-Majskyckling-101776157_ST",
+    "nutrition": {
+      "energi": "135 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.19 gram"
+    }
+  },
+  {
+    "title": "Bröstfilè Majskyckling",
+    "price": "95,00",
+    "product_description": "100% kyckling (klass A)",
+    "url": "https://www.hemkop.se/produkt/Brostfile-Majskyckling-101776155_ST",
+    "nutrition": {
+      "energi": "114 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "24 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Tunnskivad Kalkonbröstfilé",
+    "price": "95,00",
+    "product_description": "Ingredienser: Kalkonbröstfilé (100%)",
+    "url": "https://www.hemkop.se/produkt/Tunnskivad-Kalkonbrostfile-101599277_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.3 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22.7 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kalkonbröstfil",
+    "price": "95,00",
+    "product_description": "Ingredienser: Kalkonbröstfilé (100%).",
+    "url": "https://www.hemkop.se/produkt/Kalkonbrostfil-101547284_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.3 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kalkonbröst Sverige",
+    "price": "209,00",
+    "product_description": "Ingrediensförteckning: Kalkonbröst med skinn 100%.",
+    "url": "https://www.hemkop.se/produkt/Kalkonbrost-Sverige-101382526_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3.4 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "1.4 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "0.2 gram"
+    }
+  }
+]
