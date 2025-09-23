@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Tomater Babyplommon Kvist Klass 1",
+    "price": "39,95",
+    "product_description": "Babyplommon är en mindre, ovalformad tomat där kvisten sitter kvar vilket ger dem en sötare smak och en fin doft. Skölj och ha i salladen.",
+    "url": "https://www.hemkop.se/produkt/Tomater-Babyplommon-Kvist-Klass-1-100819660_ST"
+  },
+  {
+    "title": "Pumpa Butternut",
+    "price": "29,95",
+    "product_description": "Butternutpumpan ser ut som en jättejordnöt och innehåller inte särskilt mycket kärnor, vilket gör den tacksam att arbeta med. Fruktköttet är hårt och orange, och har en krämig smak. Passar bra till grytor, soppor och bakning.",
+    "url": "https://www.hemkop.se/produkt/Pumpa-Butternut-100474513_KG"
+  },
+  {
+    "title": "Majskolv",
+    "price": "17,95",
+    "product_description": "Den färska majskolven har en söt smak. Koka majskolven i 15-20 minuter och lägg sedan på grillen tills de blivit varma runtom och fått en fin färg. Ät sedan med smör och salt!",
+    "url": "https://www.hemkop.se/produkt/Majskolv-100205010_ST"
+  },
+  {
+    "title": "Babyspenat Ekologisk Klass 1",
+    "price": "17,95",
+    "product_description": "Ekologiskt odlad småbladsspenat som är färdigsköljd, och bör därmed inte sköljas innan servering.",
+    "url": "https://www.hemkop.se/produkt/Babyspenat-Ekologisk-Klass-1-101240156_ST"
+  },
+  {
+    "title": "Ruccola Ekologisk Klass 1",
+    "price": "17,95",
+    "product_description": "Vår ekologiska ruccola, eller senapskål som det också kallas, är en småbladssallad som har intensiv pepprig smak, liknande rädisa. Ruccola används ofta i blandade sallader, men även till pastarätter eller på pizza.",
+    "url": "https://www.hemkop.se/produkt/Ruccola-Ekologisk-Klass-1-101232114_ST"
+  },
+  {
+    "title": "Mache Sallad Eko Klass 1",
+    "price": "17,95",
+    "product_description": "Machesallad",
+    "url": "https://www.hemkop.se/produkt/Mache-Sallad-Eko-Klass-1-101265682_ST"
+  },
+  {
+    "title": "Småbladsmix Ruccola Röd/grön Klass 1",
+    "price": "17,95",
+    "product_description": "Rucola 30%, Röd batavia 25%, grön batavia 25%, Babyspenat 20%",
+    "url": "https://www.hemkop.se/produkt/Smabladsmix-Ruccola-Rod-gron-Klass-1-101281471_ST"
+  },
+  {
+    "title": "Tomat Cockt Eko Klass 1",
+    "price": "24,95",
+    "product_description": "Cocktailtomater är en mindre och krispig tomat med sötare smak. Skölj och ät som de är eller som tillbehör till maten.",
+    "url": "https://www.hemkop.se/produkt/Tomat-Cockt-Eko-Klass-1-100930094_ST"
+  },
+  {
+    "title": "Lök Vit Morado Klass 1",
+    "price": "11,95",
+    "product_description": "Morado vitlöken är en extra kryddig och smakrik vitlök. Ofta med lite större klyftor",
+    "url": "https://www.hemkop.se/produkt/Lok-Vit-Morado-Klass-1-101331906_ST"
+  },
+  {
+    "title": "Gurka Sverige Klass 1",
+    "price": "17,95",
+    "product_description": "Färsk gurka. Passar bra i salladen eller på smörgåsen.",
+    "url": "https://www.hemkop.se/produkt/Gurka-Sverige-Klass-1-100594965_ST"
+  },
+  {
+    "title": "Avokado Klass 1",
+    "price": "11,95",
+    "product_description": "Avocado är en frukt med en tydlig kärna i mitten. Köttet är ljusgult och skalet kan variera från ljusgrönt till mörkgrönt, nästan svart. Avocado passar till förrätter, sallader och som ingrediens i Guacamole.",
+    "url": "https://www.hemkop.se/produkt/Avokado-Klass-1-100151933_ST"
+  },
+  {
+    "title": "Spetspaprika Röd Klass 1",
+    "price": "15,00",
+    "product_description": "Spetspaprikan är extra kristpig och söt. Den är mer avlång än vanlig paprika och passar utmärkt att äta som den är, eller att använda i matlagning.",
+    "url": "https://www.hemkop.se/produkt/Spetspaprika-Rod-Klass-1-100816306_ST"
+  },
+  {
+    "title": "Lök Gul Klass 1",
+    "price": "8,00",
+    "product_description": "Gul lök är en bra smaksättare. Passar bra både som kall och varm i matlagning.",
+    "url": "https://www.hemkop.se/produkt/Lok-Gul-Klass-1-100269139_KG"
+  },
+  {
+    "title": "Lök Röd Klass 1",
+    "price": "20,95",
+    "product_description": "Rödlök är nära släkt med gul lök, med ett vinrött skal och vitt fruktkött med röd markering. Den är starkt förknippad med sillinläggningar, men kan användas som gul lök i de flesta sammanhang. Rå rödlök har skarp smak, men är mildare än gul lök.",
+    "url": "https://www.hemkop.se/produkt/Lok-Rod-Klass-1-100147967_KG"
+  },
+  {
+    "title": "Paprika Röd Klass 1",
+    "price": "42,95",
+    "product_description": "Den röda paprikan är betydligt sötare än den gröna. Den innehåller dessutom mer vitaminer och antioxidanter än den gröna. Paprika är god att äta rå i sallader och som garnering, men är också god att steka, stuva eller gratinera t.ex. med fyllning. Paprika passar även utmärkt i grytor, gratänger och pajer.",
+    "url": "https://www.hemkop.se/produkt/Paprika-Rod-Klass-1-100149359_KG"
+  },
+  {
+    "title": "Kvisttomat Import Klass 1",
+    "price": "34,95",
+    "product_description": "100152282_KG",
+    "url": "https://www.hemkop.se/produkt/Kvisttomat-Import-Klass-1-100152282_KG"
+  },
+  {
+    "title": "Småbladsmix Ruccola Röd/grön Klass 1",
+    "price": "29,95",
+    "product_description": "Rucola 30%, röd batavia 25%, grön batavia 25%, Babyspenat 20%",
+    "url": "https://www.hemkop.se/produkt/Smabladsmix-Ruccola-Rod-gron-Klass-1-101281472_ST"
+  },
+  {
+    "title": "Babyspenat",
+    "price": "29,95",
+    "product_description": "Babyspenat 100%",
+    "url": "https://www.hemkop.se/produkt/Babyspenat-101281469_ST"
+  },
+  {
+    "title": "Tomater Kvist Sverige Klass 1",
+    "price": "34,95",
+    "product_description": "Runda tomater med kvist i förpackning. Skölj och ha i salladen eller på smörgåsen.",
+    "url": "https://www.hemkop.se/produkt/Tomater-Kvist-Sverige-Klass-1-101215340_KG"
+  },
+  {
+    "title": "Tomat Sverige Klass 1",
+    "price": "34,95",
+    "product_description": "Runda och fina tomater från Sverige. Skölj och ha i salladen eller på smörgåsen.",
+    "url": "https://www.hemkop.se/produkt/Tomat-Sverige-Klass-1-100521259_KG"
+  },
+  {
+    "title": "Paprika Gul Klass 1",
+    "price": "39,95",
+    "product_description": "Den gula paprikan är betydligt sötare än den gröna. Den innehåller dessutom mer vitaminer och antioxidanter än den gröna. Paprika är god att äta rå i sallader och som garnering, men är också god att steka, stuva eller gratinera t.ex. med fyllning. Paprika passar även utmärkt i grytor, gratänger och pajer.",
+    "url": "https://www.hemkop.se/produkt/Paprika-Gul-Klass-1-100149251_KG"
+  },
+  {
+    "title": "Tomat Klass 1",
+    "price": "34,95",
+    "product_description": "Runda och fina tomater. Skölj och ha i salladen eller på smörgåsen.",
+    "url": "https://www.hemkop.se/produkt/Tomat-Klass-1-100152264_KG"
+  },
+  {
+    "title": "Frisé Mache Klass 1",
+    "price": "21,95",
+    "product_description": "Frissé 50%, Rosé 20%,Rucola 15%, Mache 15%",
+    "url": "https://www.hemkop.se/produkt/Frise-Mache-Klass-1-101281492_ST"
+  },
+  {
+    "title": "Sallat Cosmopolitan Klass 1",
+    "price": "22,95",
+    "product_description": "Cosmopolitan sallad är en blandning mellan isberg och roman, både till smak och utseende. Skölj och skär salladen och ha i en sallad eller använd hela bladen som wraps och fyll med god fyllning.",
+    "url": "https://www.hemkop.se/produkt/Sallat-Cosmopolitan-Klass-1-101178846_ST"
+  },
+  {
+    "title": "Salladsmix Klass 1",
+    "price": "12,95",
+    "product_description": "rucola,babyspenat, röd mangold",
+    "url": "https://www.hemkop.se/produkt/Salladsmix-Klass-1-101281473_ST"
+  },
+  {
+    "title": "Böngroddar Ekologisk",
+    "price": "19,95",
+    "product_description": "Böngroddar har en mild smak. Groddarna kan ätas råa på smörgåsen eller användas som ingrediens i wokar, grytor och soppor.",
+    "url": "https://www.hemkop.se/produkt/Bongroddar-Ekologisk-101104751_ST"
+  },
+  {
+    "title": "Grönkål Eko",
+    "price": "29,95",
+    "product_description": "Grönkål har en kraftig kålsmak. Den är god i råkostsallader och kokt i soppa och stuvningar . Produkten är färdigsköljd.",
+    "url": "https://www.hemkop.se/produkt/Gronkal-Eko-101275462_ST"
+  },
+  {
+    "title": "Babyspenat Klass 1",
+    "price": "16,95",
+    "product_description": "Babyspenat 100%",
+    "url": "https://www.hemkop.se/produkt/Babyspenat-Klass-1-101281446_ST"
+  },
+  {
+    "title": "Babyspenat Klass 1",
+    "price": "19,95",
+    "product_description": "Babyspenat 100%",
+    "url": "https://www.hemkop.se/produkt/Babyspenat-Klass-1-101281488_ST"
+  },
+  {
+    "title": "Fänkål Klass 1",
+    "price": "39,95",
+    "product_description": "Fänkål kan ätas både rå och tillagad. Smaken är kryddig med mild smak av lakrits. Lakritssmaken avtar dock efter att man tillagat den. Passa bl. a bra till fisk.",
+    "url": "https://www.hemkop.se/produkt/Fankal-Klass-1-100147020_KG"
+  },
+  {
+    "title": "Isberg Frisé Klass 1",
+    "price": "24,95",
+    "product_description": "Isberg 40%,Frissé 30%, Rosé 15%, Lollo R/Ekblad 15%",
+    "url": "https://www.hemkop.se/produkt/Isberg-Frise-Klass-1-101281493_ST"
+  },
+  {
+    "title": "Aubergine Klass 1",
+    "price": "19,95",
+    "product_description": "Aubergine, eller äggplanta som den också kallas, är oftast mörkviolett. Den har blankt skal och är 15-20 cm lång. Fruktköttet är vitt. Aubergine äts alltid tillagad. Förutom i Moussaka passar Aubergine bra i grytor och gratänger",
+    "url": "https://www.hemkop.se/produkt/Aubergine-Klass-1-100773272_ST"
+  },
+  {
+    "title": "Paprika Grön Klass 1",
+    "price": "39,95",
+    "product_description": "Det finns en mängd olika färger av paprika. De vanligaste är grön, gul, orange, röd och vit. Paprikan börjar alltid som grön, men skriftar sedan färg när den senare mognar. En grön paprika är en omogen och därmed lite fastare än övriga, vilket gör att den passar extra bra i varma rätter, t.ex. chili con carne, pajer, gratänger och olika grytor.",
+    "url": "https://www.hemkop.se/produkt/Paprika-Gron-Klass-1-100149224_KG"
+  },
+  {
+    "title": "Ruccola Klass 1",
+    "price": "21,95",
+    "product_description": "Sköljd ruccola",
+    "url": "https://www.hemkop.se/produkt/Ruccola-Klass-1-101316310_ST"
+  },
+  {
+    "title": "Tomatmix Klass 1",
+    "price": "29,95",
+    "product_description": "En mix av svenska cocktailtomater. Goda att ha i salladen eller bara som de är som tillbehör till maten.",
+    "url": "https://www.hemkop.se/produkt/Tomatmix-Klass-1-101194922_ST"
+  },
+  {
+    "title": "Kronärtskocka",
+    "price": "24,95",
+    "product_description": "Kronärtskockor har en mjäll konsistens och en mild lätt sötaktig smak med nötaktig ton. Kronärtskockor äts kokta, varma eller kalla. De kokas i rikligt med saltat vatten och sedan äts den tjockare delen av blombladen (holkfjällen) och den tjocka, köttiga blombottnen. Äts med fördel ihop med rört smör, salt och ett par droppar citron.",
+    "url": "https://www.hemkop.se/produkt/Kronartskocka-101203306_ST"
+  },
+  {
+    "title": "Blandsallad Klass 1",
+    "price": "21,95",
+    "product_description": "Färdigsköljd sallad. Vitkål ,Morot , Escarolesallad",
+    "url": "https://www.hemkop.se/produkt/Blandsallad-Klass-1-101316312_ST"
+  },
+  {
+    "title": "Rödbeta Röd Mangold Klass 1",
+    "price": "21,95",
+    "product_description": "Rödbeta 25%, Mache 25%,Röd mangold 20%,Rucola 15%, röd batavia 15%",
+    "url": "https://www.hemkop.se/produkt/Rodbeta-Rod-Mangold-Klass-1-101281495_ST"
+  },
+  {
+    "title": "Gourmetsallad Klass 1",
+    "price": "21,95",
+    "product_description": "101325612_ST",
+    "url": "https://www.hemkop.se/produkt/Gourmetsallad-Klass-1-101325612_ST"
+  },
+  {
+    "title": "Sallad Nouvell Klass 1",
+    "price": "22,95",
+    "product_description": "Sallad Nouvelle påminner om romansallad, men är något mindre och har en sötare och saftigare smak.",
+    "url": "https://www.hemkop.se/produkt/Sallad-Nouvell-Klass-1-101257646_ST"
+  },
+  {
+    "title": "Kålmix Rödkål & Grönkål Klass 1",
+    "price": "24,95",
+    "product_description": "Tvättade och fint strimlad rödkål och vitkål med morot och grönkål. Färdig att äta på direkten. Rekommenderas att äta rå i exempelvis en matigare sallad eller som tillbehör. Nyckelhålet gör det enklare att välja hälsosamt. Mindre och nyttigare fett, mindre socker och salt, mer kostfiber och fullkorn!",
+    "url": "https://www.hemkop.se/produkt/Kalmix-Rodkal-och-Gronkal-Klass-1-101286113_ST"
+  },
+  {
+    "title": "Tomat San Marzano Klass 1",
+    "price": "29,95",
+    "product_description": "101285385_ST",
+    "url": "https://www.hemkop.se/produkt/Tomat-San-Marzano-Klass-1-101285385_ST"
+  },
+  {
+    "title": "Kålmix Vitkål&morot Klass 1",
+    "price": "19,95",
+    "product_description": "Tvättade och fint strimlad vitkål och morot. Färdig att ätas på direkten. Använd gärna i exempelvis en matigare sallad eller som tillbehör. Nyckelhålet gör det enklare att välja hälsosamt. Mindre och nyttigare fett, mindre socker och salt, mer kostfiber och fullkorn!",
+    "url": "https://www.hemkop.se/produkt/Kalmix-Vitkalochmorot-Klass-1-101285661_ST"
+  },
+  {
+    "title": "Frisé & Maché Klass 1",
+    "price": "17,95",
+    "product_description": "Färdigsköljd sallad. Frissé , Rosé ,Rucola , Mache",
+    "url": "https://www.hemkop.se/produkt/Frise-och-Mache-Klass-1-101316313_ST"
+  },
+  {
+    "title": "Alfalfagroddar Ekologisk",
+    "price": "19,95",
+    "product_description": "Alfafa groddar har en mild smak. Groddarna kan ätas råa på smörgåsen eller användas som ingrediens i wokar, grytor och soppor.",
+    "url": "https://www.hemkop.se/produkt/Alfalfagroddar-Ekologisk-101104733_ST"
+  },
+  {
+    "title": "Romansallad Klass 1",
+    "price": "17,95",
+    "product_description": "Romansallad svensk",
+    "url": "https://www.hemkop.se/produkt/Romansallad-Klass-1-101771311_ST"
+  },
+  {
+    "title": "Kvisttomater Eko Klass 1",
+    "price": "41,95",
+    "product_description": "Runda ekologiska tomater med kvist vilket ger dem en lite sötare smak och en fin doft. Skölj och ha i salladen eller på smörgåsen. Ett lite grönare val - vårt ekologiska frukt & grönt-sortiment är noga utvalt både för sin goda smak och miljövänliga odling.",
+    "url": "https://www.hemkop.se/produkt/Kvisttomater-Eko-Klass-1-100991072_ST"
+  }
+]

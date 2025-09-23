@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "title": "Prosciutto Crudo Skivad",
+    "price": "25,00",
+    "product_description": "Prosciutto crudo lagrad i minst 10 månader. Luftorkad skinka enligt italiensk tradition. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Crudo-Skivad-101206348_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "5.2 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.2 gram",
+      "protein": "30 gram",
+      "salt": "6.3 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "89,95",
+    "product_description": "Nötfärs från svenska gårdar. 800 gram.",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101428349_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  }
+]
