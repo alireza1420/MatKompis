@@ -5,8 +5,8 @@ const puppeteer = require('puppeteer');
 //
 // ATENTION !!!, PLEASE CHANGE THE NAME OF INPUT_OUTPUT, ACCORDING TO THE CSV FILE YOU WANT TO PARSE.
 //
-const input_output_name='hemkop_bird' // This is what you want to change !!!!
-const CSV_FILE_PATH = `./Hemkoop_links/meat/${input_output_name}.csv`; // And this
+const input_output_name='hemkop_milk' // This is what you want to change !!!!
+const CSV_FILE_PATH = `./Hemkoop_links/milk/${input_output_name}.csv`; // And this
 const OUTPUT_FILE_PATH = `${input_output_name}.json`; // Also this !!
 
 //Dont change anything after :)
@@ -42,7 +42,7 @@ async function runScraper() {
   const scrapedData = [];
 
   console.log("Launching browser...");
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true }); //set to true if you dont want your browser to be open
 
   console.log("Starting to scrape pages...");
   for (const url of urls) {
@@ -74,7 +74,7 @@ try {
   );
 
   console.log("Price:", price);
-      // Step 1: Click the correct <button> to reveal the nutrition content// 1. Click Näringsvärde tab
+      //Step 1: Click the correct <button> to reveal the nutrition content// 1. Click Näringsvärde tab
     await page.click('.hRlDxS');
 
 
