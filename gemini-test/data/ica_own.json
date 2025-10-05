@@ -1,0 +1,465 @@
+[
+  {
+    "title": "Baguette vete 125g Bonjour",
+    "price": "13,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/baguette-vete-125g-bonjour/2032442",
+    "nutrition": {
+      "energi (kcal)": "240 kcal",
+      "energi (kj)": "1028 kJ",
+      "fett": "1.2 g",
+      "varav mättat fett": "0.3 g",
+      "kolhydrat": "47 g",
+      "varav sockerarter": "0.3 g",
+      "fiber": "3.7 g",
+      "protein": "8.7 g",
+      "salt": "1.1 g"
+    }
+  },
+  {
+    "title": "Vaniljmunk 63g Familjen Dafgård",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/vaniljmunk-63g-familjen-dafg%C3%A5rd/2140863",
+    "nutrition": {
+      "energi (kcal)": "313 kcal",
+      "energi (kj)": "1302 kJ",
+      "fett": "15.5 g",
+      "varav mättat fett": "6.3 g",
+      "kolhydrat": "36.8 g",
+      "varav sockerarter": "13.3 g",
+      "fiber": "1.3 g",
+      "protein": "5.6 g",
+      "salt": "0.7 g",
+      "varav fleromättat fett": "2.6 g",
+      "varav enkelomättat fett": "6.6 g"
+    }
+  },
+  {
+    "title": "Donut Wild Fruits 70 g Dafgård",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/donut-wild-fruits-70-g-dafg%C3%A5rd/2140882",
+    "nutrition": {
+      "energi (kcal)": "405 kcal",
+      "energi (kj)": "1692 kJ",
+      "fett": "22 g",
+      "varav mättat fett": "12 g",
+      "kolhydrat": "47 g",
+      "varav sockerarter": "26 g",
+      "protein": "4.4 g",
+      "salt": "0.75 g"
+    }
+  },
+  {
+    "title": "Gourmet Tranbärsbröd 350g Bonjour",
+    "price": "39,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/gourmet-tranb%C3%A4rsbr%C3%B6d-350g-bonjour/1428608"
+  },
+  {
+    "title": "Ostfranska 70g Bonjour",
+    "price": "12,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/ostfranska-70g-bonjour/2137476",
+    "nutrition": {
+      "energi (kcal)": "287 kcal",
+      "energi (kj)": "1215 kJ",
+      "fett": "4.2 g",
+      "varav mättat fett": "2.2 g",
+      "kolhydrat": "50 g",
+      "varav sockerarter": "1.8 g",
+      "fiber": "2.3 g",
+      "protein": "11 g",
+      "salt": "1.7 g"
+    }
+  },
+  {
+    "title": "Lyxbulle Blåbär & Vanilj 100g Dafgårds",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/lyxbulle-bl%C3%A5b%C3%A4r-vanilj-100g-dafg%C3%A5rds/2128494",
+    "nutrition": {
+      "energi (kcal)": "280 kcal",
+      "energi (kj)": "1200 kJ",
+      "fett": "6.8 g",
+      "varav mättat fett": "3.4 g",
+      "kolhydrat": "48 g",
+      "varav sockerarter": "20 g",
+      "fiber": "1.4 g",
+      "protein": "5.5 g",
+      "salt": "0.28 g"
+    }
+  },
+  {
+    "title": "Baguette Garlic 182g La Lorraine",
+    "price": "18,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/baguette-garlic-182g-la-lorraine/2128275",
+    "nutrition": {
+      "energi (kcal)": "285 kcal",
+      "energi (kj)": "1200 kJ",
+      "fett": "7.8 g",
+      "varav mättat fett": "4.9 g",
+      "kolhydrat": "45 g",
+      "varav sockerarter": "1.8 g",
+      "fiber": "2.1 g",
+      "protein": "7.5 g",
+      "salt": "1.5 g"
+    }
+  },
+  {
+    "title": "Lammgryta med röd curry och ris",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/lammgryta-med-r%C3%B6d-curry-och-ris/7301005002833"
+  },
+  {
+    "title": "Vegansk med bulgursallad och paprikakräm",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/vegansk-med-bulgursallad-och-paprikakr%C3%A4m/7301005002802"
+  },
+  {
+    "title": "Kycklinggryta med ris",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/kycklinggryta-med-ris/7301005002826"
+  },
+  {
+    "title": "Pasta med oxfilé",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/pasta-med-oxfil%C3%A9/7318690476153"
+  },
+  {
+    "title": "Gourmet Tranbär 350 g Bonjour",
+    "price": "39,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/gourmet-tranb%C3%A4r-350-g-bonjour/2140821",
+    "nutrition": {
+      "energi (kcal)": "273 kcal",
+      "energi (kj)": "1157 kJ",
+      "fett": "0.9 g",
+      "varav mättat fett": "0.2 g",
+      "kolhydrat": "57 g",
+      "varav sockerarter": "11 g",
+      "fiber": "3.7 g",
+      "protein": "7 g",
+      "salt": "1.2 g"
+    }
+  },
+  {
+    "title": "Pasta med kyckling och soltorkade tomater",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/pasta-med-kyckling-och-soltorkade-tomater/7318690483960"
+  },
+  {
+    "title": "Rotfruktslasagne",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/rotfruktslasagne/7318690476160"
+  },
+  {
+    "title": "Baguette Vete 400g Bonjour",
+    "price": "16,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/baguette-vete-400g-bonjour/2032443",
+    "nutrition": {
+      "energi (kcal)": "240 kcal",
+      "energi (kj)": "1028 kJ",
+      "fett": "1.2 g",
+      "varav mättat fett": "0.3 g",
+      "kolhydrat": "47 g",
+      "varav sockerarter": "0.3 g",
+      "fiber": "3.7 g",
+      "protein": "8.7 g",
+      "salt": "1.1 g"
+    }
+  },
+  {
+    "title": "Chokladmuffins 100g Dan Cake",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/chokladmuffins-100g-dan-cake/2141927",
+    "nutrition": {
+      "energi (kcal)": "390 kcal",
+      "energi (kj)": "1632 kJ",
+      "fett": "20 g",
+      "varav mättat fett": "2.8 g",
+      "kolhydrat": "48 g",
+      "varav sockerarter": "26 g",
+      "protein": "4.8 g",
+      "salt": "1 g"
+    }
+  },
+  {
+    "title": "Ungerskt bröd 420g Bonjour",
+    "price": "39,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/ungerskt-br%C3%B6d-420g-bonjour/1428614",
+    "nutrition": {
+      "energi (kcal)": "240 kcal",
+      "energi (kj)": "1003 kJ",
+      "fett": "0.9 g",
+      "varav mättat fett": "0.1 g",
+      "kolhydrat": "49 g",
+      "varav sockerarter": "0.4 g",
+      "fiber": "3.9 g",
+      "protein": "6.6 g",
+      "salt": "1.4 g"
+    }
+  },
+  {
+    "title": "Croissant 55g Dafgård",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/croissant-55g-dafg%C3%A5rd/2129202",
+    "nutrition": {
+      "energi (kcal)": "340 kcal",
+      "energi (kj)": "1426 kJ",
+      "fett": "16 g",
+      "varav mättat fett": "9.7 g",
+      "kolhydrat": "42 g",
+      "varav sockerarter": "6.2 g",
+      "fiber": "1.5 g",
+      "protein": "6.8 g",
+      "salt": "1.1 g"
+    }
+  },
+  {
+    "title": "Donut Socker 50 g Dafgård",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/donut-socker-50-g-dafg%C3%A5rd/2140857",
+    "nutrition": {
+      "energi (kcal)": "308 kcal",
+      "energi (kj)": "1344 kJ",
+      "fett": "12.6 g",
+      "varav mättat fett": "5.6 g",
+      "kolhydrat": "43.8 g",
+      "varav sockerarter": "13.5 g",
+      "fiber": "1.7 g",
+      "protein": "6.4 g",
+      "salt": "0.9 g",
+      "varav fleromättat fett": "2 g",
+      "varav enkelomättat fett": "5 g"
+    }
+  },
+  {
+    "title": "Vi hjälper dig att plocka in din matleverans i kyl, frys, skafferi.",
+    "price": "49,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/vi-hj%C3%A4lper-dig-att-plocka-in-din-matleverans-i-kyl-frys-skafferi/7301005002710"
+  },
+  {
+    "title": "Ciabatta 100g La Lorraine",
+    "price": "13,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/ciabatta-100g-la-lorraine/1531477",
+    "nutrition": {
+      "energi (kcal)": "283 kcal",
+      "energi (kj)": "1199 kJ",
+      "fett": "1.1 g",
+      "varav mättat fett": "0.3 g",
+      "kolhydrat": "58 g",
+      "varav sockerarter": "1.9 g",
+      "fiber": "2.8 g",
+      "protein": "9.2 g",
+      "salt": "1.7 g"
+    }
+  },
+  {
+    "title": "Lyxbulle Pistage & Vanilj 100g Dafgårds",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/lyxbulle-pistage-vanilj-100g-dafg%C3%A5rds/2128497",
+    "nutrition": {
+      "energi (kcal)": "280 kcal",
+      "energi (kj)": "1200 kJ",
+      "fett": "7.9 g",
+      "varav mättat fett": "3.8 g",
+      "kolhydrat": "46 g",
+      "varav sockerarter": "19 g",
+      "fiber": "1.4 g",
+      "protein": "5.6 g",
+      "salt": "0.29 g"
+    }
+  },
+  {
+    "title": "Maple Pecan 85g Schulstad Bakery Solutions",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/maple-pecan-85g-schulstad-bakery-solutions/1377521",
+    "nutrition": {
+      "energi (kcal)": "400 kcal",
+      "energi (kj)": "1668 kJ",
+      "fett": "25 g",
+      "varav mättat fett": "9.2 g",
+      "kolhydrat": "38 g",
+      "varav sockerarter": "16 g",
+      "fiber": "1.6 g",
+      "protein": "5.1 g",
+      "salt": "0.28 g"
+    }
+  },
+  {
+    "title": "Balder 110 g Bonjour",
+    "price": "12,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/balder-110-g-bonjour/2140820",
+    "nutrition": {
+      "energi (kcal)": "248 kcal",
+      "energi (kj)": "1053 kJ",
+      "fett": "0.9 g",
+      "varav mättat fett": "0.1 g",
+      "kolhydrat": "51 g",
+      "varav sockerarter": "1 g",
+      "fiber": "2.8 g",
+      "protein": "7.6 g",
+      "salt": "1.5 g"
+    }
+  },
+  {
+    "title": "Kladdkaka 1-p 80g Bonjour",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/kladdkaka-1-p-80g-bonjour/2010164",
+    "nutrition": {
+      "energi (kcal)": "419 kcal",
+      "energi (kj)": "1756 kJ",
+      "fett": "18 g",
+      "varav mättat fett": "2.2 g",
+      "kolhydrat": "57 g",
+      "varav sockerarter": "43 g",
+      "fiber": "2.3 g",
+      "protein": "6.2 g",
+      "salt": "0.45 g"
+    }
+  },
+  {
+    "title": "Kladdkaka portion 80 g Bonjour",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/kladdkaka-portion-80-g-bonjour/2140816",
+    "nutrition": {
+      "energi (kcal)": "407 kcal",
+      "energi (kj)": "1710 kJ",
+      "fett": "17 g",
+      "varav mättat fett": "3 g",
+      "kolhydrat": "58 g",
+      "varav sockerarter": "45 g",
+      "fiber": "2.4 g",
+      "protein": "5.3 g",
+      "salt": "0.55 g"
+    }
+  },
+  {
+    "title": "Surdegsbröd Mörkt 110g Dafgårds",
+    "price": "11,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/surdegsbr%C3%B6d-m%C3%B6rkt-110g-dafg%C3%A5rds/2168978",
+    "nutrition": {
+      "energi (kcal)": "259 kcal",
+      "energi (kj)": "1084 kJ",
+      "fett": "2.8 g",
+      "varav mättat fett": "0.3 g",
+      "kolhydrat": "50 g",
+      "varav sockerarter": "2 g",
+      "fiber": "3.3 g",
+      "protein": "9.1 g",
+      "salt": "1.5 g"
+    }
+  },
+  {
+    "title": "Morotsmuffins 100g Dan Cake",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/morotsmuffins-100g-dan-cake/2141928",
+    "nutrition": {
+      "energi (kcal)": "389 kcal",
+      "energi (kj)": "1628 kJ",
+      "fett": "18 g",
+      "varav mättat fett": "2.4 g",
+      "kolhydrat": "53 g",
+      "varav sockerarter": "30 g",
+      "protein": "4.4 g",
+      "salt": "1 g"
+    }
+  },
+  {
+    "title": "Ostfralla 70 g Bonjour",
+    "price": "12,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/ostfralla-70-g-bonjour/2128471",
+    "nutrition": {
+      "energi (kcal)": "287 kcal",
+      "energi (kj)": "1215 kJ",
+      "fett": "4.2 g",
+      "varav mättat fett": "2.2 g",
+      "kolhydrat": "50 g",
+      "varav sockerarter": "1.8 g",
+      "fiber": "2.3 g",
+      "protein": "11 g",
+      "salt": "1.7 g"
+    }
+  },
+  {
+    "title": "Muffins Kola Karamell med smörkrokant 100g Dan Cake",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/muffins-kola-karamell-med-sm%C3%B6rkrokant-100g-dan-cake/2141925",
+    "nutrition": {
+      "energi (kcal)": "392 kcal",
+      "energi (kj)": "1639 kJ",
+      "fett": "19 g",
+      "varav mättat fett": "2.4 g",
+      "kolhydrat": "49 g",
+      "varav sockerarter": "27 g",
+      "protein": "5.1 g",
+      "salt": "1.3 g"
+    }
+  },
+  {
+    "title": "Donut Choklad 55 g Dafgård",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/donut-choklad-55-g-dafg%C3%A5rd/2140856",
+    "nutrition": {
+      "energi (kcal)": "355 kcal",
+      "energi (kj)": "1495 kJ",
+      "fett": "18 g",
+      "varav mättat fett": "11.3 g",
+      "kolhydrat": "41.6 g",
+      "varav sockerarter": "13.3 g",
+      "fiber": "1.5 g",
+      "protein": "6.7 g",
+      "salt": "0.9 g",
+      "varav fleromättat fett": "1.8 g",
+      "varav enkelomättat fett": "4.9 g"
+    }
+  },
+  {
+    "title": "Blåbärsmuffins frystinad 100g Bonjour",
+    "price": "13,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/bl%C3%A5b%C3%A4rsmuffins-frystinad-100g-bonjour/2117952",
+    "nutrition": {
+      "energi (kcal)": "389 kcal",
+      "energi (kj)": "1629 kJ",
+      "fett": "19 g",
+      "varav mättat fett": "2.2 g",
+      "kolhydrat": "49 g",
+      "varav sockerarter": "29 g",
+      "fiber": "1.2 g",
+      "protein": "5.2 g",
+      "salt": "1.06 g"
+    }
+  },
+  {
+    "title": "Pasta Bolognese",
+    "price": "89,00",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/pasta-bolognese/7318690476177"
+  },
+  {
+    "title": "Croissant Cocoa King 87g Bonjour",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/croissant-cocoa-king-87g-bonjour/2063095",
+    "nutrition": {
+      "energi (kcal)": "372 kcal",
+      "energi (kj)": "1555 kJ",
+      "fett": "22 g",
+      "varav mättat fett": "12 g",
+      "kolhydrat": "37 g",
+      "varav sockerarter": "36 g",
+      "fiber": "2.3 g",
+      "protein": "7.8 g",
+      "salt": "0.23 g"
+    }
+  },
+  {
+    "title": "Toscabulle 100g Bonjour",
+    "price": "14,90",
+    "url": "https://handlaprivatkund.ica.se/stores/1004181/products/toscabulle-100g-bonjour/2013491",
+    "nutrition": {
+      "energi (kcal)": "352 kcal",
+      "energi (kj)": "1477 kJ",
+      "fett": "14 g",
+      "varav mättat fett": "4.6 g",
+      "kolhydrat": "48 g",
+      "varav sockerarter": "19 g",
+      "fiber": "3.2 g",
+      "protein": "6.9 g",
+      "salt": "0.58 g"
+    }
+  }
+]

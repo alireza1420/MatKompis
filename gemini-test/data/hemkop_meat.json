@@ -1,0 +1,3081 @@
+[
+  {
+    "title": "Prosciutto Crudo Skivad",
+    "price": "25,00",
+    "product_description": "Prosciutto crudo lagrad i minst 10 månader. Luftorkad skinka enligt italiensk tradition. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Crudo-Skivad-101206348_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "5.2 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.2 gram",
+      "protein": "30 gram",
+      "salt": "6.3 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "89,95",
+    "product_description": "Nötfärs från svenska gårdar. 800 gram.",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101428349_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Skinka Basturökt Skivad",
+    "price": "12,00",
+    "product_description": "Svensk skinka helmuskel (89%), salt, stärkelse (potatis), druvsocker, naturlig arom, maltodextrin, kryddextrakt, stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301, rökarom.",
+    "url": "https://www.hemkop.se/produkt/Skinka-Basturokt-Skivad-101469538_ST",
+    "nutrition": {
+      "energi": "98 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Rökt Skinka Svea Skivad",
+    "price": "12,00",
+    "product_description": "Svensk skinka helmuskel (89%), salt, stärkelse (potatis), druvsocker, naturlig arom, maltodextrin, kryddextrakt, stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301, rökarom.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Skinka-Svea-Skivad-101230799_ST",
+    "nutrition": {
+      "energi": "98 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Skinka Långkokt Skivad",
+    "price": "12,00",
+    "product_description": "Svensk skinka helmuskel (89%), salt, stärkelse (potatis), druvsocker, naturlig arom, maltodextrin, kryddextrakt, stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301.",
+    "url": "https://www.hemkop.se/produkt/Skinka-Langkokt-Skivad-101230800_ST",
+    "nutrition": {
+      "energi": "98 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Pepparsalami Deliskivor",
+    "price": "15,00",
+    "product_description": "Pepparsalami. Kött från svenska gårdar. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Pepparsalami-Deliskivor-101187497_ST",
+    "nutrition": {
+      "energi": "480 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "21 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Salami Chipotle Deliskivor",
+    "price": "15,00",
+    "product_description": "Salami med smak av chipotle. Kött från svenska gårdar. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Salami-Chipotle-Deliskivor-101325160_ST",
+    "nutrition": {
+      "energi": "410 kilokalori",
+      "fett": "45 gram",
+      "varav mättat fett": "14 gram",
+      "kolhydrat": "5.3 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "22 gram",
+      "salt": "4.07 gram"
+    }
+  },
+  {
+    "title": "Salami Milano Deliskivor",
+    "price": "15,00",
+    "product_description": "Salami milano tillagad enligt italiensk tradition. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Salami-Milano-Deliskivor-101282504_ST",
+    "nutrition": {
+      "energi": "340 kilokalori",
+      "fett": "27 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0.1 gram",
+      "varav sockerarter": "0.1 gram",
+      "protein": "23 gram",
+      "salt": "3.9 gram"
+    }
+  },
+  {
+    "title": "Vitlökssalami Deliskivor",
+    "price": "15,00",
+    "product_description": "Salami med smak av vitlök. Kött från svenska gårdar. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Vitlokssalami-Deliskivor-101187496_ST",
+    "nutrition": {
+      "energi": "480 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "21 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Mortadella Kyckling Paprika Skivad",
+    "price": "16,95",
+    "product_description": "Aladin Kalkonmortadella paprika",
+    "url": "https://www.hemkop.se/produkt/Mortadella-Kyckling-Paprika-Skivad-100153129_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "7.5 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "11 gram",
+      "salt": "2.9 gram"
+    }
+  },
+  {
+    "title": "Baharatli Dili Kalkon Mortadella Skivad",
+    "price": "16,95",
+    "product_description": "Aladin Kalkonmortadella Örter",
+    "url": "https://www.hemkop.se/produkt/Baharatli-Dili-Kalkon-Mortadella-Skivad-100908680_ST",
+    "nutrition": {
+      "energi": "213 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6.1 gram",
+      "kolhydrat": "2.8 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "10 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Tavuk Dilim Kyckling Mortadella Skivad",
+    "price": "16,95",
+    "product_description": "Aladin Kalkon och kycklingmortadella",
+    "url": "https://www.hemkop.se/produkt/Tavuk-Dilim-Kyckling-Mortadella-Skivad-100153110_ST",
+    "nutrition": {
+      "energi": "884 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6.1 gram",
+      "kolhydrat": "2.8 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "10 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Sade Dilim Kalkon Mortadella Skivad",
+    "price": "16,95",
+    "product_description": "Kalkon / kycklingkorv, Typ Bologna-Korv med kalkon / kycklingkött (devis maskinurbenat) och potatisstärkelse",
+    "url": "https://www.hemkop.se/produkt/Sade-Dilim-Kalkon-Mortadella-Skivad-100153101_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "6.5 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "11 gram",
+      "salt": "2.6 gram"
+    }
+  },
+  {
+    "title": "Mammut Oliver",
+    "price": "25,95",
+    "product_description": "Urkärnade mammut oliver. Försvinnande goda. 150 gram.",
+    "url": "https://www.hemkop.se/produkt/Mammut-Oliver-101618363_ST",
+    "nutrition": {
+      "energi": "553 kilojoule",
+      "fett": "13.7 gram",
+      "kolhydrat": "0.4 gram",
+      "protein": "0.9 gram",
+      "salt": "2.8 gram",
+      "varav mättat fett": "2.1 gram",
+      "varav sockerarter": "0.2 gram"
+    }
+  },
+  {
+    "title": "Oliver Vitlök",
+    "price": "25,95",
+    "product_description": "Oliver med vitlök. Försvinnande goda. 150 gram.",
+    "url": "https://www.hemkop.se/produkt/Oliver-Vitlok-101618365_ST",
+    "nutrition": {
+      "energi": "187 kilokalori",
+      "fett": "18.5 gram",
+      "varav mättat fett": "2.3 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "1.3 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Oliver med Chili",
+    "price": "25,95",
+    "product_description": "Oliver med chili. Försvinnande goda. 140 gram.",
+    "url": "https://www.hemkop.se/produkt/Oliver-med-Chili-101482470_ST",
+    "nutrition": {
+      "energi": "153 kilokalori",
+      "fett": "15.7 gram",
+      "varav mättat fett": "2.1 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.1 gram",
+      "protein": "0.9 gram",
+      "salt": "2.9 gram"
+    }
+  },
+  {
+    "title": "Vit Ost Mix Oliver",
+    "price": "25,95",
+    "product_description": "Olivmix med vitost. Försvinnande goda. 150 gram.",
+    "url": "https://www.hemkop.se/produkt/Vit-Ost-Mix-Oliver-101618364_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "22 gram",
+      "varav mättat fett": "4.7 gram",
+      "kolhydrat": "1.9 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "3.7 gram",
+      "salt": "3.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingkebab Fryst",
+    "price": "67,95",
+    "product_description": "Djupfryst kycklingkebab. 700 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingkebab-Fryst-101301928_ST",
+    "nutrition": {
+      "energi": "134 kilokalori",
+      "fett": "5.1 gram",
+      "varav mättat fett": "1.2 gram",
+      "kolhydrat": "4.9 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0.1 gram",
+      "protein": "17 gram",
+      "salt": "1.7 gram"
+    }
+  },
+  {
+    "title": "Grillkorv med Skinn",
+    "price": "46,95",
+    "product_description": "Härligt smakrika grillkorvar med tunt skinn som passar perfekt på grillen på sommaren eller i stekpannan till hösten. Våra korvar innehåller bara svenskt kött från våra gårdar.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-med-Skinn-100308301_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "7.3 gram",
+      "kolhydrat": "9.8 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "9.5 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Lårfilé Svensk",
+    "price": "249,00",
+    "product_description": "100% SVENSK EKOLOGISK KYCKLING",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Larfile-Svensk-101240503_KG",
+    "nutrition": {
+      "energi": "208 kilokalori",
+      "fett": "14.9 gram",
+      "varav mättat fett": "3.28 gram",
+      "kolhydrat": "0.93 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "17.8 gram",
+      "salt": "0.16 gram"
+    }
+  },
+  {
+    "title": "Blandfärs 21%",
+    "price": "59,95",
+    "product_description": "Nötkött 50%, fläskkött 50% Förhållande mellan kollagen och köttprotein lägre än 18%",
+    "url": "https://www.hemkop.se/produkt/Blandfars-21procent-101599080_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "21 gram",
+      "varav mättat fett": "9.2 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Vitlök",
+    "price": "12,95",
+    "product_description": "Ölkorv med mild smak av vitlök. 40 gram. ",
+    "url": "https://www.hemkop.se/produkt/olkorv-Vitlok-101264324_ST",
+    "nutrition": {
+      "energi": "1900 kilojoule",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Het Chili Ölkorv",
+    "price": "12,95",
+    "product_description": "Ölkorv med het smak av chili. 40 gram. ",
+    "url": "https://www.hemkop.se/produkt/Het-Chili-olkorv-101325962_ST",
+    "nutrition": {
+      "energi": "523 kilokalori",
+      "fett": "47 gram",
+      "varav mättat fett": "19 gram",
+      "kolhydrat": "2.3 gram",
+      "varav sockerarter": "2.2 gram",
+      "protein": "22 gram",
+      "salt": "2.82 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Chili",
+    "price": "12,95",
+    "product_description": "Ölkorv med stark smak av chili. 40 gram. ",
+    "url": "https://www.hemkop.se/produkt/olkorv-Chili-101264325_ST",
+    "nutrition": {
+      "energi": "460 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Original",
+    "price": "12,95",
+    "product_description": "Ölkorv med mild smak. 40 gram. ",
+    "url": "https://www.hemkop.se/produkt/olkorv-Original-101264326_ST",
+    "nutrition": {
+      "energi": "460 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Ost&bacon Grillkorv",
+    "price": "31,95",
+    "product_description": "Klassisk grillkorv med en mild och lätt rökig smak av ost och bacon. Korven är glutenfri och har en köttmängd på 64%. Märkningen Kött från Sverige visar att köttet i produkten kommer från djur som är födda och uppfödda i Sverige. Produkten är även förädlad och förpackad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Ostochbacon-Grillkorv-101363758_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "23 gram",
+      "kolhydrat": "4.2 gram",
+      "protein": "12 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "10 gram",
+      "varav sockerarter": "0.8 gram"
+    }
+  },
+  {
+    "title": "Scorpion Chili Trinidad Kryddkorv",
+    "price": "31,95",
+    "product_description": "INGREDIENSER: Gris- och nötkött , vatten, salt, potatismjöl, paprika, kryddor (chili 0,2%, vitlök, paprika, peppar, koriander), druvsocker (majs), kryddextrakt, antioxidationsmedel (askorbinsyra), konserveringsmedel (E250), naturtarm, rökarom. Kokt och rökt. Köttmängd: 85% Fetthalt: 24% Köttursprung: Sverige Ursprung potatis: Sverige",
+    "url": "https://www.hemkop.se/produkt/Scorpion-Chili-Trinidad-Kryddkorv-101290630_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "9.8 gram",
+      "kolhydrat": "1.9 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "13 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Tryffelkorv",
+    "price": "31,95",
+    "product_description": "INGREDIENSER Kött av gris, fett av gris, vatten, potatismjöl, salt, kryddor, potatisfiber, tryffel 0,2%, naturlig tryffelarom, antioxidationsmedel (E300), rökarom, konserveringsmedel (E250), naturtarm. Kokt och rökt. Köttmängd: 85%. Ursprung kött och potatis: Sverige.",
+    "url": "https://www.hemkop.se/produkt/Tryffelkorv-101460711_ST",
+    "nutrition": {
+      "energi": "262 kilokalori",
+      "fett": "22 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "11 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Kabanoss",
+    "price": "31,95",
+    "product_description": "Klassisk kryddig kabanoss med smak av vitlök och paprika. 85% hög kötthalt med kött från Sverige. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Kabanoss-101305774_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "23 gram",
+      "kolhydrat": "3.5 gram",
+      "protein": "14 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "9.6 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kabanoss Smal",
+    "price": "31,95",
+    "product_description": "Smal kabanoss med smak av vitlök och paprika. 85% hög kötthalt med kött från Sverige. 240 gram.",
+    "url": "https://www.hemkop.se/produkt/Kabanoss-Smal-101290922_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "23 gram",
+      "kolhydrat": "3.5 gram",
+      "protein": "14 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "9.6 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Bratwurst",
+    "price": "31,95",
+    "product_description": "INGREDIENSER: Gris- och nötkött, vatten, salt, potatismjöl, kryddor (ingefära, vitlök, koriander), druvsocker (majs), stabiliseringsmedel (E450), antioxidationsmedel (E316), kryddextrakt (chili, paprika, vitpeppar) konserveringsmedel (E250), naturtarm, rökarom. Kokt och rökt. Köttmängd: 85%. Fetthalt: 22%. Köttursprung: Sverige. Ursprung potatis: Sverige.",
+    "url": "https://www.hemkop.se/produkt/Bratwurst-101290607_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "22 gram",
+      "kolhydrat": "3.4 gram",
+      "protein": "15 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "8.5 gram",
+      "varav sockerarter": "0.6 gram"
+    }
+  },
+  {
+    "title": "Chorizo Jalapeño Smal",
+    "price": "31,95",
+    "product_description": "Klassisk smal chorizo jalapeno från Garant är en kryddig korv med smak av paprika och vitlök. Korven är både glutenfri och mjölkfri och består av 65 % köttmängd.",
+    "url": "https://www.hemkop.se/produkt/Chorizo-Jalape-o-Smal-101333715_ST",
+    "nutrition": {
+      "energi": "282 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "8.3 gram",
+      "kolhydrat": "4 gram",
+      "varav sockerarter": "2.6 gram",
+      "protein": "14 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Chorizo",
+    "price": "31,95",
+    "product_description": "Klassisk chorizo. En pikant och välkryddad korv med röd paprika och cayenne. Fri från mjölk och gluten. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Chorizo-101290628_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "22 gram",
+      "kolhydrat": "3.4 gram",
+      "protein": "15 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "8.5 gram",
+      "varav sockerarter": "0.6 gram"
+    }
+  },
+  {
+    "title": "Saltrulle Deliskivor",
+    "price": "24,95",
+    "product_description": "Kokt saltrulle. Kött från svenska gårdar. 100 gram.",
+    "url": "https://www.hemkop.se/produkt/Saltrulle-Deliskivor-101352110_ST",
+    "nutrition": {
+      "energi": "101 kilokalori",
+      "fett": "1.6 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "2.6 gram",
+      "varav sockerarter": "1.3 gram",
+      "protein": "19 gram",
+      "salt": "2.38 gram"
+    }
+  },
+  {
+    "title": "Skinka Flatrökt",
+    "price": "24,95",
+    "product_description": "Flatrökt skinka i deliskivor. Noga utvald och smaksatt råvara. Kött från svenska gårdar. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Skinka-Flatrokt-101784427_ST",
+    "nutrition": {
+      "energi": "101 kilokalori",
+      "fett": "2.7 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "1.3 gram",
+      "varav sockerarter": "1.3 gram",
+      "protein": "18 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Pastrami Deliskivor",
+    "price": "24,95",
+    "product_description": "Tunna skivor av kotlettpastrami från Sverige. Garanterat gott som smörgåspålägg till frukost och mellanmål. Märket Kött från Sverige visar att köttet i produkten kommer från djur som är uppfödda i Sverige. Produkten är även förädlad och förpackad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Pastrami-Deliskivor-101351816_ST",
+    "nutrition": {
+      "energi": "135 kilokalori",
+      "fett": "5.7 gram",
+      "varav mättat fett": "2.4 gram",
+      "kolhydrat": "2.2 gram",
+      "varav sockerarter": "2.1 gram",
+      "protein": "19 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Rökt Deliskivor",
+    "price": "24,95",
+    "product_description": "Rökt kyckling i skivor. Fågel från svenska gårdar. 100 gram.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Rokt-Deliskivor-101435165_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2.5 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "18 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Kyckling Grillad Deliskivor",
+    "price": "24,95",
+    "product_description": "Tunna skivor av grillad kyckling från Sverige. Garanterat gott som smörgåspålägg till frukost och mellanmål. Märket Kött från Sverige visar att köttet i produkten kommer från djur som är uppfödda i Sverige. Produkten är även förädlad och förpackad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Grillad-Deliskivor-101333888_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2.5 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "2 gram",
+      "protein": "18 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Skinka Extrarökt Deliskivor",
+    "price": "24,95",
+    "product_description": "Extrarökt skinka i skivor. Kött från svenska gårdar. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Skinka-Extrarokt-Deliskivor-101435164_ST",
+    "nutrition": {
+      "energi": "119 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "19 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Cognacs Medwurst Deliskivor",
+    "price": "24,95",
+    "product_description": "Cognacsmedwurst. Kött från svenska gårdar. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Cognacs-Medwurst-Deliskivor-101348663_ST",
+    "nutrition": {
+      "energi": "440 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "4.3 gram",
+      "protein": "13.5 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Kokt Skinka Deliskivor",
+    "price": "24,95",
+    "product_description": "Kokt skinka. Kött från svenska gårdar. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Kokt-Skinka-Deliskivor-101348393_ST",
+    "nutrition": {
+      "energi": "102 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.3 gram",
+      "kolhydrat": "0.6 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "18 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Basturökt Skinka Deliskivor",
+    "price": "24,95",
+    "product_description": "Basturökt skinka. Kött från svenska gårdar. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Basturokt-Skinka-Deliskivor-101183319_ST",
+    "nutrition": {
+      "energi": "89 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0 gram",
+      "kolhydrat": "1.4 gram",
+      "varav sockerarter": "1.3 gram",
+      "protein": "18 gram",
+      "salt": "2.8 gram"
+    }
+  },
+  {
+    "title": "Bacon Rökt & Skivat",
+    "price": "15,95",
+    "product_description": "INGREDIENSER: Rökt sida av gris, salt, antioxidationsmedel (E331, E301), konserveringsmedel (E250). Köttursprung: Sverige. Köttmängd 97%.",
+    "url": "https://www.hemkop.se/produkt/Bacon-Rokt-och-Skivat-101406133_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "21 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Piccante Salame",
+    "price": "51,95",
+    "product_description": "INGREDIENSER: Fläskkött, salt dextros, kryddor, aromer, antioxidationsmedel: E301. aromer, konserveringsmedel: E252, E250. Köttursprung: EU. Till 100g färdig produkt har 150g kött använts.",
+    "url": "https://www.hemkop.se/produkt/Piccante-Salame-101550300_ST",
+    "nutrition": {
+      "energi": "368 kilokalori",
+      "fett": "32 gram",
+      "varav mättat fett": "12 gram",
+      "kolhydrat": "< 1 gram",
+      "varav sockerarter": "< 1 gram",
+      "protein": "23 gram",
+      "salt": "4.2 gram"
+    }
+  },
+  {
+    "title": "Tryffelsalami",
+    "price": "51,95",
+    "product_description": "INGREDIENSER: Fläskkött, salt, svart sommartryffel (Tuber aestivum) 1.25%, dextros, sackaros. Kryddor, antioxidanter: E301. Aromer. Konserveringsmedel: E252, E250.",
+    "url": "https://www.hemkop.se/produkt/Tryffelsalami-101315646_ST",
+    "nutrition": {
+      "energi": "462 kilokalori",
+      "fett": "35.6 gram",
+      "varav mättat fett": "13.9 gram",
+      "kolhydrat": "0.1 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "35.3 gram",
+      "salt": "5.23 gram"
+    }
+  },
+  {
+    "title": "Fänkålssalami",
+    "price": "51,95",
+    "product_description": "INGREDIENSER: Griskött, salt, dextros, socker, fänkålfrön och blommor, peppar, antioxidationsmedel: natriumaskorbat (E301), vitlök, konserveringsmedel: kaliumnitrat (E252), natriumnitrit (E250).",
+    "url": "https://www.hemkop.se/produkt/Fankalssalami-101324966_ST",
+    "nutrition": {
+      "energi": "350 kilokalori",
+      "fett": "27.8 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0.7 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "24.3 gram",
+      "salt": "3.77 gram"
+    }
+  },
+  {
+    "title": "Kycklingkebab Sverige",
+    "price": "51,95",
+    "product_description": "Saftig och färsk Kycklingkebab där kyckling omsorgsfullt varvats med kryddor, lager på lager för att du ska kunna käka den godaste kycklingkebaben hemma!",
+    "url": "https://www.hemkop.se/produkt/Kycklingkebab-Sverige-101293704_ST",
+    "nutrition": {
+      "energi": "177 kilokalori",
+      "fett": "11 gram",
+      "varav mättat fett": "2.8 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Gyros Kebab Sverige",
+    "price": "51,95",
+    "product_description": "En färsk Gyroskebab som passa lika bra i ett pitabröd som på pizzan. En grillad, saftig och smakrik gyros som smakar sådär äkta som gyros ska smaka.",
+    "url": "https://www.hemkop.se/produkt/Gyros-Kebab-Sverige-101293703_ST",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "8 gram",
+      "varav mättat fett": "3.4 gram",
+      "kolhydrat": "5.2 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "16 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Rökt Skinka Strimlad",
+    "price": "24,95",
+    "product_description": "Strimlad rökt skinka perfekt till pizzan eller salladen. Kött från Sverige. 180 gram.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Skinka-Strimlad-101295930_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "0.7 gram",
+      "varav sockerarter": "0.7 gram",
+      "protein": "18 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Grillkorv Kyckling",
+    "price": "23,95",
+    "product_description": "Kyckling grillkorv. Rökt med alspån. Märkt med Svensk Fågel. 10 stycken/400 gram.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Kyckling-101263449_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "19 gram",
+      "kolhydrat": "7.2 gram",
+      "protein": "10 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "6.2 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling- Chorizo",
+    "price": "24,95",
+    "product_description": "INGREDIENSER: Maskinurbenat kycklingkött 63%, vatten, fett från kyckling, potatisstärkelse, druvsocker (majs), salt, kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka, svartpeppar, vitlök, ingefära, maltodextrin, oregano, vegetablisk buljong), lök, antioxidationsmedel (askorbinsyra), konserveringsmedel (E250). Köttursprung: Sverige. Fetthalt: 19%. Kokt och rökt.",
+    "url": "https://www.hemkop.se/produkt/Kyckling--Chorizo-101506669_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "19 gram",
+      "kolhydrat": "7.6 gram",
+      "protein": "10 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "6.1 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Kycklinglårfil Färsk Sverige",
+    "price": "129,00",
+    "product_description": "Färsk lårfilé av svensk kyckling. Saftig och fin. Ca 850 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglarfil-Farsk-Sverige-101253219_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Bröstfilé Sverige",
+    "price": "129,00",
+    "product_description": "Färsk kycklingbrösfilé. Saftig och fin. Från utvalda svenska gårdar. Ca 850 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Brostfile-Sverige-101253220_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Leverpastej Original Bredbar",
+    "price": "10,00",
+    "product_description": "Bredbar leverpastej. Kött från Sverige. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Original-Bredbar-101351867_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "21 gram",
+      "varav mättat fett": "9 gram",
+      "kolhydrat": "10 gram",
+      "varav sockerarter": "3.3 gram",
+      "protein": "11 gram",
+      "salt": "1.8 gram",
+      "järn": "5.4 milligram"
+    }
+  },
+  {
+    "title": "Leverpastej Gurka Bredbar",
+    "price": "10,00",
+    "product_description": "Bredbar leverpastej med gurka. Kött från Sverige. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Gurka-Bredbar-101351868_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "19 gram",
+      "varav mättat fett": "8.1 gram",
+      "kolhydrat": "11 gram",
+      "varav sockerarter": "2.2 gram",
+      "protein": "10 gram",
+      "salt": "1.8 gram",
+      "järn": "4.2 gram"
+    }
+  },
+  {
+    "title": "Falukorv",
+    "price": "36,95",
+    "product_description": "Fri från gluten och mjölk.",
+    "url": "https://www.hemkop.se/produkt/Falukorv-101298455_ST",
+    "nutrition": {
+      "energi": "254 kilokalori",
+      "fett": "23 gram",
+      "kolhydrat": "4 gram",
+      "protein": "9 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "9 gram",
+      "varav sockerarter": "0.1 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 15%",
+    "price": "74,95",
+    "product_description": "Förhållande mellan kollagen och köttprotein lägre än 15%",
+    "url": "https://www.hemkop.se/produkt/Notfars-15procent-101599078_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "15 gram",
+      "varav mättat fett": "6.6 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Köttbullar Kyckling",
+    "price": "35,95",
+    "product_description": "Färdiglagade kycklingköttbullar. Kan ätas varma eller kalla. Svensk kyckling. 350 gram.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-Kyckling-101260149_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "18 gram",
+      "kolhydrat": "13 gram",
+      "protein": "11 gram",
+      "salt": "1.8 gram",
+      "varav mättat fett": "5 gram",
+      "varav sockerarter": "2.2 gram"
+    }
+  },
+  {
+    "title": "Grillkorv Hög Kötthalt",
+    "price": "29,95",
+    "product_description": "Svensk grillkorv med hög kötthalt på 75%.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Hog-Kotthalt-101276779_ST",
+    "nutrition": {
+      "energi": "271 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "5 gram",
+      "varav sockerarter": "0.7 gram",
+      "protein": "11 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Fuet Tradicional Lufttorkad Salami",
+    "price": "39,95",
+    "product_description": "Fuet. Lufttorkad salami på traditionellt spanskt vis. Älskad för sin milda och fylliga smak. 170 gram.",
+    "url": "https://www.hemkop.se/produkt/Fuet-Tradicional-Lufttorkad-Salami-101197439_ST",
+    "nutrition": {
+      "energi": "421 kilokalori",
+      "fett": "34 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "1.7 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "27 gram",
+      "salt": "4.9 gram"
+    }
+  },
+  {
+    "title": "Prosciutto Deliskivor",
+    "price": "31,95",
+    "product_description": "Prosciutto crudo. Tillagad enligt italiensk tradition. 80 gram.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Deliskivor-101283033_ST",
+    "nutrition": {
+      "energi": "210 kilokalori",
+      "fett": "10 gram",
+      "varav mättat fett": "3.4 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "30 gram",
+      "salt": "6 gram"
+    }
+  },
+  {
+    "title": "Rostbiff Deliskivor",
+    "price": "33,95",
+    "product_description": "Rostbiff i skivor. Kött från svenska gårdar. 100 gram.",
+    "url": "https://www.hemkop.se/produkt/Rostbiff-Deliskivor-101358284_ST",
+    "nutrition": {
+      "energi": "108 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0 gram",
+      "kolhydrat": "1.4 gram",
+      "varav sockerarter": "1.2 gram",
+      "protein": "20 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Kycklingfilé Strimlad Sverige",
+    "price": "35,00",
+    "product_description": "Färsk strimlad svensk kycklingfilé. Saftig och fin. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfile-Strimlad-Sverige-101258401_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0 gram",
+      "protein": "23 gram",
+      "natrium": "0 gram"
+    }
+  },
+  {
+    "title": "Kyckling Bröstfilé Sverige",
+    "price": "175,00",
+    "product_description": "Färsk kycklingbröstfilé av svensk fågel. En god produkt från svenska gårdar med höga krav på kvalitet. Det känner du på smaken.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Brostfile-Sverige-101499304_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "< 0.5 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingklubba Sverige",
+    "price": "65,95",
+    "product_description": "Färsk kycklingklubba av svensk kyckling. Saftig och fin. Ca 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingklubba-Sverige-100917527_KG",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Hel Sverige",
+    "price": "77,95",
+    "product_description": "Färsk hel majskyckling. Från Sverige. Ca 1,3 kg.",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Hel-Sverige-101232454_KG",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Marinerade Sverige",
+    "price": "74,95",
+    "product_description": "Färska marinerade svenska kycklingben. Saftiga och fina. Ca 1,8 kg.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Marinerade-Sverige-101208470_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "8.9 gram",
+      "varav mättat fett": "2.9 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Kycklingben Färska Sverige",
+    "price": "63,95",
+    "product_description": "Färska kycklingben av svensk kyckling. Saftig och fin. Ca 900 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingben-Farska-Sverige-101003502_KG",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Hel Färsk Sverige",
+    "price": "58,95",
+    "product_description": "Färsk hel kyckling från Sverige. Saftig och fin. Ca 1,35 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Hel-Farsk-Sverige-101313951_KG",
+    "nutrition": {
+      "energi": "180 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "18 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Majskyckling Bröstfilé Sverige",
+    "price": "175,00",
+    "product_description": "Färsk bröstfilé av svensk majskyckling. Ca 750 gram.",
+    "url": "https://www.hemkop.se/produkt/Majskyckling-Brostfile-Sverige-101232453_KG",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "23 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingfärs Naturell Sverige",
+    "price": "49,95",
+    "product_description": "Kycklingfärs. Saftig och fin. Från utvalda svenska gårdar. Ca 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Kycklingfars-Naturell-Sverige-101262973_ST",
+    "nutrition": {
+      "energi": "140 kilokalori",
+      "fett": "7 gram",
+      "varav mättat fett": "2 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklingbacon Rökt med Alspån",
+    "price": "17,50",
+    "product_description": "Skivad kycklingbacon rökt med alspån. 100 gram. En god produkt från svenska gårdar med höga krav på kvalitet. Ursprungsmärket Svensk fågel garanterar ett svenskt ursprung, i allt från kläckning och uppfödning till slakt och förädling. Märkningen är också ett säkert tecken på ett miljösmart val.",
+    "url": "https://www.hemkop.se/produkt/Kycklingbacon-Rokt-med-Alspan-101283257_ST",
+    "nutrition": {
+      "energi": "160 kilokalori",
+      "fett": "9.9 gram",
+      "varav mättat fett": "2.9 gram",
+      "kolhydrat": "1.2 gram",
+      "varav sockerarter": "1.2 gram",
+      "protein": "16 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Köttbullar Färdiglagade",
+    "price": "28,95",
+    "product_description": "Färdiglagade köttbullar. Kan ätas varma eller kalla. Kött från svenska gårdar. 350 gram.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-Fardiglagade-101066052_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "1.4 gram",
+      "fiber": "1.2 gram",
+      "protein": "13 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Köttbullar Delikatess",
+    "price": "49,95",
+    "product_description": "Färdiglagade delikatessköttbullar. Kan ätas varma eller kalla. Kött från svenska gårdar. 450 gram.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-Delikatess-101345637_ST",
+    "nutrition": {
+      "energi": "950 kilojoule",
+      "fett": "18 gram",
+      "kolhydrat": "8.5 gram",
+      "protein": "13 gram",
+      "salt": "1.6 gram",
+      "varav mättat fett": "6.9 gram",
+      "varav sockerarter": "0.9 gram"
+    }
+  },
+  {
+    "title": "Köttbullar Färdiglagade",
+    "price": "69,95",
+    "product_description": "Färdiglagade köttbullar. Kan ätas varma eller kalla. Kött från svenska gårdar. 1kg.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-Fardiglagade-101066070_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "1.4 gram",
+      "fiber": "1.2 gram",
+      "protein": "13 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Köttbullar",
+    "price": "55,95",
+    "product_description": "Köttbullar. Testa en schysst vara! Eldorados produkter är utvalda och kvalitetstestade av Axfood Sverige AB. Hör av dig om du ändå inte skulle vara nöjd.",
+    "url": "https://www.hemkop.se/produkt/Kottbullar-100352468_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "16 gram",
+      "kolhydrat": "10 gram",
+      "protein": "12 gram",
+      "salt": "1.6 gram",
+      "varav mättat fett": "5.8 gram",
+      "varav sockerarter": "2.2 gram"
+    }
+  },
+  {
+    "title": "Arbogapastej Original Bredbar",
+    "price": "14,95",
+    "product_description": "Fett från gris, grislever (30%), MJÖLK, vatten, potatismjöl, socker, koksalt, tryffelersättning (champinjoner, fårticka), kryddor och kryddextrakt (bl.a ingefära, muskotnöt, nejlika), lök, timjan, druvsocker, maltodextrin, antioxidationsmedel (E300), konserveringsmedel (E250).",
+    "url": "https://www.hemkop.se/produkt/Arbogapastej-Original-Bredbar-100139761_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "12 gram",
+      "kolhydrat": "9 gram",
+      "varav sockerarter": "4.1 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Kokt Skinka Tunna Skivor",
+    "price": "24,95",
+    "product_description": "Kokt skinka i tunna skivor. Kött från Sverige. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Kokt-Skinka-Tunna-Skivor-101197321_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.5 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "0 gram",
+      "protein": "19 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Rökt Skinka Tunna Skivor",
+    "price": "24,95",
+    "product_description": "Rökt skinka i tunna skivor. Kött från Sverige. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Skinka-Tunna-Skivor-101197307_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.5 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Rökt Kyckling Tunna Skivor",
+    "price": "41,95",
+    "product_description": "Rökt kyckling i tunna skivor. Kött från Sverige. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Kyckling-Tunna-Skivor-101345958_ST",
+    "nutrition": {
+      "energi": "105 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "1.95 gram"
+    }
+  },
+  {
+    "title": "Tärnat Bacon",
+    "price": "19,95",
+    "product_description": "Scan Piggham är ett sortiment bestående av extra gott, saftigt och smakrikt kött. Med vår goda tärnade bacon kombinerar vi kvalitet med enkelhet. Bitarna är i lagom storlek och passar utmärkt till exempelvis pasta carbonara.",
+    "url": "https://www.hemkop.se/produkt/Tarnat-Bacon-100313028_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "28 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Lördagskorv Skivad",
+    "price": "22,95",
+    "product_description": "Svinkött, vatten, späck, potatisstärkelse, svål, salt, stabiliseringsmedel E 450, dextros, antioxidationsmedel E 315, konserveringsmedel natriumnitrit, kryddor (bl a chili), arom. Kötthalt 41%. Kött och ingredienser som är jämförbara med kött 50%.",
+    "url": "https://www.hemkop.se/produkt/Lordagskorv-Skivad-100359657_ST",
+    "nutrition": {
+      "energi": "225 kilokalori",
+      "fett": "19 gram",
+      "varav mättat fett": "7 gram",
+      "kolhydrat": "5.2 gram",
+      "varav sockerarter": "0 gram",
+      "fiber": "0 gram",
+      "protein": "7.9 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Jaktkorv Skivad",
+    "price": "22,95",
+    "product_description": "Svinkött, vatten, potatisstärkelse, stabiliseringsmedel (E 1412, E 450), svål, joderat salt, späck,, dextros, kryddor (koriander, paprika, vitpeppar, vitlök), antioxidationsmedel E 301, konserveringsmedel natriumnitrit, arom. Svinkötts ursprung: Finland. Kötthalt 50 %. Kött och ingredienser som är jämförbara med kött 53 %.",
+    "url": "https://www.hemkop.se/produkt/Jaktkorv-Skivad-100359577_ST",
+    "nutrition": {
+      "energi": "218 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "6.5 gram",
+      "kolhydrat": "6.3 gram",
+      "varav sockerarter": "0.6 gram",
+      "fiber": "0 gram",
+      "protein": "8.3 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Gotler Skivad",
+    "price": "22,95",
+    "product_description": "Svinkött, vatten, skinka (20%), joderat salt, svål, stabiliseringsmedel E 450, potatisfiber, dextros, kryddor (vitpeppar, koriander, ingefära), antioxidationsmedel E 301, maltodextrin, aromer, konserveringsmedel natriumnitrit. Svinkötts ursprung: Finland Kötthalt 68%.",
+    "url": "https://www.hemkop.se/produkt/Gotler-Skivad-100110425_ST",
+    "nutrition": {
+      "energi": "217 kilokalori",
+      "fett": "19 gram",
+      "varav mättat fett": "6.8 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.2 gram",
+      "fiber": "0.4 gram",
+      "protein": "12 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Stekfläsk Skivat",
+    "price": "42,95",
+    "product_description": "Skivat rimmat stekfläsk. Kött från Sverige. Noga utvalt! 375 gram.",
+    "url": "https://www.hemkop.se/produkt/Stekflask-Skivat-101405775_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "22 gram",
+      "varav mättat fett": "9 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "16 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Skivat Bacon Originalet",
+    "price": "17,50",
+    "product_description": "Bacon, som är rökt och rimmat sidfläsk, är en riktig svensk klassiker som alltid är lika populär. Just detta bacon tillhör vårt Scan Piggham-sortiment, vilket består av extra gott, saftigt och smakrikt kött. Och självklart innehåller alla våra produkter enbart kött från svenska gårdar.",
+    "url": "https://www.hemkop.se/produkt/Skivat-Bacon-Originalet-100040607_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "28 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.2 gram",
+      "kalcium": "7 milligram",
+      "järn": "0.6 milligram",
+      "zink": "1.15 milligram"
+    }
+  },
+  {
+    "title": "Bacon Miniskivat",
+    "price": "19,95",
+    "product_description": "Vardagsfavoriten i klippta skivor",
+    "url": "https://www.hemkop.se/produkt/Bacon-Miniskivat-101274449_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "28 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Skivat Bacon Ekologiskt Skivad",
+    "price": "30,95",
+    "product_description": "Scan Piggham är ett sortiment som består av extra gott, saftigt och smakrikt svenskt kött. Vårt goda bacon, som är rökt och rimmat sidfläsk, är en riktig klassiker som passar till det mesta. Dessutom är köttet ekologiskt, vilket innebär att det framställts med höga krav på djuromsorg och djurhållning.",
+    "url": "https://www.hemkop.se/produkt/Skivat-Bacon-Ekologiskt-Skivad-101379539_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "28 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Skivat Bacon 3-pack",
+    "price": "46,95",
+    "product_description": "Bacon, som är rökt och rimmat sidfläsk, är en riktig svensk klassiker som alltid är lika populär. Just detta bacon tillhör vårt Scan Piggham-sortiment, vilket består av extra gott, saftigt och smakrikt kött. Och självklart innehåller alla våra produkter enbart kött från svenska gårdar.",
+    "url": "https://www.hemkop.se/produkt/Skivat-Bacon-3-pack-100213706_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "28 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.2 gram",
+      "kalcium": "7 milligram",
+      "järn": "0.6 milligram",
+      "zink": "1.15 milligram"
+    }
+  },
+  {
+    "title": "Grillkorv Kyckling Tjock",
+    "price": "29,95",
+    "product_description": "INGREDIENSER: Maskinurbenat kycklingkött 64%, vatten, fett från kyckling, potatisstärkelse, druvsocker (majs), salt, kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka), lök, antioxidationsmedel (askorbinsyra), konserveringsmedel (E250).",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Kyckling-Tjock-101263450_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "19 gram",
+      "kolhydrat": "7.2 gram",
+      "protein": "10 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "6.2 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Bacon Rökt & Tärnat",
+    "price": "18,50",
+    "product_description": "Rökt och tärnat bacon från svenska gårdar. 140 gram.",
+    "url": "https://www.hemkop.se/produkt/Bacon-Rokt-och-Tarnat-101458935_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "21 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Wienerkorv",
+    "price": "85,00",
+    "product_description": "Klassisk wienerkorv som är fri från både gluten och mjölk. Gjord på svenskt kött.",
+    "url": "https://www.hemkop.se/produkt/Wienerkorv-101187302_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "22 gram",
+      "kolhydrat": "5 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "8.8 gram",
+      "varav sockerarter": "0.8 gram"
+    }
+  },
+  {
+    "title": "Wienerkorv Kyckling",
+    "price": "33,95",
+    "product_description": "INGREDIENSER: Kycklingkött 78%, vatten, potatisstärkelse, druvsocker (majs), kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka), lök, antioxidationsmedel (askorbinsyra), kycklingfett, salt, konserveringsmedel (E250). Korvskinn: Fårtarm.",
+    "url": "https://www.hemkop.se/produkt/Wienerkorv-Kyckling-101283348_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "17 gram",
+      "kolhydrat": "7.7 gram",
+      "protein": "13 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "5.6 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Wienerkorv",
+    "price": "32,95",
+    "product_description": "Smal wienerkorv gjord efter tyskt recept med lättrökt smak. 64% hög kötthalt med kött från Sverige. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Wienerkorv-101187282_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "22 gram",
+      "kolhydrat": "5 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "8.8 gram",
+      "varav sockerarter": "0.8 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Original 3-pack",
+    "price": "30,95",
+    "product_description": "Ölkorv med mild smak. 3-pack.",
+    "url": "https://www.hemkop.se/produkt/olkorv-Original-3-pack-101264349_ST",
+    "nutrition": {
+      "energi": "460 kilokalori",
+      "fett": "39 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Vitlök 3-pack",
+    "price": "30,95",
+    "product_description": "Ölkorv med mild smak av vitlök. 3-pack. ",
+    "url": "https://www.hemkop.se/produkt/olkorv-Vitlok-3-pack-101264327_ST",
+    "nutrition": {
+      "energi": "460 kilokalori",
+      "fett": "39 gram",
+      "kolhydrat": "2 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram",
+      "varav mättat fett": "16 gram",
+      "varav sockerarter": "1 gram"
+    }
+  },
+  {
+    "title": "Het Chili Ölkorv 3-pack",
+    "price": "30,95",
+    "product_description": "Ölkorv med het smak av chili. 3-pack.  ",
+    "url": "https://www.hemkop.se/produkt/Het-Chili-olkorv-3-pack-101325963_ST",
+    "nutrition": {
+      "energi": "523 kilokalori",
+      "fett": "47 gram",
+      "varav mättat fett": "19 gram",
+      "kolhydrat": "2.3 gram",
+      "varav sockerarter": "2.2 gram",
+      "protein": "22 gram",
+      "salt": "2.82 gram"
+    }
+  },
+    {
+    "title": "Het Chili Ölkorv 3-pack",
+    "price": "30,95",
+    "product_description": "Ölkorv med het smak av chili. 3-pack.  ",
+    "url": "https://www.hemkop.se/produkt/Het-Chili-olkorv-3-pack-101325963_ST",
+    "nutrition": {
+      "energi": "523 kilokalori",
+      "fett": "47 gram",
+      "varav mättat fett": "19 gram",
+      "kolhydrat": "2.3 gram",
+      "varav sockerarter": "2.2 gram",
+      "protein": "22 gram",
+      "salt": "2.82 gram"
+    }
+  },
+  {
+    "title": "Ölkorv Chili 3-pack",
+    "price": "30,95",
+    "product_description": "Ölkorv med stark smak av chili. 3-pack. ",
+    "url": "https://www.hemkop.se/produkt/olkorv-Chili-3-pack-101264348_ST",
+    "nutrition": {
+      "energi": "372 kilokalori",
+      "fett": "41 gram",
+      "varav mättat fett": "9 gram",
+      "kolhydrat": "2.4 gram",
+      "varav sockerarter": "1.7 gram",
+      "protein": "22 gram",
+      "salt": "3.17 gram"
+    }
+  },
+  {
+    "title": "Kalkonbacon",
+    "price": "19,50",
+    "product_description": "Ingredienser: Kalkonlårkött (86 %), vatten, salt, baconarom, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (E301), konserveringsmedel (E250).",
+    "url": "https://www.hemkop.se/produkt/Kalkonbacon-100770756_ST",
+    "nutrition": {
+      "energi": "130 kilokalori",
+      "fett": "5.8 gram",
+      "varav mättat fett": "1.8 gram",
+      "kolhydrat": "2.8 gram",
+      "varav sockerarter": "1.3 gram",
+      "protein": "17 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Varmkorv",
+    "price": "34,95",
+    "product_description": "Klassisk varmkorv, gjord på svenskt kött. Helt fri från gluten och mjölk.",
+    "url": "https://www.hemkop.se/produkt/Varmkorv-101236860_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "21 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "7 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "8 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Varmkorv",
+    "price": "59,95",
+    "product_description": "Klassisk varmkorv gjord på svenskt kött. Helt fri från gluten och mjölk.",
+    "url": "https://www.hemkop.se/produkt/Varmkorv-101236861_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "21 gram",
+      "kolhydrat": "7 gram",
+      "protein": "8 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "8 gram",
+      "varav sockerarter": "1 gram"
+    }
+  },
+  {
+    "title": "Fläskfärs 20% Sverige",
+    "price": "46,95",
+    "product_description": "Fläskfärs från svenska gårdar. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Flaskfars-20procent-Sverige-101106241_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.6 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "16 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Högrevsfärs 13% Sverige",
+    "price": "91,00",
+    "product_description": "Kika närmare på vår fina högrevsfärs! Den är lite grövre än vanlig köttfärs och passar perfekt till exempelvis hamburgare. Tänk på att den ska genomstekas. Mums! Märket Svensk Kött visar att köttet i produkten kommer från djur som är födda och uppfödda i Sverige. Produkten är även förädlad och förpackad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Hogrevsfars-13procent-Sverige-101203891_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "13 gram",
+      "varav mättat fett": "6 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Nöt & Grönt Nötkött Grönsaker Sverige",
+    "price": "53,95",
+    "product_description": "Färs av 50% nötkött, 25% morot och 25% blomkål. Passar utmärkt till taco, köttfärssås och lasagne. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Not-och-Gront-Notkott-Gronsaker-Sverige-101506778_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "6.2 gram",
+      "varav mättat fett": "3 gram",
+      "kolhydrat": "2.2 gram",
+      "varav sockerarter": "2.1 gram",
+      "protein": "10 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 5% Sverige",
+    "price": "76,95",
+    "product_description": "Nötfärs med låg fetthalt men med samma god smak. Märket Kött från Sverige visar att köttet i produkten kommer från djur som är födda och uppfödda i Sverige. Produkten är även förädlad och förpackad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Notfars-5procent-Sverige-101269567_ST",
+    "nutrition": {
+      "energi": "130 kilokalori",
+      "fett": "5 gram",
+      "varav mättat fett": "2.6 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "21 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Blandfärs 20% Sverige",
+    "price": "90,00",
+    "product_description": "Blandfärs av kött från Sverige. 50% nöt och 50% fläsk. 800 gram.",
+    "url": "https://www.hemkop.se/produkt/Blandfars-20procent-Sverige-101476172_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.9 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Fläskfärs 20% Sverige",
+    "price": "76,95",
+    "product_description": "Får vi presentera vår smarriga fläskfärs? Gör underverk för dina köttbullar, pannbiffar och kåldolmar. Tänk på att den ska genomstekas. Lycka till!",
+    "url": "https://www.hemkop.se/produkt/Flaskfars-20procent-Sverige-101203624_KG",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.6 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "16 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Blandfärs 20% Sverige",
+    "price": "111,00",
+    "product_description": "Blandfärs av nöt och fläsk. Kött från svenska gårdar. 1kg.",
+    "url": "https://www.hemkop.se/produkt/Blandfars-20procent-Sverige-101203648_KG",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.9 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Hamburgerfärs",
+    "price": "119,00",
+    "product_description": "Hamburgerfärs med kött från svenska gårdar. 800 gram.",
+    "url": "https://www.hemkop.se/produkt/Hamburgerfars-101547577_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "12 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Blandfärs 20% Sverige",
+    "price": "68,95",
+    "product_description": "Blandfärs av nöt och fläsk. Kött från svenska gårdar. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Blandfars-20procent-Sverige-101106143_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.9 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "73,95",
+    "product_description": "Kika närmare på vår fina nötfärs! Passar förstås bra till det allra mesta, som köttbullar, tacos och pannbiff. Tänk på att den ska genomstekas. Mums!",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101106303_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Blandfärs 20% Sverige",
+    "price": "68,95",
+    "product_description": "Kika närmare på en blandfärs som gör dina köttbullar och pannbiffar lite saftigare. Tänk på att den ska genomstekas. Hoppas det smakar!",
+    "url": "https://www.hemkop.se/produkt/Blandfars-20procent-Sverige-101106152_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "8.2 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "17 gram",
+      "salt": "0.15 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "141,00",
+    "product_description": "Nötfärs från svenska gårdar. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101203634_KG",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.1 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "73,95",
+    "product_description": "Nötfärs från svenska gårdar. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101106287_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Nötfärs 12% Sverige",
+    "price": "52,95",
+    "product_description": "Kika närmare på vår fina nötfärs! Passar förstås bra till det allra mesta, som köttbullar, tacos och pannbiff. Tänk på att den ska genomstekas. Mums! 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Notfars-12procent-Sverige-101106312_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "19 gram",
+      "salt": "0.13 gram"
+    }
+  },
+  {
+    "title": "Rökt Kalkon Tunna Skivor Skivad",
+    "price": "37,95",
+    "product_description": "Rökt kalkon i tunna skivor. Redo att äta. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Kalkon-Tunna-Skivor-Skivad-101343816_ST",
+    "nutrition": {
+      "energi": "108 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "4.5 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "18 gram",
+      "salt": "2.3 gram"
+    }
+  },
+  {
+    "title": "Salame Milano Skivad",
+    "price": "27,95",
+    "product_description": "Salame Milano - klassisk finprickig italiensk salami. Traditionell kryddning och varsam lagring ger denna favorit dess fylliga, men milda smak. Njut den gärna rumstempererad. Salamin är en av många godbitar i vårt sortiment av Italiensk Deli.",
+    "url": "https://www.hemkop.se/produkt/Salame-Milano-Skivad-101206369_ST",
+    "nutrition": {
+      "energi": "380 kilokalori",
+      "fett": "30 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "1.7 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "25 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Prosciutto Crudo Skivad",
+    "price": "115,00",
+    "product_description": "Prosciutto crudo lagrad i minst 10 månader. Luftorkad skinka enligt italiensk tradition. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Crudo-Skivad-101206349_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "5.2 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.2 gram",
+      "protein": "30 gram",
+      "salt": "6.3 gram"
+    }
+  },
+  {
+    "title": "Prosciutto Di Parma Skivad",
+    "price": "48,95",
+    "product_description": "Prosciutto di parma lagrad i minst 13 månader. Lufttorkad enligt italiensk tradition. 70 gram.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Di-Parma-Skivad-101206350_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "16 gram",
+      "varav mättat fett": "5.7 gram",
+      "kolhydrat": "0.1 gram",
+      "varav sockerarter": "0.1 gram",
+      "protein": "29 gram",
+      "salt": "5.6 gram"
+    }
+  },
+  {
+    "title": "Salame Ventricina Skivad",
+    "price": "27,95",
+    "product_description": "Salame Ventricina Piccante - het salami med rökig karaktär, kryddad med bland annat svartpeppar och italiensk chili. Njut den pikanta delikatess som den är eller med gott bröd. Vår Salami Ventricina Piccante är en av många godbitar i vårt sortiment av Italiensk Deli.",
+    "url": "https://www.hemkop.se/produkt/Salame-Ventricina-Skivad-101206375_ST",
+    "nutrition": {
+      "energi": "350 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "1.4 gram",
+      "varav sockerarter": "1.4 gram",
+      "protein": "28 gram",
+      "salt": "4.5 gram"
+    }
+  },
+  {
+    "title": "Antipasti Skivad",
+    "price": "47,95",
+    "product_description": "Antipasti med salame spianata romana, salame al finocchio och prosciutto crudo. Mild och smakrik salami och lufttorkad skinka. Tillverkad enligt italiensk tradition. 120 gram.",
+    "url": "https://www.hemkop.se/produkt/Antipasti-Skivad-101206371_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "5.2 gram",
+      "kolhydrat": "0.3 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "30 gram",
+      "salt": "6.3 gram"
+    }
+  },
+  {
+    "title": "Grillkorv Tjock Skinnfri",
+    "price": "29,95",
+    "product_description": "Svensk tjock grillkorv med 67% hög kötthalt med kött från Sverige. Lika god grillad som stekt. 320 gram.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Tjock-Skinnfri-101363759_ST",
+    "nutrition": {
+      "energi": "253 kilokalori",
+      "fett": "21 gram",
+      "kolhydrat": "7 gram",
+      "protein": "9 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "7 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Klassisk Kebab",
+    "price": "51,95",
+    "product_description": "Öppnad förpackning bör konsumeras omgående.",
+    "url": "https://www.hemkop.se/produkt/Klassisk-Kebab-101807036_ST",
+    "nutrition": {
+      "energi": "291 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "12 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "14 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Big-pack Kebab",
+    "price": "95,00",
+    "product_description": "En färsk kebab som räcker till hela familjen eller till hemmakebabfesten! Grillad, saftig och tunt skuren kebab som smakar precis som den ska.",
+    "url": "https://www.hemkop.se/produkt/Big-pack-Kebab-101466482_ST",
+    "nutrition": {
+      "energi": "275 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "12 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "0.9 gram",
+      "protein": "13 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Kyckling Vingar Frysta",
+    "price": "38,95",
+    "product_description": "Djupfrysta kycklingvingar av svensk kyckling. Utan vingspets. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Vingar-Frysta-101273579_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.2 gram"
+    }
+  },
+  {
+    "title": "Kycklinglår Frysta",
+    "price": "38,95",
+    "product_description": "Djupfryst kycklinglår av svensk kyckling. Mörad med del av ryggben. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kycklinglar-Frysta-101273580_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Kyckling Ben Frysta",
+    "price": "38,95",
+    "product_description": "Djupfrysta kycklingben av svensk kyckling. Mörad. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Ben-Frysta-101273702_ST",
+    "nutrition": {
+      "energi": "650 kilojoule",
+      "fett": "9 gram",
+      "kolhydrat": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram",
+      "varav mättat fett": "3 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Sylta Småländsk med Kalvkött",
+    "price": "21,95",
+    "product_description": "Vår småländska sylta görs i vår fabrik i Moheda utanför Alvesta och är en av våra mest traditionella produkter. Syltan har en låg fetthalt, en len karaktär som nästan smälter i munnen, och en god smak som stannar kvar länge. Ett måste på julbordet eller när man bara vill lyxa till det med lite klassisk husmanskost!",
+    "url": "https://www.hemkop.se/produkt/Sylta-Smalandsk-med-Kalvkott-100268611_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "8 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "11 gram",
+      "salt": "1.7 gram"
+    }
+  },
+  {
+    "title": "Kalvsylta Småländsk",
+    "price": "22,95",
+    "product_description": "Öppnad förpackning förvaras i kylskåp 3-5 dagar.",
+    "url": "https://www.hemkop.se/produkt/Kalvsylta-Smalandsk-100450520_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "8 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "12 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Gourmetskinka Basturökt Skivad",
+    "price": "43,95",
+    "product_description": "Rökt Gourmetskinka från Pärsons är en klassisk varmrökt gourmetskinka och är Sveriges mest köpta. Testa den och du förstår varför. Här kombineras en smakrik karaktär med en tunn och mjäll konsistens.",
+    "url": "https://www.hemkop.se/produkt/Gourmetskinka-Basturokt-Skivad-101278621_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.4 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Kalkon Rökt Tunna Skivor",
+    "price": "43,95",
+    "product_description": "Sveriges mest köpta kalkon! Ett magert och fräscht pålägg i ett. Endast 2% fett men desto mer smak, tack vare omsorgsfull varmrökning.",
+    "url": "https://www.hemkop.se/produkt/Kalkon-Rokt-Tunna-Skivor-100585172_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.4 gram",
+      "protein": "19 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Medwurst Kokt Skivad",
+    "price": "26,95",
+    "product_description": "En klassisk kokt medwurst av fläsk- och nötkött, mild med något kryddig smak. En härlig smakrik upplevelse och njutning av stora skivor som fyller hela smörgåsen.",
+    "url": "https://www.hemkop.se/produkt/Medwurst-Kokt-Skivad-100585127_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "8.7 gram",
+      "kolhydrat": "5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "9 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Rökt Salami Tunna Skivor",
+    "price": "33,95",
+    "product_description": "Vår rökta salami är gjord på nöt- och fläskkött som kryddats med vitlök. Salamin röks långsamt över spån och får sedan torka under en längre då smaken mognar fram.",
+    "url": "https://www.hemkop.se/produkt/Rokt-Salami-Tunna-Skivor-100585109_ST",
+    "nutrition": {
+      "energi": "460 kilokalori",
+      "fett": "44 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "1.9 gram",
+      "protein": "14 gram",
+      "salt": "2.8 gram"
+    }
+  },
+  {
+    "title": "Hushålls Medwurst Skivad",
+    "price": "26,95",
+    "product_description": "Pärsons hushållsmedwurst är en klassisk kallrökt medwurst, med en mild smak som går hem hos både stora och små. Vi kallröker medwursten på gammaldags vis, långsamt och i flera dagar över alspån. Korven får sedan hänga och mogna till sig för att utveckla sin karaktäristiska smak och syrlighet. Vår hushållsmedwurst smakar gott på såväl vitt bröd som fullkornsbröd, kanske extra god på en klassisk sirapslimpa. Toppa gärna med något krispigt eller syrligt, såsom gurka, picklade grönsaker eller krispig sallad.",
+    "url": "https://www.hemkop.se/produkt/Hushalls-Medwurst-Skivad-101599343_ST",
+    "nutrition": {
+      "energi": "410 kilokalori",
+      "fett": "36 gram",
+      "varav mättat fett": "15 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "5.7 gram",
+      "protein": "13 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Gourmetskinka Rökt Skivad",
+    "price": "33,95",
+    "product_description": "Vår klassiska varmrökta gourmetskinka är Sveriges mest köpta – testa den och du förstår varför. Här kombineras en smakrik karaktär med en tunn och mjäll konsistens.",
+    "url": "https://www.hemkop.se/produkt/Gourmetskinka-Rokt-Skivad-100585047_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.4 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Cognacs- Medwurst Skivad",
+    "price": "26,95",
+    "product_description": "Pärsons cognacsmedwurst är en klassisk medwurst med en balanserad ton av cognac. Vi kallröker medwursten på gammaldags vis, långsamt och i flera dagar över alspån. Korven får sedan hänga och mogna till sig för att utveckla sin karaktäristiska smak och syrlighet. Vår cognacsmedwurst smakar gott på såväl vitt bröd som fullkornsbröd, kanske extra god på en klassisk sirapslimpa. Toppa gärna med något krispigt eller syrligt, såsom gurka, picklade grönsaker eller krispig sallad.",
+    "url": "https://www.hemkop.se/produkt/Cognacs--Medwurst-Skivad-101615506_ST",
+    "nutrition": {
+      "energi": "410 kilokalori",
+      "fett": "36 gram",
+      "varav mättat fett": "15 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "5.7 gram",
+      "protein": "13 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Gourmetskinka Kokt Skivad",
+    "price": "33,95",
+    "product_description": "Varför ändra något som redan är bra? Så har vi resonerat under åren när vår kokta gourmetskinka kommit på tal. Denna svenska klassiker är en av våra mest sålda produkter. Och det är inte så konstigt, skinkan saltas och kokas mycket varsamt för att bli precis så mild och mager som du och vi vill ha den.",
+    "url": "https://www.hemkop.se/produkt/Gourmetskinka-Kokt-Skivad-100585056_ST",
+    "nutrition": {
+      "energi": "90 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "1.4 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "18 gram",
+      "salt": "2.4 gram"
+    }
+  },
+  {
+    "title": "Kyckling Köttbullar",
+    "price": "52,95",
+    "product_description": "INGREDIENSER: Maskinurbenad kyckling 65%, rapsolja, kycklingskinn, kyckling 7%, ströbröd (VETEMJÖL, salt, jäst), ättiksyra, salt, lök, vitlök, maltodextrin, socker, hydrolyserat vegetabiliskt protein, vitpeppar, persilja, salladslökblad, VETEFIBER, stabiliseringsmedel (E450). Kan innehålla spår av ÄGG, SOJA, MJÖLK, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Kottbullar-101591055_ST",
+    "nutrition": {
+      "energi": "347 kilokalori",
+      "fett": "30 gram",
+      "varav mättat fett": "6.1 gram",
+      "kolhydrat": "5.8 gram",
+      "varav sockerarter": "0.7 gram",
+      "protein": "13 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Kyckling Nuggets",
+    "price": "44,95",
+    "product_description": "INGREDIENSER: Köttmassa 55% (kycklingkött, kycklingskinn, vatten, ströbröd (VETEMJÖL, salt, jäst), stärkelse, VETEMJÖL, salt, jästextrakt), panering 45 % (VETEMJÖL, vatten, majsmjöl, rapsolja, salt, vasslepulver (av MJÖLK), druvsocker, bakpulver (E450, E500), svartpepparextrakt, jäst). Köttmassan innehåller 66% kycklingkött. Kan innehålla spår av ÄGG, SOJA, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Nuggets-101591057_ST",
+    "nutrition": {
+      "energi": "222 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "1.8 gram",
+      "kolhydrat": "18 gram",
+      "varav sockerarter": "1.8 gram",
+      "protein": "10 gram",
+      "salt": "0.8 gram"
+    }
+  },
+  {
+    "title": "Kyckling Burgare 10x90g",
+    "price": "59,95",
+    "product_description": "INGREDIENSER: Kyckling 46%, ströbröd (VETEMJÖL, salt, jäst, färgämne (betakaroten, paprikaextrakt)), kycklingskinn, rapsolja, vatten, ströbröd (VETEMJÖL, salt, jäst), VETEMJÖL, ärtfiber, potatisstärkelse, salt, modifierad potatisstärkelse. Kan innehålla spår av ÄGG, SOJA, MJÖLK, SELLERI, SENAP. Köttursprung: Litauen, Lettland.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Burgare-10x90g-101591056_ST",
+    "nutrition": {
+      "energi": "210 kilokalori",
+      "fett": "9.3 gram",
+      "varav mättat fett": "1.5 gram",
+      "kolhydrat": "19 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "12 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Vår Rökigaste Skinka Skivad",
+    "price": "29,95",
+    "product_description": "Varmrökt med alflis under mycket lång tid för en intensiv smak.",
+    "url": "https://www.hemkop.se/produkt/Var-Rokigaste-Skinka-Skivad-101599496_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.8 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "19 gram",
+      "salt": "3.2 gram"
+    }
+  },
+  {
+    "title": "Extrarökt Skinka Skivad",
+    "price": "29,95",
+    "product_description": "Varmrökt extra länge med alflis, för en fylligare röksmak.",
+    "url": "https://www.hemkop.se/produkt/Extrarokt-Skinka-Skivad-101599495_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.8 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "19 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Kalkon Basturökt Skivad",
+    "price": "29,95",
+    "product_description": "Kalkonbröst som lättröks med alflis, för en mild och rökig smak.",
+    "url": "https://www.hemkop.se/produkt/Kalkon-Basturokt-Skivad-101599521_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "0.9 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "3 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "20 gram",
+      "salt": "2.9 gram"
+    }
+  },
+  {
+    "title": "Lindösalami Peppar Skivad",
+    "price": "29,95",
+    "product_description": "Kallrökt och lufttorkad, med en mogen salamismak smaksatt med peppar.",
+    "url": "https://www.hemkop.se/produkt/Lindosalami-Peppar-Skivad-101554184_ST",
+    "nutrition": {
+      "energi": "430 kilokalori",
+      "fett": "36 gram",
+      "varav mättat fett": "14 gram",
+      "kolhydrat": "2.3 gram",
+      "varav sockerarter": "0.7 gram",
+      "protein": "23 gram",
+      "salt": "4.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Medvurst Skivad",
+    "price": "29,95",
+    "product_description": "Kyld, kallrökt, färdigskivad medvurst av kyckling, Svensk Fågel, i 120g’s plånboksförpackning (SRS). Pålägget har en lätt röksmak och viss syrlighet, din nya favorit ”prickig korv”. Klimatsmart alternativ (3,19kg CO₂e/kg). Tillverkad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Medvurst-Skivad-101359681_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "22 gram",
+      "kolhydrat": "3.5 gram",
+      "protein": "19 gram",
+      "salt": "3.6 gram",
+      "varav mättat fett": "7.1 gram",
+      "varav sockerarter": "2.2 gram"
+    }
+  },
+  {
+    "title": "Kyckling Grillad Skivad",
+    "price": "29,95",
+    "product_description": "Varmrökt med alflis, sedan griljerad med vår egen kryddblandning.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Grillad-Skivad-101599519_ST",
+    "nutrition": {
+      "energi": "480 kilojoule",
+      "fett": "1.9 gram",
+      "kolhydrat": "2 gram",
+      "protein": "22 gram",
+      "salt": "2.8 gram",
+      "varav mättat fett": "0.7 gram",
+      "varav sockerarter": "0.7 gram"
+    }
+  },
+  {
+    "title": "Ugnsrostad Skinka Skivad",
+    "price": "29,95",
+    "product_description": "Varmrökt och ugnsrostad för extra brynta toner på mackan.",
+    "url": "https://www.hemkop.se/produkt/Ugnsrostad-Skinka-Skivad-101599497_ST",
+    "nutrition": {
+      "energi": "480 kilojoule",
+      "fett": "2.8 gram",
+      "kolhydrat": "2.5 gram",
+      "protein": "19 gram",
+      "salt": "2.8 gram",
+      "varav mättat fett": "1.1 gram",
+      "varav sockerarter": "0.8 gram"
+    }
+  },
+  {
+    "title": "Skinka Basturökt Skivad",
+    "price": "29,95",
+    "product_description": "En skinka varsamt rökt med alflis, med en mild och fin röksmak.",
+    "url": "https://www.hemkop.se/produkt/Skinka-Basturokt-Skivad-101599494_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.8 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "19 gram",
+      "salt": "2.8 gram"
+    }
+  },
+  {
+    "title": "Kokt Skinka Skivad",
+    "price": "29,95",
+    "product_description": "En mild och saftig skinka med smak av Lönnebergas egna kryddlake.",
+    "url": "https://www.hemkop.se/produkt/Kokt-Skinka-Skivad-101599518_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.8 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "2.5 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "19 gram",
+      "salt": "2.7 gram"
+    }
+  },
+  {
+    "title": "Extrarökt Kyckling Skivad",
+    "price": "29,95",
+    "product_description": "Kycklingbröst, varmrökt extra länge för en kraftig och fyllig smak.",
+    "url": "https://www.hemkop.se/produkt/Extrarokt-Kyckling-Skivad-101599520_ST",
+    "nutrition": {
+      "energi": "500 kilojoule",
+      "fett": "1.9 gram",
+      "kolhydrat": "1.5 gram",
+      "protein": "23 gram",
+      "salt": "3.2 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Grillkorv Hots",
+    "price": "18,95",
+    "product_description": "Alltid lika god lägereldsklassiker som passar hela familjen. Mild i smaken och skinnfri.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Hots-100070977_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "18 gram",
+      "kolhydrat": "14 gram",
+      "protein": "6.7 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "7 gram",
+      "varav sockerarter": "0.8 gram"
+    }
+  },
+  {
+    "title": "Barnens Grillkorv",
+    "price": "28,95",
+    "product_description": "Barnens kalasgoda grillkorv, rik på kött och mild i smaken.",
+    "url": "https://www.hemkop.se/produkt/Barnens-Grillkorv-101512423_ST",
+    "nutrition": {
+      "energi": "220 kilokalori",
+      "fett": "17 gram",
+      "varav mättat fett": "6.8 gram",
+      "kolhydrat": "7.1 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "9.6 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Kyckling Klubba Fryst",
+    "price": "38,95",
+    "product_description": "Djupfryst kycklingklubba av svensk kyckling. Mörad med del av ryggben. 1kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-Klubba-Fryst-101273506_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "4.4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "19 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Cognacmedwurst Enrisrökt",
+    "price": "38,95",
+    "product_description": "Svart cognacmedwurst enisrökt. Ca 350 gram.",
+    "url": "https://www.hemkop.se/produkt/Cognacmedwurst-Enrisrokt-101539477_ST",
+    "nutrition": {
+      "energi": "380 kilokalori",
+      "fett": "33 gram",
+      "varav mättat fett": "14 gram",
+      "kolhydrat": "8.1 gram",
+      "varav sockerarter": "3.5 gram",
+      "fiber": "1 gram",
+      "protein": "13 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Cognacmedwurst Alspånsrökt",
+    "price": "38,95",
+    "product_description": "Röd cognacmedwurst alspånsrökt. Kött från Sverige. Ca 350 gram.",
+    "url": "https://www.hemkop.se/produkt/Cognacmedwurst-Alspansrokt-101539478_ST",
+    "nutrition": {
+      "energi": "380 kilokalori",
+      "fett": "33 gram",
+      "fiber": "1 gram",
+      "kolhydrat": "8.1 gram",
+      "protein": "13 gram",
+      "salt": "3 gram",
+      "varav mättat fett": "14 gram",
+      "varav sockerarter": "3.5 gram"
+    }
+  },
+  {
+    "title": "Chorizo Bbq Hot",
+    "price": "51,95",
+    "product_description": "Färsk stark chorizo kryddad med cayennepeppar, vitlök, muskot och oregano. Bjuder på härlig doft och smak efter tillagning på grillen, i stekpannan eller i ugnen.",
+    "url": "https://www.hemkop.se/produkt/Chorizo-Bbq-Hot-101207543_ST",
+    "nutrition": {
+      "energi": "480 kilokalori",
+      "fett": "44 gram",
+      "varav mättat fett": "17 gram",
+      "kolhydrat": "2.7 gram",
+      "varav sockerarter": "1.3 gram",
+      "protein": "19 gram",
+      "salt": "2.6 gram"
+    }
+  },
+  {
+    "title": "Bratwurst Nürnberger",
+    "price": "36,95",
+    "product_description": "Nurnberger rostbratwurst enligt tysk tradition. Hög kvalitet med 95% köttmängd. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Bratwurst-Nurnberger-101281487_ST",
+    "nutrition": {
+      "energi": "359 kilokalori",
+      "fett": "32 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "14 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Chorizo Bbq Mild",
+    "price": "54,95",
+    "product_description": "Mild bbq chorizo. Färsk och smakrik kryddad med paprika, vitlök, muskot och oregano. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Chorizo-Bbq-Mild-101197435_ST",
+    "nutrition": {
+      "energi": "470 kilokalori",
+      "fett": "43 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "2.7 gram",
+      "varav sockerarter": "1.4 gram",
+      "fiber": "1.5 gram",
+      "protein": "20 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Grillkorv Kyckling",
+    "price": "21,95",
+    "product_description": "Skinnfri kycklinggrillkorv från Kronfågel är tillverkad av 64 % hälsosam och mager kyckling, färdig att äta vardag som helg. Kycklinggrillkorven kan grillas eller stekas och serveras i bröd eller med klassiska tillbehör som stuvade makaroner eller potatismos med rårörda lingon. 100 % svensk kyckling omsorgsfullt uppfödd på våra svenska gårdar, vilket innebär god djurhållning, högsta kvalitet och hälsosam, klimatsmart mat på tallriken.",
+    "url": "https://www.hemkop.se/produkt/Grillkorv-Kyckling-101336204_ST",
+    "nutrition": {
+      "energi": "210 kilokalori",
+      "fett": "15 gram",
+      "varav mättat fett": "3.8 gram",
+      "kolhydrat": "7.2 gram",
+      "varav sockerarter": "< 0.5 gram",
+      "protein": "11 gram",
+      "salt": "1.7 gram"
+    }
+  },
+  {
+    "title": "Kalkonbröst Basturökt",
+    "price": "28,95",
+    "product_description": "Kalkonbröst (85%), vatten, salt, druvsocker (majs), stabiliseringsmedel E451, antioxidationsmedel E301, konserveringsmedel E250.",
+    "url": "https://www.hemkop.se/produkt/Kalkonbrost-Basturokt-101510721_ST",
+    "nutrition": {
+      "energi": "106 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "2.2 gram",
+      "varav sockerarter": "1.5 gram",
+      "protein": "19 gram",
+      "salt": "2.6 gram"
+    }
+  },
+  {
+    "title": "Rökta Skinka Bror Jakobs Skivad",
+    "price": "36,50",
+    "product_description": "Skinka 96% (helmuskel), salt, druvsocker (majs), antioxidationsmedel E325, E301, stabiliseringsmedel E451, kryddor, kryddextrakt (muskot), konserveringsmedel E250. Rökt med rökarom.",
+    "url": "https://www.hemkop.se/produkt/Rokta-Skinka-Bror-Jakobs-Skivad-101599505_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.8 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "20 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Gallerrökt Skinka Skivad Pepparkryddad",
+    "price": "15,00",
+    "product_description": "Skinka 96% (helmuskel), salt, druvsocker (majs), antioxidationsmedel E325, E301, svartpeppar, stabiliseringsmedel E451, kryddor, kryddextrakt (muskot), konserveringsmedel E250. Rökt med rökarom.",
+    "url": "https://www.hemkop.se/produkt/Gallerrokt-Skinka-Skivad-Pepparkryddad-101599500_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.8 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "20 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Gallerrökt Skinka Skivad",
+    "price": "39,95",
+    "product_description": "Skinka 96% (helmuskel), salt, druvsocker (majs), antioxidationsmedel E325, E301, stabiliseringsmedel E451, kryddor, kryddextrakt (muskot), konserveringsmedel E250. Rökt med rökarom.",
+    "url": "https://www.hemkop.se/produkt/Gallerrokt-Skinka-Skivad-101599501_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "1.9 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "20 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Rökta Bog Skivad",
+    "price": "33,95",
+    "product_description": "Fläskkött (95%) , salt, druvsocker (majs), antioxidationsmedel E325, E301, stabiliserings- medel E451, kryddor, kryddextrakt (muskot), konserv- eringsmedel E250. Rökt med rökarom.",
+    "url": "https://www.hemkop.se/produkt/Rokta-Bog-Skivad-101599297_ST",
+    "nutrition": {
+      "energi": "490 kilojoule",
+      "fett": "2.3 gram",
+      "kolhydrat": "1.9 gram",
+      "protein": "20 gram",
+      "salt": "3 gram",
+      "varav mättat fett": "0.8 gram",
+      "varav sockerarter": "1.6 gram"
+    }
+  },
+  {
+    "title": "Svartrökta Skinka Skivad Bror Jakobs",
+    "price": "60,95",
+    "product_description": "Skinka 96% (helmuskel), salt, druvsocker (majs), antioxidationsmedel E325, E301, stabiliseringsmedel E451, kryddor, kryddextrakt (muskot), konserveringsmedel E250. Rökt med rökarom.",
+    "url": "https://www.hemkop.se/produkt/Svartrokta-Skinka-Skivad-Bror-Jakobs-101599504_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.8 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "20 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Kokta Skinka Skivad Mor Matildas",
+    "price": "32,95",
+    "product_description": "Skinka 96% (helmuskel), salt, druvsocker (majs), antioxidationsmedel E325, E301, stabiliseringsmedel E451, kryddor, kryddextrakt (muskot), konserveringsmedel E250.",
+    "url": "https://www.hemkop.se/produkt/Kokta-Skinka-Skivad-Mor-Matildas-101599503_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "2.2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.8 gram",
+      "varav sockerarter": "1.6 gram",
+      "protein": "20 gram",
+      "salt": "3.5 gram"
+    }
+  },
+  {
+    "title": "Rostbiff Grillad",
+    "price": "33,95",
+    "product_description": "Nötkött (95%), salt, kryddor, druvsocker, lök, majsstärkelse, socker, arom, vitlök, stabiliseringsmedel E451, glukossirap, kryddextrakt, antioxidationsmedel E325, E 301.",
+    "url": "https://www.hemkop.se/produkt/Rostbiff-Grillad-101510719_ST",
+    "nutrition": {
+      "energi": "110 kilokalori",
+      "fett": "1.6 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "1.9 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "21 gram",
+      "salt": "2.2 gram"
+    }
+  },
+  {
+    "title": "Tärnat Bacon",
+    "price": "25,95",
+    "product_description": "Tärnat bacon. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Tarnat-Bacon-101353515_ST",
+    "nutrition": {
+      "energi": "299 kilokalori",
+      "fett": "27 gram",
+      "varav mättat fett": "10 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "14 gram",
+      "salt": "2.6 gram"
+    }
+  },
+  {
+    "title": "Husmorspastej Grädd",
+    "price": "23,50",
+    "product_description": "Grislever (36%), fett från gris, MJÖLK, VETEmjöl, socker, koksalt, GRÄDDpulver, kryddextrakt, MJÖLKpulver, förtjockningsmedel (E412), lök, muskotnöt, antioxidationsmedel (E301), konserveringsmedel (E250).",
+    "url": "https://www.hemkop.se/produkt/Husmorspastej-Gradd-100131340_ST",
+    "nutrition": {
+      "energi": "320 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "9 gram",
+      "varav sockerarter": "5.1 gram",
+      "protein": "12 gram",
+      "salt": "2.7 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Falukorv",
+    "price": "18,95",
+    "product_description": "SVENSKT FLÄSKKÖTT 70%, VATTEN, POTATISMJÖL, POTATISFIBER, KRYDDOR (LÖK, PAPRIKA, KORIANDER, MUSKOT), SALT, ANTIOXIDATIONSMEDEL: ASKORBINSYRA, KONSERVERINGSMEDEL: NATRIUMNITRIT, RÖKAROM, STABILISERINGSMEDEL: E450",
+    "url": "https://www.hemkop.se/produkt/Falukorv-101175394_ST",
+    "nutrition": {
+      "energi": "220 kilokalori",
+      "fett": "19 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "4 gram",
+      "varav sockerarter": "0.1 gram",
+      "protein": "11 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Falukorv Delikatess",
+    "price": "18,95",
+    "product_description": "Svensk delikatess falukorv enligt svensk tradition. Kött från Sverige. 550 gram.",
+    "url": "https://www.hemkop.se/produkt/Falukorv-Delikatess-101189852_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "21 gram",
+      "kolhydrat": "4.6 gram",
+      "protein": "11 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "8.6 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Leverpastej med Gurka Bredbar",
+    "price": "29,95",
+    "product_description": "Bredbar leverpastej med balanserad mild leversmak och hackad saltgurka i. Bra källa till järn.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-med-Gurka-Bredbar-100374266_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "13 gram",
+      "kolhydrat": "10 gram",
+      "varav sockerarter": "4.9 gram",
+      "protein": "6.5 gram",
+      "salt": "2 gram",
+      "järn": "3.1 milligram"
+    }
+  },
+  {
+    "title": "Kycklingpastej Bredbar",
+    "price": "15,95",
+    "product_description": "Kyld, krämig leverpastej av kyckling, Svensk Fågel med mild leversmak. Klimatsmart alternativ (1,39kg CO₂e/kg). Gluten- och mjölkfri. Tillverkad i Sverige.",
+    "url": "https://www.hemkop.se/produkt/Kycklingpastej-Bredbar-101256061_ST",
+    "nutrition": {
+      "energi": "240 kilokalori",
+      "fett": "18 gram",
+      "varav mättat fett": "2.8 gram",
+      "kolhydrat": "12 gram",
+      "varav sockerarter": "2.7 gram",
+      "protein": "5.1 gram",
+      "salt": "1.8 gram"
+    }
+  },
+  {
+    "title": "Mild & Krämig Leverpastej Bredbar",
+    "price": "10,00",
+    "product_description": "Bredbar leverpastej med härlig krämighet och väldigt mild leversmak. Bra källa till järn.",
+    "url": "https://www.hemkop.se/produkt/Mild-och-Kramig-Leverpastej-Bredbar-101196726_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "6.9 gram",
+      "kolhydrat": "7 gram",
+      "varav sockerarter": "3.4 gram",
+      "protein": "6.9 gram",
+      "salt": "1.5 gram",
+      "järn": "3.6 milligram"
+    }
+  },
+  {
+    "title": "Mustig&smakrik Leverpastej Bredbar",
+    "price": "10,00",
+    "product_description": "Bredbar leverpastej med mustig leversmak och något grövre i konsistensen än våra övriga bredbara pastejer. Bra källa till järn.",
+    "url": "https://www.hemkop.se/produkt/Mustigochsmakrik-Leverpastej-Bredbar-101196714_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "5.8 gram",
+      "kolhydrat": "6.5 gram",
+      "varav sockerarter": "2.3 gram",
+      "protein": "12 gram",
+      "salt": "1.7 gram",
+      "järn": "9.3 milligram"
+    }
+  },
+  {
+    "title": "Leverpastej Bredbar",
+    "price": "39,95",
+    "product_description": "Pastejköket bredbar leverpastej, favoriten på svenskarnas frukostbord sdan 1970. Krämig med en mild leversmak och bra källa till järn.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Bredbar-100139636_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "9.4 gram",
+      "kolhydrat": "9 gram",
+      "varav sockerarter": "4 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "järn": "5.6 milligram"
+    }
+  },
+  {
+    "title": "Original Leverpastej 2-pack",
+    "price": "23,50",
+    "product_description": "Pastejköket bredbar leverpastej, favoriten på svenskarnas frukostbord sdan 1970. Krämig med en mild leversmak och bra källa till järn. Denna variant i vår populära duopack för den som vill spara lite till ett senare tillfälle.",
+    "url": "https://www.hemkop.se/produkt/Original-Leverpastej-2-pack-100395083_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "9.4 gram",
+      "kolhydrat": "9 gram",
+      "varav sockerarter": "4 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "järn": "5.6 milligram"
+    }
+  },
+  {
+    "title": "Skivat Bacon",
+    "price": "11,50",
+    "product_description": "Skivat Bacon. Testa en schysst vara! Eldorados produkter är utvalda och kvalitetstestade av Axfood Sverige AB. Hör av dig om du ändå inte skulle vara nöjd.",
+    "url": "https://www.hemkop.se/produkt/Skivat-Bacon-101206415_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "25 gram",
+      "varav mättat fett": "10 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.8 gram"
+    }
+  },
+  {
+    "title": "Skivat Bacon 3-pack",
+    "price": "47,95",
+    "product_description": "Skivat Bacon. Testa en schysst vara! Eldorados produkter är utvalda och kvalitetstestade av Axfood Sverige AB. Hör av dig om du ändå inte skulle vara nöjd.",
+    "url": "https://www.hemkop.se/produkt/Skivat-Bacon-3-pack-101206416_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "25 gram",
+      "varav mättat fett": "10 gram",
+      "kolhydrat": "0 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "13 gram",
+      "salt": "2.8 gram"
+    }
+  },
+  {
+    "title": "Pancetta",
+    "price": "69,95",
+    "product_description": "Natural pancetta. Rimmat och luftorkat sidfläsk enligt italiensk tradition. 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Pancetta-101333951_ST",
+    "nutrition": {
+      "energi": "572 kilokalori",
+      "fett": "57 gram",
+      "varav mättat fett": "27 gram",
+      "kolhydrat": "0.8 gram",
+      "varav sockerarter": "0.6 gram",
+      "protein": "14 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Rostbiff Vinmarinerad",
+    "price": "12,00",
+    "product_description": "INGREDIENSER: Nötinnanlår, vatten, paprika (röd, grön), salt, druvsocker, kryddor (paprikapulver, svartpeppar), lök, Rödvin extrakt (0,4%), antioxidationsmedel (E331, E301), köttbuljong (av nöttkött), kryddextrakt (paprika, muskot), stabiliseringsmedel (E450), arom. Köttmängd: 92%. Köttursprung: Tyskland",
+    "url": "https://www.hemkop.se/produkt/Rostbiff-Vinmarinerad-101667552_ST",
+    "nutrition": {
+      "energi": "112 kilokalori",
+      "fett": "1.6 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "2 gram",
+      "varav sockerarter": "1.2 gram",
+      "protein": "22 gram",
+      "salt": "2.1 gram"
+    }
+  },
+  {
+    "title": "Kalkonbröst Rökt Skivad",
+    "price": "36,50",
+    "product_description": "Rökt kalkonbröst i skivor. Redo att äta. 120 gram. ",
+    "url": "https://www.hemkop.se/produkt/Kalkonbrost-Rokt-Skivad-101263356_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "1 gram",
+      "varav sockerarter": "0.8 gram",
+      "protein": "19 gram",
+      "salt": "3 gram"
+    }
+  },
+  {
+    "title": "Prinskorv",
+    "price": "29,95",
+    "product_description": "Klassisk Prinskorv som är helt fri från gluten och mjölk. Köttmängd 74 %.",
+    "url": "https://www.hemkop.se/produkt/Prinskorv-101249866_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "21 gram",
+      "kolhydrat": "4.8 gram",
+      "protein": "11 gram",
+      "salt": "2 gram",
+      "varav mättat fett": "8.5 gram",
+      "varav sockerarter": "0.6 gram"
+    }
+  },
+  {
+    "title": "Isterband Småländska Långa",
+    "price": "22,50",
+    "product_description": "Isterband med naturskinn som är alspånsrökt",
+    "url": "https://www.hemkop.se/produkt/Isterband-Smalandska-Langa-100450557_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "24 gram",
+      "kolhydrat": "9 gram",
+      "protein": "9.7 gram",
+      "salt": "2.3 gram",
+      "varav mättat fett": "12 gram",
+      "varav sockerarter": "0.5 gram"
+    }
+  },
+  {
+    "title": "Leverpastej Grädd Ungsbakad Deli",
+    "price": "29,50",
+    "product_description": "Scan Gräddleverpastej är en lyxig pastej med grädde, som ger en krämig konsistens och balanserad smak. Pastejen tillverkas på traditionellt sätt i Skara, där den bakas i ugn och får sin fint gräddade yta. Kombinera gärna med något krispigt eller syrligt, såsom picklade grönsaker, gurka eller äpple.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Gradd-Ungsbakad-Deli-101347430_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "24 gram",
+      "varav mättat fett": "9 gram",
+      "kolhydrat": "8 gram",
+      "varav sockerarter": "3 gram",
+      "protein": "12 gram",
+      "salt": "1.8 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Leverpastej Ugnsbakad Ekologisk",
+    "price": "34,95",
+    "product_description": "Scan Ekologisk pastej är tillverkad av ekologiska råvaror, vilket ställer extra höga krav på djurhållningen, t ex vad gäller utevistelse. Vår ekologiska pastej tillverkas på traditionellt sätt i Skara, där den bakas i ugn och får sin fint gräddade yta. Pastejen har en välbalanserad krydd- och leversmak, samt en smidig konsistens som är lätt att breda på smörgåsen. Kombinera gärna med något krispigt eller syrligt, såsom picklade grönsaker, gurka eller äpple.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Ugnsbakad-Ekologisk-101098045_ST",
+    "nutrition": {
+      "energi": "310 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "8 gram",
+      "kolhydrat": "10 gram",
+      "varav sockerarter": "3.4 gram",
+      "protein": "9 gram",
+      "salt": "2 gram",
+      "järn": "6 milligram"
+    }
+  },
+  {
+    "title": "Leverpastej Svensk Bredbar",
+    "price": "15,95",
+    "product_description": "Scan bredbara leverpastej är en klassisk, krämig pastej - tillverkad i Skara. Leverpastejen har en mild smak som passar hela familjen. Mjuk och smidig att breda på smörgåsen såväl till frukost som till mellanmål.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Svensk-Bredbar-101364401_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "22 gram",
+      "järn": "6 milligram",
+      "kolhydrat": "12 gram",
+      "protein": "10 gram",
+      "salt": "1.9 gram",
+      "varav mättat fett": "7.8 gram",
+      "varav sockerarter": "3.4 gram"
+    }
+  },
+  {
+    "title": "Leverpastej Ugnsbakad Bredbar",
+    "price": "23,50",
+    "product_description": "Scan Ugnsbakad pastej är en klassisk pastej av finaste kvalitet, med välbalanserad krydd- och leversmak. Pastejen tillverkas på traditionellt sätt i Skara, där den bakas i ugn och får sin fint gräddade yta. Konsistensen är smidig och lätt att breda på smörgåsen. Kombinera gärna med något krispigt eller syrligt, såsom picklade grönsaker, gurka eller äpple.",
+    "url": "https://www.hemkop.se/produkt/Leverpastej-Ugnsbakad-Bredbar-100294496_ST",
+    "nutrition": {
+      "energi": "300 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "15 gram",
+      "kolhydrat": "12 gram",
+      "varav sockerarter": "2.6 gram",
+      "protein": "11 gram",
+      "salt": "1.9 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Lammkorv",
+    "price": "38,95",
+    "product_description": "Svenskt Lamm- (37%) och nötkött (37%), vatten, potatismjöl, salt, kryddor (bla. paprika, vitlök, spiskummin, cayenne), socker, antioxidationsmedel E300, konserveringsmedel E250, rökarom. Stoppad i fårfjälster. Kötthalt: 74%",
+    "url": "https://www.hemkop.se/produkt/Lammkorv-101690602_ST",
+    "nutrition": {
+      "energi": "930 kilokalori",
+      "fett": "15 gram",
+      "varav mättat fett": "7 gram",
+      "kolhydrat": "6 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "14 gram",
+      "salt": "2 gram"
+    }
+  },
+  {
+    "title": "Kabanoss",
+    "price": "37,95",
+    "product_description": "Nötkött, vatten, kryddor (bla. rökt paprika, chili, vitlök), socker, salt, stabiliseringsmedel E450, antioxidationsmedel E300, konserveringsmedel E250, rökarom.",
+    "url": "https://www.hemkop.se/produkt/Kabanoss-101690601_ST",
+    "nutrition": {
+      "energi": "1060 kilokalori",
+      "fett": "20 gram",
+      "varav mättat fett": "7 gram",
+      "kolhydrat": "1.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "16 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Chistorra",
+    "price": "44,95",
+    "product_description": "Svenskt gris- och nötkött, vatten, potatismjöl, kryddor (bla. rökt paprika, chili, vitlök, örter), druvsocker, stabiliseringsmedel E450, antioxidationsmedel E300, konserveringsmedel E250, rökarom. Stoppad i fårfjälster. Kötthalt: 82%",
+    "url": "https://www.hemkop.se/produkt/Chistorra-101690600_ST",
+    "nutrition": {
+      "energi": "1340 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "10 gram",
+      "kolhydrat": "6 gram",
+      "varav sockerarter": "1 gram",
+      "protein": "14.5 gram",
+      "salt": "1.9 gram"
+    }
+  },
+  {
+    "title": "Serranolindad Manchego",
+    "price": "38,95",
+    "product_description": "Serranolindad manchego. 66 gram.",
+    "url": "https://www.hemkop.se/produkt/Serranolindad-Manchego-101273694_ST",
+    "nutrition": {
+      "energi": "340 kilokalori",
+      "fett": "26 gram",
+      "varav mättat fett": "16 gram",
+      "kolhydrat": "1.3 gram",
+      "varav sockerarter": "1.1 gram",
+      "protein": "25 gram",
+      "salt": "2.5 gram"
+    }
+  },
+  {
+    "title": "Kyckling Filé Svensk Fryst",
+    "price": "99,00",
+    "product_description": "Djupfryst bröstfilé av svensk kyckling. Mörad. 1 kg.",
+    "url": "https://www.hemkop.se/produkt/Kyckling-File-Svensk-Fryst-101222270_ST",
+    "nutrition": {
+      "energi": "100 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "21 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Burgare Nöt & Grönt",
+    "price": "28,95",
+    "product_description": "Hamburgare gjorda på nötkött, morot och blomkål. Går utmärkt att grilla eller steka. Tänk på att de ska genomstekas. 2-pack.",
+    "url": "https://www.hemkop.se/produkt/Burgare-Not-och-Gront-101547588_ST",
+    "nutrition": {
+      "energi": "120 kilokalori",
+      "fett": "5.9 gram",
+      "varav mättat fett": "2.8 gram",
+      "kolhydrat": "5.6 gram",
+      "varav sockerarter": "2 gram",
+      "protein": "9.7 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Högrevsburgare Fetthalt 13% Sverige",
+    "price": "29,95",
+    "product_description": "Färska hamburgare på högrev. Kött från svenska gårdar. 300 gram.",
+    "url": "https://www.hemkop.se/produkt/Hogrevsburgare-Fetthalt-13procent-Sverige-101236323_ST",
+    "nutrition": {
+      "energi": "190 kilokalori",
+      "fett": "13 gram",
+      "varav mättat fett": "5.9 gram",
+      "kolhydrat": "0.1 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "18 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Arbogapastej Original Skivbar",
+    "price": "28,95",
+    "product_description": "Kylvara: Högst +8°C",
+    "url": "https://www.hemkop.se/produkt/Arbogapastej-Original-Skivbar-100156126_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "22 gram",
+      "varav mättat fett": "8.8 gram",
+      "kolhydrat": "8.5 gram",
+      "varav sockerarter": "2.4 gram",
+      "protein": "10 gram",
+      "salt": "2 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Arbogapastej Original Skivbar",
+    "price": "15,95",
+    "product_description": "Arbogapastej skivbar är en klassisker på frukostmackan och svenskarnas absoluta favorit bland skivbara pastejer. Mild smak av lever och härlig tryffered med svamp.",
+    "url": "https://www.hemkop.se/produkt/Arbogapastej-Original-Skivbar-100139627_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "22 gram",
+      "varav mättat fett": "8.8 gram",
+      "kolhydrat": "8.5 gram",
+      "varav sockerarter": "2.4 gram",
+      "protein": "10 gram",
+      "salt": "2 gram",
+      "järn": "7 milligram"
+    }
+  },
+  {
+    "title": "Salamino Peperoni",
+    "price": "42,95",
+    "product_description": "Salamino Piccante är en smakrik italiensk salami. Den tillverkas av noga valda delar av fläskkött och färsk chili. Formad till slantar för att lätt kunna användas på pizza, i salladen, på charkbrickan eller som en het smaksättare i grytor och pastasåser.",
+    "url": "https://www.hemkop.se/produkt/Salamino-Peperoni-101603316_ST",
+    "nutrition": {
+      "energi": "324 kilokalori",
+      "fett": "23 gram",
+      "varav mättat fett": "8.8 gram",
+      "kolhydrat": "1.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "28 gram",
+      "salt": "4 gram"
+    }
+  },
+  {
+    "title": "Salame Milano Skivad",
+    "price": "41,95",
+    "product_description": "Zeta Salame Milano skivad är en mild och fyllig italiensk salami. God på en skiva bröd eller som antipasti tillsammans med inlagda grönsaker.",
+    "url": "https://www.hemkop.se/produkt/Salame-Milano-Skivad-101380019_ST",
+    "nutrition": {
+      "energi": "349 kilokalori",
+      "fett": "27 gram",
+      "varav mättat fett": "11 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "26 gram",
+      "salt": "4.5 gram"
+    }
+  },
+  {
+    "title": "Prosciutto Crudo",
+    "price": "41,95",
+    "product_description": "Zeta Prosciutto Crudo är en italiensk lufttorkad skinka som lagrats i minst 10 månader. Utmärkt på pizzan eller till ett gott bröd.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Crudo-101623986_ST",
+    "nutrition": {
+      "energi": "225 kilokalori",
+      "fett": "13 gram",
+      "varav mättat fett": "4 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "27 gram",
+      "salt": "5 gram"
+    }
+  },
+  {
+    "title": "Prosciutto Di Parma Skivad",
+    "price": "43,95",
+    "product_description": "Zeta Prosciutto di Parma, italiensk lufttorkad skinka, som lagrats i minst 14 månader. Utmärkt med en god olivolja och en bit bröd.",
+    "url": "https://www.hemkop.se/produkt/Prosciutto-Di-Parma-Skivad-101382564_ST",
+    "nutrition": {
+      "energi": "253 kilokalori",
+      "fett": "16 gram",
+      "varav mättat fett": "5.3 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0 gram",
+      "protein": "27 gram",
+      "salt": "4.6 gram"
+    }
+  },
+  {
+    "title": "Salame Napoli Skivad",
+    "price": "25,00",
+    "product_description": "Zeta Salame Napoli är en lufttorkad lättrökt salami med angenäm sälta och lång eftersmak. Grovt malen med hela pepparkorn.",
+    "url": "https://www.hemkop.se/produkt/Salame-Napoli-Skivad-101379998_ST",
+    "nutrition": {
+      "energi": "334 kilokalori",
+      "fett": "27 gram",
+      "varav mättat fett": "10 gram",
+      "kolhydrat": "0.5 gram",
+      "varav sockerarter": "0.5 gram",
+      "protein": "22 gram",
+      "salt": "4.3 gram"
+    }
+  }
+  
+]
