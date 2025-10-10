@@ -99,7 +99,7 @@ def find_price(product_name):
     matches = [p for p in PRODUCTS if term in p["name"].lower()]
     if matches:
         p = matches[0]
-        return f"{p['name']} costs {p['price']} ({p['store']})\n Source: {p['url']}"
+        return f"{p['name']}  costs {p['price']} ({p['store']})\n Source: {p['url']}"
     return f"Sorry, I couldn't find price for {product_name}."
 
 
@@ -634,7 +634,7 @@ def retrieve_recipes(query, top_k=5):
 #     }
 
 
-def recipe_detail_payload(r, sim_threshold: float = 0.3):
+def recipe_detail_payload(r, sim_threshold: float = 0.6):
     model = SentenceTransformer('KBLab/sentence-bert-swedish-cased')
     title = _rec_title(r)
     ingredients = parse_ingredients_field(r.get("ingredients") or r.get("Ingredients",""))
