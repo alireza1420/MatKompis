@@ -1,0 +1,1255 @@
+[
+  {
+    "title": "Baguette Vete",
+    "price": "10,00",
+    "product_description": "VETEMJÖL, vatten, salt, VETEGLUTEN, jäst, mjölbehandlingsmedel (E300), maltmjöl av KORN.",
+    "url": "https://www.hemkop.se/produkt/Baguette-Vete-101591288_ST",
+    "nutrition": {}
+  },
+  {
+    "title": "Grötbröd",
+    "price": "36,95",
+    "product_description": "Börja dagen med en rejäl frukost. Vår moderna tolkning av Grötbröd är bakat med grötskållning av havre som gör brödet extra saftigt och gott. Sädesslagens rena smaker träder fram i fin harmoni med goda pålägg. Ta en skiva till, det mättar gott!",
+    "url": "https://www.hemkop.se/produkt/Grotbrod-101296682_ST",
+    "nutrition": {
+      "energi": "266 kilokalori",
+      "fett": "4.7 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "42 gram",
+      "varav sockerarter": "4.9 gram",
+      "fiber": "5 gram",
+      "protein": "11 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Energibröd Osötat Fullkorn",
+    "price": "38,95",
+    "product_description": "FIBERRIKT OCH OSÖTAT Ladda med fiber! Pågen Energi är ett osötat och fiberrikt bröd för dig med aktiv och hälsosam livsstil. Brödet är bakat på naturliga ingredienser och har en balanserad smak. Njut av en riktigt god macka – full med energi!",
+    "url": "https://www.hemkop.se/produkt/Energibrod-Osotat-Fullkorn-100276577_ST",
+    "nutrition": {
+      "energi": "271 kilokalori",
+      "fett": "3.8 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "43 gram",
+      "varav sockerarter": "3.4 gram",
+      "fiber": "6.1 gram",
+      "protein": "11 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Pågenlimpan",
+    "price": "37,95",
+    "product_description": "Älskade limpmacka! Sveriges mest sålda limpa. Den klassiska svenska limpan är bakad på vete och siktat rågmjöl som tillsammans med surdeg och sirap ger en härlig mjuk och saftigt limpa. Njut av en Svensk klassiker till frukost och mellanmål!",
+    "url": "https://www.hemkop.se/produkt/Pagenlimpan-100548542_ST",
+    "nutrition": {
+      "energi": "275 kilokalori",
+      "fett": "1.9 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "52 gram",
+      "varav sockerarter": "11 gram",
+      "fiber": "3.8 gram",
+      "protein": "9.6 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Längtan",
+    "price": "35,95",
+    "product_description": "En smakrik klassiker! Mörkt, mustigt och luftigt med fyllig smak av skållad råg, rostad malt och surdeg. Det här är brödet för dig som vill att smörgåsen skall smaka mycket. Det är lätt att njuta av Längtan!",
+    "url": "https://www.hemkop.se/produkt/Langtan-100309104_ST",
+    "nutrition": {
+      "energi": "283 kilokalori",
+      "fett": "3.8 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "9.2 gram",
+      "fiber": "4.3 gram",
+      "protein": "9.9 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Roast'n Toast",
+    "price": "36,95",
+    "product_description": "Ett extra gott rostbröd som höjer smaken på dina tillbehör. Utsökt rostbröd för alla som älskar att rosta, passar lika bra till frukosten som till en lyxig förrätt. Mjuk och saftig med goda vallmofrön gör Roast'n Toast oemotståndligt gott!",
+    "url": "https://www.hemkop.se/produkt/Roast-n-Toast-100494387_ST",
+    "nutrition": {
+      "energi": "263 kilokalori",
+      "fett": "3.6 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "46 gram",
+      "varav sockerarter": "4.7 gram",
+      "fiber": "3.6 gram",
+      "protein": "8.9 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Rasker Fullkorn",
+    "price": "33,95",
+    "product_description": "Rostbröd med mycket smak och goda kärnor. Den fylliga smaken kommer från den härliga blandningen mild vete som samsas med mustig råg. Klippt råg och solrosfrön ger Rasker det lilla extra. Rosta en skiva Rasker, eller två och njut!",
+    "url": "https://www.hemkop.se/produkt/Rasker-Fullkorn-101315114_ST",
+    "nutrition": {
+      "energi": "271 kilokalori",
+      "fett": "4.3 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "46 gram",
+      "varav sockerarter": "4.3 gram",
+      "fiber": "5 gram",
+      "protein": "9.6 gram",
+      "salt": "0.98 gram"
+    }
+  },
+  {
+    "title": "Jättefranska",
+    "price": "33,95",
+    "product_description": "Lanserades 1960 och är den första skivade formfranska i Sverige. Vi tog snabbt till oss den amerikanska trenden med att rosta brödet och JätteFranska blev folkets favorit. Perfekt till frukost och till toasten!",
+    "url": "https://www.hemkop.se/produkt/Jattefranska-101275233_ST",
+    "nutrition": {
+      "energi": "269 kilokalori",
+      "fett": "3.7 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "2.7 gram",
+      "fiber": "2.5 gram",
+      "protein": "7.8 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Rosta",
+    "price": "21,95",
+    "product_description": "Brödet för dig som verkligen älskar att rosta. Frasigt och gott med solmoget vete! Rosta ger en riktigt frasig start på dagen eller till kvällsfikat med smör och marmelad. En garanterat frasig stund när som du blir sugen!",
+    "url": "https://www.hemkop.se/produkt/Rosta-100975900_ST",
+    "nutrition": {
+      "energi": "256 kilokalori",
+      "fett": "2.2 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "3.3 gram",
+      "fiber": "3.1 gram",
+      "protein": "9.6 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Hönökaka 4-pack",
+    "price": "31,95",
+    "product_description": "Njut av härlig, färsk Hönökaka, bakad med kärlek. Receptet kommer från Hönö i Göteborgs skärgård, där gyllengräddad Hönökaka har älskats av generationer. Ta hem skärgården till dig, och dela en god stund med nära och kära.",
+    "url": "https://www.hemkop.se/produkt/Honokaka-4-pack-101332488_ST",
+    "nutrition": {
+      "energi": "263 kilokalori",
+      "fett": "3.2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "7.5 gram",
+      "fiber": "2.6 gram",
+      "protein": "8.7 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Skärgårdskaka Hönö 18-pack",
+    "price": "39,95",
+    "product_description": "Färsk Skärgårdskaka är härligt gyllengräddade vetekakor som är så mjuka och goda att de är en ren njutning att äta. Ta hem en bit av skärgården till dig och dela en god stund med någon du tycker om.",
+    "url": "https://www.hemkop.se/produkt/Skargardskaka-Hono-18-pack-101203170_ST",
+    "nutrition": {
+      "energi": "296 kilokalori",
+      "fett": "4.5 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "52 gram",
+      "varav sockerarter": "9.7 gram",
+      "fiber": "3.3 gram",
+      "protein": "9.1 gram",
+      "salt": "0.75 gram"
+    }
+  },
+  {
+    "title": "Himla Go",
+    "price": "29,95",
+    "product_description": "Himla go är ett riktigt gott bröd som innehåller fullkorn och är laddat med fiber.",
+    "url": "https://www.hemkop.se/produkt/Himla-Go-101544485_ST",
+    "nutrition": {
+      "energi": "294 kilokalori",
+      "fett": "4.7 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "51 gram",
+      "varav sockerarter": "9.9 gram",
+      "fiber": "6 gram",
+      "protein": "8.4 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Fullkornsbröd med Linfrön 8-skivor Fullkronsrå",
+    "price": "26,95",
+    "product_description": "Ekologiskt fullkornsbröd med linfrön. Bakat på ekologiskt fullkornsråg och smaksatt med ekologiska linfrön. 8 skivor.",
+    "url": "https://www.hemkop.se/produkt/Fullkornsbrod-med-Linfron-8-skivor-Fullkronsra-100912657_ST",
+    "nutrition": {
+      "energi": "193 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "31 gram",
+      "varav sockerarter": "2.2 gram",
+      "fiber": "9.9 gram",
+      "protein": "4.9 gram",
+      "salt": "0.95 gram"
+    }
+  },
+  {
+    "title": "Frölimpa Mörk",
+    "price": "31,95",
+    "product_description": "Mörkt fröbröd med linfrön, solrosfrön och pumpafrön. 570 gram.",
+    "url": "https://www.hemkop.se/produkt/Frolimpa-Mork-101751356_ST",
+    "nutrition": {
+      "energi": "319 kilokalori",
+      "fett": "14 gram",
+      "varav mättat fett": "1.7 gram",
+      "kolhydrat": "30 gram",
+      "varav sockerarter": "4.2 gram",
+      "fiber": "5.3 gram",
+      "protein": "15 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Levain",
+    "price": "41,95",
+    "product_description": "Fantastiskt gott osötat surdegsbröd bakat på de allra finaste råvarorna. Bakat med solmoget vete och få ingredienser – inga konstigheter. Njut av en skiva Levain eller två, när du blir sugen på något gott och härligt!",
+    "url": "https://www.hemkop.se/produkt/Levain-101261349_ST",
+    "nutrition": {
+      "energi": "235 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "44 gram",
+      "varav sockerarter": "3.2 gram",
+      "fiber": "3.4 gram",
+      "protein": "9.9 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Grekiskt Lantbröd",
+    "price": "31,95",
+    "product_description": "Luftigt, osötat lantbröd som för tankarna till Grekland. Njut av den milda, rena smaken med inspiration från grekisk brödtradition. Brödet är bakat med havssalt som ger en extra smakdimension och fyllighet. Gott att rosta eller doppa i olivolja till maten.",
+    "url": "https://www.hemkop.se/produkt/Grekiskt-Lantbrod-101599065_ST",
+    "nutrition": {
+      "energi": "259 kilokalori",
+      "fett": "2.6 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "3.4 gram",
+      "fiber": "3 gram",
+      "protein": "9.4 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Råglevain",
+    "price": "41,95",
+    "product_description": "Smakrikt rustikt surdegsbröd med malt och groddade rågkärnor. Bakat med mjöl från vår egen kvarn och få ingredienser – inga konstigheter. Njut av den gyllengräddade skorpan och den milt syrliga smaken!",
+    "url": "https://www.hemkop.se/produkt/Raglevain-101275217_ST",
+    "nutrition": {
+      "energi": "235 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "43 gram",
+      "varav sockerarter": "3.6 gram",
+      "fiber": "4.2 gram",
+      "protein": "9.3 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Lantgoda Surdegsbröd",
+    "price": "35,95",
+    "product_description": "Härligt osötat surdegsbröd med en fyllig, rustik ton av fullkornsvete.Bakat med dinkel och havre som tillsammans med gula linfrön och vetegroddar ger brödet karaktär. Den goda smaken som rundas av med extra fin kallpressad rapsolja från Österlen.",
+    "url": "https://www.hemkop.se/produkt/Lantgoda-Surdegsbrod-101278575_ST",
+    "nutrition": {
+      "energi": "251 kilokalori",
+      "fett": "3.1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "43 gram",
+      "varav sockerarter": "4.1 gram",
+      "fiber": "5 gram",
+      "protein": "10 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Grötfrallor 4-pack",
+    "price": "14,95",
+    "product_description": "Grötfrallor - portionsbröd bakade på vetemjöl och havregröt. Skurna, delade i under- och överdel. 4 st frallor, 200 gram.",
+    "url": "https://www.hemkop.se/produkt/Grotfrallor-4-pack-101759151_ST",
+    "nutrition": {
+      "energi": "252 kilokalori",
+      "fett": "3.9 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "36 gram",
+      "varav sockerarter": "4.9 gram",
+      "fiber": "5.3 gram",
+      "protein": "11 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Guldkorn",
+    "price": "25,95",
+    "product_description": "Ljust grovbröd. Guldkorn är ett gott och saftigt grovbröd. Brödet har en mild och rund smak som passar hela familjen. Ett riktigt Guldkorn",
+    "url": "https://www.hemkop.se/produkt/Guldkorn-100168649_ST",
+    "nutrition": {
+      "energi": "272 kilokalori",
+      "fett": "2.5 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "51 gram",
+      "varav sockerarter": "7.3 gram",
+      "fiber": "4.8 gram",
+      "protein": "9.3 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Skanörgrova",
+    "price": "35,95",
+    "product_description": "Ett rustikt och saftigt hantverksbröd fyllt med smak! Skanörgrova bakas på skånsk råg, surdeg, solrosfrön, ölmalt och kallpressad rapsolja. Passar utmärkt till frukost och lunch, såväl som lagrade ostar eller buffémat.",
+    "url": "https://www.hemkop.se/produkt/Skanorgrova-101544487_ST",
+    "nutrition": {
+      "energi": "308 kilokalori",
+      "fett": "7.8 gram",
+      "varav mättat fett": "0.9 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "9.1 gram",
+      "fiber": "6 gram",
+      "protein": "10 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Lingongrova",
+    "price": "25,95",
+    "product_description": "Bästa starten på dagen! Sveriges mest älskade bröd är en oumbärlig del av frukosten. Fullkorn, surdeg och svenska lingon gör LingonGrova till en riktigt god start på vilken morgon som helst.",
+    "url": "https://www.hemkop.se/produkt/Lingongrova-100168667_ST",
+    "nutrition": {
+      "energi": "266 kilokalori",
+      "fett": "3 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "9 gram",
+      "fiber": "6.1 gram",
+      "protein": "8.8 gram",
+      "salt": "0.77 gram"
+    }
+  },
+  {
+    "title": "Lingongrova Special",
+    "price": "33,95",
+    "product_description": "Bästa starten på dagen! Rik på fullkorn, fiber och med mindre socker gör LingonGrova Special till ett lite nyttigare alternativ. Självklart nyckelhålsmärkt. Sveriges mest älskade bröd ger en riktigt god start på vilken morgon som helst.",
+    "url": "https://www.hemkop.se/produkt/Lingongrova-Special-101177248_ST",
+    "nutrition": {
+      "energi": "279 kilokalori",
+      "fett": "4.6 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "46 gram",
+      "varav sockerarter": "5 gram",
+      "fiber": "6 gram",
+      "protein": "11 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Fullkornsgott Osötat Bröd Surdeg Lin Och Solrosfrö",
+    "price": "28,95",
+    "product_description": "Osötat fullkornsgott. 22% fullkorn. Bakat med vetemjöl från Sverige. 700 gram.",
+    "url": "https://www.hemkop.se/produkt/Fullkornsgott-Osotat-Brod-Surdeg-Lin-Och-Solrosfro-101134149_ST",
+    "nutrition": {
+      "energi": "271 kilokalori",
+      "fett": "5.4 gram",
+      "fiber": "5.4 gram",
+      "kolhydrat": "43 gram",
+      "protein": "10 gram",
+      "salt": "1 gram",
+      "varav mättat fett": "0.4 gram",
+      "varav sockerarter": "2.2 gram"
+    }
+  },
+  {
+    "title": "Jubileumsbröd Halmstad Stenugnsbakat",
+    "price": "36,95",
+    "product_description": "RÅGMJÖL,VETEMJÖL,vatten,skållning och surdeg (av VETEMJÖL,RÅGMJÖL,vatten,KORNMALT) KORNMALT,vört (KORN, vatten),sirap,rapsolja,jäst,salt.",
+    "url": "https://www.hemkop.se/produkt/Jubileumsbrod-Halmstad-Stenugnsbakat-101291352_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.4 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "4.5 gram",
+      "fiber": "5.5 gram",
+      "natrium": "0.48 gram"
+    }
+  },
+  {
+    "title": "Hembakat Stenugnsbakad Skivad",
+    "price": "32,95",
+    "product_description": "VETEmjöl, RÅGmjöl, vatten, skållning, surdeg, KORNmalt, sirap, rapsolja, jäst och salt. (Skållning och surdeg består av VETEmjöl, RÅGmjöl, vatten, KORNmalt).",
+    "url": "https://www.hemkop.se/produkt/Hembakat-Stenugnsbakad-Skivad-101291314_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "52 gram",
+      "varav sockerarter": "4.7 gram",
+      "fiber": "3.9 gram",
+      "protein": "6.8 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Hälsa Lågt Gi Bakad i Stenugn",
+    "price": "36,95",
+    "product_description": "Vatten, VETEmjöl, fullkornsmjöl av VETE, solroskärnor, RÅGmjöl, linfrö, VETEgluten, HAVREgryn, pumpakärnor, VETEsurdeg, jäst, salt, sirap, VETEkli, KORNmalt, fermenterat VETEmjöl.",
+    "url": "https://www.hemkop.se/produkt/Halsa-Lagt-Gi-Bakad-i-Stenugn-101291350_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "6.7 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "36 gram",
+      "varav sockerarter": "1.7 gram",
+      "fiber": "5.2 gram",
+      "protein": "10 gram",
+      "salt": "0.8 gram"
+    }
+  },
+  {
+    "title": "Rund & Sund",
+    "price": "39,95",
+    "product_description": "VETEMJÖL,RÅGMJÖL,vatten,skållning och surdeg (av VETEMJÖL,RÅGMJÖL,vatten,KORNMALT),solroskärnor,linfrö,RÅGFLINGOR,KROSSAT VETE,KLIPPT RÅG,VETEGRODDAR,rapsolja,KORNMALT,sirap,jäst,salt.",
+    "url": "https://www.hemkop.se/produkt/Rund-och-Sund-101291353_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "44 gram",
+      "varav sockerarter": "< 3 gram",
+      "fiber": "7 gram",
+      "protein": "9 gram",
+      "salt": "0.5 gram"
+    }
+  },
+  {
+    "title": "Bondbröd Runt",
+    "price": "37,95",
+    "product_description": "VETEMJÖL,RÅGMJÖL,vatten,skållning och surdeg (av VETEMJÖL,RÅGMJÖL,vatten,KORNMALT)KORNMALT,sirap,rapsolja,jäst,salt.",
+    "url": "https://www.hemkop.se/produkt/Bondbrod-Runt-101291327_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "2 gram",
+      "fiber": "3.9 gram",
+      "kolhydrat": "52 gram",
+      "natrium": "0.28 gram",
+      "protein": "6.8 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "4.7 gram"
+    }
+  },
+  {
+    "title": "Sportbröd Skivat",
+    "price": "36,95",
+    "product_description": "Vatten, VETEmjöl, fullkornsmjöl av VETE, RÅGmjöl, sirap, solrosfrö, RÅGflingor, jäst, klippt VETE, linfrö, rapsolja, salt, vört av KORN, VETEgrits, skållning, surdeg (skållning och surdeg består av VETEmjöl, RÅGmjöl, vatten, KORNmalt), VETEgluten, MALTmjöl (KORN) och fermenterat vetemjöl.",
+    "url": "https://www.hemkop.se/produkt/Sportbrod-Skivat-101291325_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "3.9 gram",
+      "varav mättat fett": "0 gram",
+      "kolhydrat": "42 gram",
+      "varav sockerarter": "4.9 gram",
+      "fiber": "5.1 gram",
+      "protein": "7.9 gram",
+      "salt": "0.7 gram"
+    }
+  },
+  {
+    "title": "Vallmorost Luftigt Saftigt",
+    "price": "26,95",
+    "product_description": "Rostbröd med vallmofrön. Luftigt och saftigt. Från Sverige. 630 gram.",
+    "url": "https://www.hemkop.se/produkt/Vallmorost-Luftigt-Saftigt-101134185_ST",
+    "nutrition": {
+      "energi": "269 kilokalori",
+      "fett": "3.6 gram",
+      "fiber": "2.8 gram",
+      "kolhydrat": "47 gram",
+      "protein": "9.8 gram",
+      "salt": "0.93 gram",
+      "varav mättat fett": "0.4 gram",
+      "varav sockerarter": "2.9 gram"
+    }
+  },
+  {
+    "title": "Brioche Rostbröd",
+    "price": "42,95",
+    "product_description": "Franskt brioche rostbröd. Bakat på smör. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Brioche-Rostbrod-101285853_ST",
+    "nutrition": {
+      "energi": "344 kilokalori",
+      "fett": "12 gram",
+      "fiber": "2 gram",
+      "kolhydrat": "50 gram",
+      "protein": "8.1 gram",
+      "salt": "1.1 gram",
+      "varav mättat fett": "7.9 gram",
+      "varav sockerarter": "11 gram"
+    }
+  },
+  {
+    "title": "Vital Grovt Bröd Fyllt av Råg",
+    "price": "22,95",
+    "product_description": "Grovt osötat bröd i skivor med 22% fullkorn.Fylligt och saftigt. Bakat med vetemjöl och råg från Sverige. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Vital-Grovt-Brod-Fyllt-av-Rag-101134087_ST",
+    "nutrition": {
+      "energi": "239 kilokalori",
+      "fett": "3.1 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "42 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "5.7 gram",
+      "protein": "8.4 gram",
+      "salt": "0.96 gram"
+    }
+  },
+  {
+    "title": "Lingon Grovt Bröd",
+    "price": "21,95",
+    "product_description": "Skivat grovt bröd med lingon. Fylligt och saftigt. Bakat med vetemjöl och lingon från Sverige. 500 gram.",
+    "url": "https://www.hemkop.se/produkt/Lingon-Grovt-Brod-101134176_ST",
+    "nutrition": {
+      "energi": "251 kilokalori",
+      "fett": "3.1 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "44 gram",
+      "varav sockerarter": "9.4 gram",
+      "fiber": "4.8 gram",
+      "protein": "9.1 gram",
+      "salt": "0.93 gram"
+    }
+  },
+  {
+    "title": "Proteinbröd 5-skivor",
+    "price": "29,95",
+    "product_description": "Proteinbröd. 22 gram protein per 100 gram. 5 skivor.",
+    "url": "https://www.hemkop.se/produkt/Proteinbrod-5-skivor-101243965_ST",
+    "nutrition": {
+      "energi": "261 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "1.4 gram",
+      "kolhydrat": "13 gram",
+      "varav sockerarter": "2.4 gram",
+      "fiber": "9 gram",
+      "protein": "22 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Superbröd Tranbär",
+    "price": "36,95",
+    "product_description": "Ingredienser: Vatten/vand/vann, glutenfria havreflingor/havreflager/havreflak, solrosfrö/solsikkefrø (22%), brunt linfrö/hørfrø/linfrø, tranbär/tranebær (8%), gyllene/gyldne linfrö/hørfrø/linfrø, rapsfröolja/rapsolie/rapsolje, pumpafrö/græskarkerner/gresskarkjerner, hirsfrö/hirsefrø, psylliumfibrer, malet brunt linfrö/hørfrø/linfrø, vinäger/eddike/eddik, salt. Kan innehålla/indeholde spår/spor av SOJA.",
+    "url": "https://www.hemkop.se/produkt/Superbrod-Tranbar-101305246_ST",
+    "nutrition": {
+      "energi": "356 kilokalori",
+      "fett": "25.8 gram",
+      "varav mättat fett": "2.5 gram",
+      "kolhydrat": "16.5 gram",
+      "varav sockerarter": "2.4 gram",
+      "fiber": "11.2 gram",
+      "protein": "8.8 gram",
+      "salt": "0.88 gram"
+    }
+  },
+  {
+    "title": "Pumpernickel",
+    "price": "21,95",
+    "product_description": "Pumpernickel Det klassiska delikatessbrödet. 100% fullkornsbröd av råg.",
+    "url": "https://www.hemkop.se/produkt/Pumpernickel-100632512_ST",
+    "nutrition": {
+      "energi": "200 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0.1 gram",
+      "kolhydrat": "36 gram",
+      "varav sockerarter": "3.6 gram",
+      "fiber": "11 gram",
+      "protein": "5 gram",
+      "salt": "0.93 gram"
+    }
+  },
+  {
+    "title": "Baguette Halv Vete 2-pack",
+    "price": "20,00",
+    "product_description": "VETEMJÖL, vatten, salt, VETEGLUTEN, jäst/gjær, mjölbehandlingsmedel (E300), maltmjöl av KORN.",
+    "url": "https://www.hemkop.se/produkt/Baguette-Halv-Vete-2-pack-101591291_ST",
+    "nutrition": {
+      "energi": "241 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "0.4 gram",
+      "fiber": "1.9 gram",
+      "protein": "8.7 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Minibaguette Vete 4-pack",
+    "price": "25,00",
+    "product_description": "VETEMJÖL, vatten, salt, VETEGLUTEN, jäst, mjölbehandlingsmedel (E300), maltmjöl av KORN.",
+    "url": "https://www.hemkop.se/produkt/Minibaguette-Vete-4-pack-101591298_ST",
+    "nutrition": {
+      "energi": "241 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "0.4 gram",
+      "fiber": "1.9 gram",
+      "protein": "8.7 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Ostfralla 4-pack",
+    "price": "25,00",
+    "product_description": "Bröd (VETEMJÖL, vatten, surdeg av FULLKORNSMJÖL, salt, HAVRESKÅLLNING, invertsocker, jäst, maltmjöl av KORN, VETEGLUTEN, druvsocker, rapsolja, emulgeringsmedel (E491), mjölbehandlingsmedel (enzym), riven ost 3% ( ost (pastöriserad KOMJÖLK, mjölksyrakultur, färgämne (E160a), konserveringsmedel (E202, E235), löpe), potatisstärkelse).",
+    "url": "https://www.hemkop.se/produkt/Ostfralla-4-pack-101591293_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "4 gram",
+      "varav mättat fett": "1 gram",
+      "fiber": "1.5 gram",
+      "protein": "10 gram",
+      "salt": "1.17 gram"
+    }
+  },
+  {
+    "title": "Korvbröd 16-pack",
+    "price": "23,95",
+    "product_description": "Ingredienser: VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av SESAMFRÖ. * råvaran har svenskt ursprung.",
+    "url": "https://www.hemkop.se/produkt/Korvbrod-16-pack-101591368_ST",
+    "nutrition": {
+      "energi": "294 kilokalori",
+      "fett": "6.6 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "4.4 gram",
+      "fiber": "1.9 gram",
+      "protein": "9.5 gram",
+      "salt": "0.44 gram"
+    }
+  },
+  {
+    "title": "Korvbröd 10-pack",
+    "price": "21,95",
+    "product_description": "Ingredienser: VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av SESAMFRÖ. * råvaran har svenskt ursprung.",
+    "url": "https://www.hemkop.se/produkt/Korvbrod-10-pack-101591358_ST",
+    "nutrition": {
+      "energi": "294 kilokalori",
+      "fett": "6.6 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "4.4 gram",
+      "fiber": "1.9 gram",
+      "protein": "9.5 gram",
+      "salt": "0.44 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Bosses",
+    "price": "24,95",
+    "product_description": "VETEMJÖL (innehåller askorbinsyra, malt av KORN), fullkornsmjöl av RÅG (6%) och VETE (innehåller askorbinsyra, malt av KORN), vatten, farinsocker, solrosfrö, VETEGLUTEN, linfrö, rapsolja, malt av KORN, havssalt, jäst, socker. Kan innehålla spår av mjölk, ägg, sesam, senap, soja och laktos.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Bosses-101591385_ST",
+    "nutrition": {
+      "energi": "272 kilokalori",
+      "fett": "5.7 gram",
+      "varav mättat fett": "0.6 gram",
+      "kolhydrat": "46 gram",
+      "varav sockerarter": "7.1 gram",
+      "fiber": "3.7 gram",
+      "protein": "10.3 gram",
+      "salt": "0.92 gram",
+      "natrium": "0.4 gram"
+    }
+  },
+  {
+    "title": "Fruktkusar 6-pack",
+    "price": "34,95",
+    "product_description": "Ingredienser: Mjöl (VETE, fullkorn av RÅG och VETE), vatten, torkade aprikoser 8% (aprikoser, rismjöl, konserveringsmedel (SVAVELDIOXID)), solrosfrö 6%, torkade tranbär 4% (tranbär, socker, solrosolja), jäst, dinkelVETEflingor, malt av KORN, salt, stabiliseringsmedel (guarkärnmjöl), VETEgluten, hirs 0,5%, linfrö 0,5%, mjölbehandlingsmedel (askorbinsyra). Produkten innehåller 12% frukt och bär samt 7% fröer. Produkten kan innehålla hårda skal- och kärndelar från aprikoser.",
+    "url": "https://www.hemkop.se/produkt/Fruktkusar-6-pack-101591483_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "4.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "51 gram",
+      "varav sockerarter": "8.3 gram",
+      "fiber": "5 gram",
+      "protein": "8.2 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Rågform 8-pack",
+    "price": "32,95",
+    "product_description": "Ingredienser: Mjöl (fullkorn av RÅG*, VETE*, fullkorn av VETE*, fermenterat VETE), vatten, 18 % surdeg av fullkornsRÅGmjöl*, krossade RÅGkärnor**, RÅGflingor*, malt av KORN, rapsolja, salt, jäst*, mjölbehandlingsmedel (askorbinsyra). *Svensk ingrediens **Finsk ingrediens Brödet består av 81 % svenska råvaror. Brödet innehåller 44 % råg och 53 % fullkorn. Innehåller naturligt förekommande sockerarter.",
+    "url": "https://www.hemkop.se/produkt/Ragform-8-pack-101591485_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "3.4 gram",
+      "varav mättat fett": "< 0.5 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "3.3 gram",
+      "fiber": "8.3 gram",
+      "protein": "6.9 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Rågkusar 12-pack",
+    "price": "44,95",
+    "product_description": "Ingredienser: Mjöl (fullkorn av RÅG, fullkorn av VETE, VETE), vatten, surdeg av fullkornsRÅGmjöl 27%, RÅGfiber (Fazer Rye Fibre ®), jäst, salt, malt av KORN. Brödet innehåller 54% råg och 65% fullkorn. Innehåller naturligt förekommande sockerarter.",
+    "url": "https://www.hemkop.se/produkt/Ragkusar-12-pack-101591498_ST",
+    "nutrition": {
+      "energi": "230 kilokalori",
+      "fett": "1.9 gram",
+      "varav mättat fett": "< 0.5 gram",
+      "kolhydrat": "41 gram",
+      "varav sockerarter": "2.1 gram",
+      "fiber": "11 gram",
+      "protein": "6.7 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Proteintoast",
+    "price": "33,95",
+    "product_description": "Proteinbröd som är goda att rosta och med 25% protein vilket är 3,6 ggr mer protein än vanligt rostbröd samt endast 11,4% kolhydrater. Protein bidrar även till att bibehålla muskelmassan.",
+    "url": "https://www.hemkop.se/produkt/Proteintoast-101334152_ST",
+    "nutrition": {
+      "energi": "276 kilokalori",
+      "fett": "12 gram",
+      "varav mättat fett": "1.7 gram",
+      "kolhydrat": "11.4 gram",
+      "varav sockerarter": "1.1 gram",
+      "fiber": "11 gram",
+      "protein": "25 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Tunnbröd Ljust Libanesiskt Uvs",
+    "price": "11,95",
+    "product_description": "INGREDIENSER: VETEMJÖL, vatten, torrjäst, salt, rapsolja",
+    "url": "https://www.hemkop.se/produkt/Tunnbrod-Ljust-Libanesiskt-Uvs-101591380_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "2 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "0.3 gram",
+      "fiber": "2.5 gram",
+      "protein": "10 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Grovt 6-pack",
+    "price": "22,95",
+    "product_description": "INGREDIENSER Surdeg av FULLKORNSRÅGMJÖL 26%, FULLKORNSRÅGMJÖL 23%, vatten, FULLKORNSVETEMJÖL, VETEPROTEIN, VETEMJÖL, RÅGKLI 3%, VETEKLI, jäst, RÅGMALTSMJÖL 2%, salt. Andelen fullkorn är 57%, motsvarar 82% av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Grovt-6-pack-101591312_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "1.6 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "41 gram",
+      "varav sockerarter": "0.6 gram",
+      "fiber": "9.5 gram",
+      "protein": "13 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Solros/pumpa 6-pack",
+    "price": "22,95",
+    "product_description": "INGREDIENSER FULLKORNSRÅGMJÖL 24%, surdeg av FULLKORNSRÅGMJÖL 22%, vatten, VETEMJÖL, groddade RÅGKORN 9%, pumpafrön 7%, solrosfrön 7%, VETEGLUTEN, potatisflingor, VETEKLI, RÅGFLINGOR, RÅGMALTSMJÖL, salt.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Solros-pumpa-6-pack-101591306_ST",
+    "nutrition": {
+      "energi": "305 kilokalori",
+      "fett": "7 gram",
+      "varav mättat fett": "1 gram",
+      "kolhydrat": "43 gram",
+      "varav sockerarter": "2.1 gram",
+      "fiber": "9.3 gram",
+      "protein": "13 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Fröbröd 4-pack",
+    "price": "21,95",
+    "product_description": "INGREDIENSER VETEMJÖL, vatten, FULLKORNSVETEMJÖL 14%, FULLKORNSRÅGMJÖL 10%, solrosfrön 9,5%, sirap, linfrön 3,5%, RÅGMALT, VETEGLUTEN, jäst, salt, KORNMALTSEXTRAKT, stabiliseringsmedel (guarkärnmjöl), antioxidationsmedel (askorbinsyra). Kan innehålla spår av MJÖLK.",
+    "url": "https://www.hemkop.se/produkt/Frobrod-4-pack-101591308_ST",
+    "nutrition": {
+      "energi": "280 kilokalori",
+      "fett": "6.2 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "44 gram",
+      "varav sockerarter": "4.4 gram",
+      "fiber": "6.1 gram",
+      "protein": "9 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Orientbröd Vete 4-pack",
+    "price": "11,95",
+    "product_description": "INGREDIENSER VETEMJÖL 63%, vatten, socker, torrjäst, salt.",
+    "url": "https://www.hemkop.se/produkt/Orientbrod-Vete-4-pack-101591319_ST",
+    "nutrition": {
+      "energi": "271 kilokalori",
+      "fett": "1.2 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "53 gram",
+      "varav sockerarter": "3.3 gram",
+      "fiber": "2.5 gram",
+      "protein": "8.3 gram",
+      "salt": "0.38 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Maltigt 6-pack",
+    "price": "22,95",
+    "product_description": "INGREDIENSER Surdeg av FULLKORNSRÅGMJÖL 32%, VETEMJÖL, FULLKORNSRÅGMJÖL 15%, vatten, fermenterat RÅGMALT 5,6%, potatisflingor, RÅGMJÖL, socker, KORNMALTEXTRAKT 3,4%, FULLKORNSVETEMJÖL, jäst, VETEGLUTEN, salt, stabiliseringsmedel (guarkärnmjöl), antioxidationsmedel (askorbinsyra). Andelen fullkorn är 35%, motsvarar 48% av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Maltigt-6-pack-101591320_ST",
+    "nutrition": {
+      "energi": "277 kilokalori",
+      "fett": "1.3 gram",
+      "varav mättat fett": "0.1 gram",
+      "kolhydrat": "54 gram",
+      "varav sockerarter": "4.5 gram",
+      "fiber": "8 gram",
+      "protein": "8.2 gram",
+      "salt": "0.9 gram"
+    }
+  },
+  {
+    "title": "Rågkaka 30-pack",
+    "price": "31,95",
+    "product_description": "INGREDIENSER VETEMJÖL 32%, vatten, siktat RÅGMJÖL 21 %, sirap, skållat HAVREMJÖL, socker, jäst, rapsolja, ättika, salt, bakpulver (ammoniumkarbonater), vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror), KORNMALT, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Ragkaka-30-pack-101591328_ST",
+    "nutrition": {
+      "energi": "258 kilokalori",
+      "fett": "3.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "49 gram",
+      "varav sockerarter": "9.3 gram",
+      "fiber": "3.2 gram",
+      "protein": "6 gram",
+      "salt": "0.75 gram"
+    }
+  },
+  {
+    "title": "Vetekaka 24-pack",
+    "price": "31,95",
+    "product_description": "Ingredienser: VETEMJÖL 60 %, vatten, sirap, jäst, rapsolja, VETEGLUTEN, ättika, HAVREFIBER, salt, bakpulver (ammoniumkarbonater), vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), KORNMALT, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Vetekaka-24-pack-101591321_ST",
+    "nutrition": {
+      "energi": "287 kilokalori",
+      "fett": "6.4 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "5.4 gram",
+      "fiber": "3.1 gram",
+      "protein": "8.3 gram",
+      "salt": "0.6 gram"
+    }
+  },
+  {
+    "title": "Ostbröd 4-pack",
+    "price": "21,95",
+    "product_description": "INGREDIENSER VETEMJÖL 65%, vatten, ost 11% (MJÖLK, syrningskultur, salt, konsistensmedel (E509)), socker, rapsolja, jäst, salt, stabiliseringsmedel (guarkärnmjöl), antioxidationsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Ostbrod-4-pack-101591295_ST",
+    "nutrition": {
+      "energi": "295 kilokalori",
+      "fett": "6.8 gram",
+      "varav mättat fett": "1.9 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "3.6 gram",
+      "fiber": "2.8 gram",
+      "protein": "9.4 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Mustigt 6-pack",
+    "price": "22,95",
+    "product_description": "INGREDIENSER Surdeg av FULLKORNSRÅGMJÖL 24%, FULLKORNSRÅGMJÖL 21%, VETEMJÖL, groddade RÅGKORN, vatten, potatisflingor, RÅGMALTSMJÖL 3%, VETEPROTEIN, jäst, salt. Andelen fullkorn är 51%, motsvarar 64% av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Mustigt-6-pack-101591305_ST",
+    "nutrition": {
+      "energi": "253 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "1 gram",
+      "fiber": "10 gram",
+      "protein": "8.5 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Orientbröd Råg 4-pack",
+    "price": "11,95",
+    "product_description": "INGREDIENSER Vatten, VETEMJÖL, FULLKORNSRÅGMJÖL 22%, KORNMJÖL, VETEKLI, jäst (torkad), salt, RÅGMALT. Andelen fullkorn är 30%, motsvarar 49% av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Orientbrod-Rag-4-pack-101591318_ST",
+    "nutrition": {
+      "energi": "258 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "7.7 gram",
+      "protein": "8 gram",
+      "salt": "0.4 gram"
+    }
+  },
+  {
+    "title": "Surdegsfralla Durum 4-pack",
+    "price": "21,95",
+    "product_description": "INGREDIENSER VETEMJÖL, surdeg av DURUMVETEMJÖL 15%, vatten, groddade RÅGKORN 10%, VETEGLUTEN, DURUMVETEGRYN, RÅGMJÖL, salt, stabiliseringsmedel (guarkärnmjöl), jäst, VETEMALTMJÖL, KORNMALTEXTRAKT, antioxidationsmedel (askorbinsyra). Kan innehålla spår av MJÖLK.",
+    "url": "https://www.hemkop.se/produkt/Surdegsfralla-Durum-4-pack-101591329_ST",
+    "nutrition": {
+      "energi": "237 kilokalori",
+      "fett": "1.4 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "46 gram",
+      "varav sockerarter": "1.6 gram",
+      "fiber": "3.8 gram",
+      "protein": "8.3 gram",
+      "salt": "0.94 gram"
+    }
+  },
+  {
+    "title": "Lantbröd Havssalt",
+    "price": "35,95",
+    "product_description": "Ingredienser: Mjöl (VETE, siktad RÅG 7 %, durumVETE), vatten, HAVREgryn, malt av VETE, jäst, rapsolja, VETEgluten, surdeg av VETE 2%, havssalt 1 %, linfrö, malt av KORN, mjölbehandlingsmedel (askorbinsyra). Innehåller naturligt förekommande sockerarter.",
+    "url": "https://www.hemkop.se/produkt/Lantbrod-Havssalt-101591387_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "3.9 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "44 gram",
+      "varav sockerarter": "3.8 gram",
+      "fiber": "3.7 gram",
+      "protein": "9.3 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Frörost Fullkorn",
+    "price": "27,95",
+    "product_description": "INGREDIENSER VETEMJÖL, FULLKORNSVETEMJÖL, vatten, groddade RÅGKORN 7,4%, groddade VETEKORN 3,7%, linfrö 3,3%, socker, rapsolja, VETEGLUTEN, solrosfrö 1,5%, jäst, salt, RÅGMALT, antioxidationsmedel (askorbinsyra). Kan innehålla spår av MJÖLK. Ursprung vetemjöl: Estland. Ursprung linfrön: Polen. Ursprung solrosfrön: Ungern. Andelen fullkorn är 32%, motsvarar 41 % av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Frorost-Fullkorn-101591294_ST",
+    "nutrition": {
+      "energi": "295 kilokalori",
+      "fett": "5.8 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "4.4 gram",
+      "fiber": "5.6 gram",
+      "protein": "10 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Ostrost",
+    "price": "27,95",
+    "product_description": "INGREDIENSER VETEMJÖL, vatten, ost 11% (MJÖLK, ystenzym, syrningskultur, salt, konsistensmedel (kalciumklorid)), socker, cornflakes, rapsolja, jäst, salt, antioxidationsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Ostrost-101780873_ST",
+    "nutrition": {
+      "energi": "282 kilokalori",
+      "fett": "6.1 gram",
+      "varav mättat fett": "2 gram",
+      "kolhydrat": "47 gram",
+      "varav sockerarter": "3.1 gram",
+      "fiber": "2.4 gram",
+      "protein": "9.3 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Rostbröd",
+    "price": "18,95",
+    "product_description": "INGREDIENSER VETEMJÖL, vatten, jäst, socker, KORNMALTSEXTRAKT, rapsolja, VETEGLUTEN, salt, antioxidationsmedel (askorbinsyra). Kan innehålla spår av MJÖLK.",
+    "url": "https://www.hemkop.se/produkt/Rostbrod-101591304_ST",
+    "nutrition": {
+      "energi": "263 kilokalori",
+      "fett": "2.3 gram",
+      "varav mättat fett": "< 0.5 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "3.3 gram",
+      "fiber": "2.8 gram",
+      "protein": "8.8 gram",
+      "salt": "0.73 gram"
+    }
+  },
+  {
+    "title": "Rågbröd Danskt",
+    "price": "19,95",
+    "product_description": "INGREDIENSER VETEMJÖL, surdeg av FULLKORNSRÅGMJÖL17%, vatten, RÅGMJÖL12%, RÅGFLINGOR 8%, krossad RÅG 8%, socker, solrosfrön 3,8%, RÅGMALT, linfrön 2,8%, jäst, salt, antioxidationsmedel (askorbinsyra). Kan innehålla spår av ÄGG och MJÖLK. Andelen fullkorn är 26%, motsvarar 41% av torrvikten.",
+    "url": "https://www.hemkop.se/produkt/Ragbrod-Danskt-101591307_ST",
+    "nutrition": {
+      "energi": "284 kilokalori",
+      "fett": "4.1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "9.1 gram",
+      "fiber": "7 gram",
+      "protein": "8 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Levainrost",
+    "price": "25,95",
+    "product_description": "INGREDIENSER VETEMJÖL, surdeg 16% (vatten, DURUMVETEMJÖL, FULLKORNSRÅGMJÖL), vatten, groddade RÅGKORN, VETEGLUTEN, jäst, KORNMALTEXTRAKT, salt, antioxidationsmedel (askorbinsyra). Kan innehålla spår av MJÖLK. Ursprung vetemjöl: Estland.",
+    "url": "https://www.hemkop.se/produkt/Levainrost-101591309_ST",
+    "nutrition": {
+      "energi": "253 kilokalori",
+      "fett": "1.5 gram",
+      "varav mättat fett": "0.3 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "2.7 gram",
+      "fiber": "3.6 gram",
+      "protein": "10 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Rågkaka 30-pack",
+    "price": "36,95",
+    "product_description": "Ingredienser: VETEmjöl, vatten, siktat RÅGmjöl (22%), sirap, socker, fermenterat VETEmjöl, VETEGLUTEN, rapsolja, salt, HAVREfiber, jäst, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), bakpulver (hjorthornssalt), maltmjöl (KORN).",
+    "url": "https://www.hemkop.se/produkt/Ragkaka-30-pack-101591340_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "3.3 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "8.2 gram",
+      "fiber": "4.4 gram",
+      "protein": "7.4 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Rågkaka 6-pack",
+    "price": "22,95",
+    "product_description": "Ingredienser: VETEmjöl¹, vatten, siktat RÅGmjöl¹ (22%), sirap¹, socker¹, fermenterat VETEmjöl, VETEgluten, rapsolja¹, VETEskållning¹, salt, jäst¹, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), bakpulver (hjorthornssalt), maltmjöl (KORN). ¹Ursprungsland: Sverige.",
+    "url": "https://www.hemkop.se/produkt/Ragkaka-6-pack-101591359_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "3.3 gram",
+      "varav mättat fett": "0.8 gram",
+      "kolhydrat": "50 gram",
+      "varav sockerarter": "8.2 gram",
+      "fiber": "4.4 gram",
+      "protein": "7.4 gram",
+      "salt": "1 gram"
+    }
+  },
+  {
+    "title": "Hällakaka 5-pack",
+    "price": "24,95",
+    "product_description": "Ingredienser:VETEmjöl¹, vatten, socker¹, sirap¹, rapsolja¹, fermenterat VETEmjöl, jäst¹, VETEGLUTEN, salt, VETEskållning¹, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), bakpulver (hjorthornssalt), maltmjöl (KORN).¹Ursprungsland: Sverige.",
+    "url": "https://www.hemkop.se/produkt/Hallakaka-5-pack-101591366_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "3.5 gram",
+      "varav mättat fett": "0.7 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "7.9 gram",
+      "fiber": "2.9 gram",
+      "protein": "8.1 gram",
+      "salt": "0.6 gram"
+    }
+  },
+  {
+    "title": "Fiberrost",
+    "price": "33,95",
+    "product_description": "Ingredienser: Mjöl (VETE, fullkorn av VETE 16,5 % och RÅG 10 %, siktad RÅG 1 %), vatten, krossade RÅGkärnor 6%, VETEgluten, sirap, jäst, rapsolja, malt av RÅG och KORN, salt, surdegspulver av VETE, vegetabiliskt emulgeringsmedel (mono- och diglyceriders mono- och diacetylvinsyraestrar), mjölbehandlingsmedel (askorbinsyra). Brödet innehåller 28 % fullkorn och 18 % råg.",
+    "url": "https://www.hemkop.se/produkt/Fiberrost-101591487_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "3.5 gram",
+      "fiber": "5.9 gram",
+      "kolhydrat": "46 gram",
+      "protein": "9.3 gram",
+      "salt": "0.8 gram",
+      "varav mättat fett": "0.6 gram",
+      "varav sockerarter": "2.8 gram"
+    }
+  },
+  {
+    "title": "Frasrost",
+    "price": "23,95",
+    "product_description": "Ingredienser: Mjöl (VETE, siktad RÅG), vatten, skållat VETEmjöl, jäst, socker, salt, VETEgluten, rapsolja, malt av KORN, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Frasrost-101591493_ST",
+    "nutrition": {
+      "energi": "250 kilokalori",
+      "fett": "2.1 gram",
+      "fiber": "2.2 gram",
+      "kolhydrat": "48 gram",
+      "protein": "8.7 gram",
+      "salt": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "1.6 gram"
+    }
+  },
+  {
+    "title": "Originalrost Skivad",
+    "price": "33,95",
+    "product_description": "Ingredienser: Mjöl (VETE, siktad RÅG), vatten, sirap, rapsolja, jäst, salt, VETEgluten, surdeg av VETE, malt av KORN, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Originalrost-Skivad-101591508_ST",
+    "nutrition": {
+      "energi": "260 kilokalori",
+      "fett": "2.9 gram",
+      "fiber": "2.4 gram",
+      "kolhydrat": "49 gram",
+      "protein": "8.8 gram",
+      "salt": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "2.7 gram"
+    }
+  },
+  {
+    "title": "Varsågod Skivad",
+    "price": "31,95",
+    "product_description": "Ingredienser: Mjöl (VETE, fullkorn av RÅG 10% och VETE 6%, grovt VETE), vatten, sirap, klippta RÅGkärnor 3%, jäst, malt av KORN, rapsolja, salt, VETEgluten, surdegspulver av VETE, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Varsagod-Skivad-101591518_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "3.4 gram",
+      "fiber": "4.8 gram",
+      "kolhydrat": "50 gram",
+      "protein": "7.6 gram",
+      "salt": "1 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "9.5 gram"
+    }
+  },
+  {
+    "title": "Limpa Skogaholm",
+    "price": "29,95",
+    "product_description": "Ingredienser: Mjöl (VETE, siktad RÅG), vatten, sirap, jäst, rapsolja, skållat fullkornsRÅGmjöl, surdeg av VETE, salt, VETEgluten, malt av KORN, mjölbehandlingsmedel (askorbinsyra).",
+    "url": "https://www.hemkop.se/produkt/Limpa-Skogaholm-101591499_ST",
+    "nutrition": {
+      "energi": "270 kilokalori",
+      "fett": "4.2 gram",
+      "fiber": "3.3 gram",
+      "kolhydrat": "51 gram",
+      "protein": "6.6 gram",
+      "salt": "0.7 gram",
+      "varav mättat fett": "0.5 gram",
+      "varav sockerarter": "11 gram"
+    }
+  },
+  {
+    "title": "Surdegsfralla Mörk 4-pack",
+    "price": "25,00",
+    "product_description": "VETEMJÖL, vatten, surdeg av DURUM. salt, RÅGMALT, jäst, MALTMJÖL (KORN), mjölbehandlingsmedel: E300, antioxidationsmedel: E330, enzym",
+    "url": "https://www.hemkop.se/produkt/Surdegsfralla-Mork-4-pack-101591322_ST",
+    "nutrition": {
+      "energi": "191 kilokalori",
+      "fett": "1 gram",
+      "varav mättat fett": "0.2 gram",
+      "kolhydrat": "38 gram",
+      "varav sockerarter": "0.5 gram",
+      "fiber": "2.1 gram",
+      "protein": "6.4 gram",
+      "salt": "1.1 gram"
+    }
+  },
+  {
+    "title": "Jubileumskaka Vallmo",
+    "price": "27,95",
+    "product_description": "Ljuvliga, gyllengräddade riktigt mjuka vetekakor strösslade med vallmofrön! 12 st portionsbitar per förpackning. Supergott till frukost, men också perfekt botten till smörgåstårtor! Mjölkfri och fri från konserveringsmedel. Från Sverige, bakat i Norrland. PolarmetodenTM – Fryst direkt efter bakning. Vi vill göra världen lite godare: egen vindkraft, återvinningsbara förpackningar, mer hållbara transporter, 100% från växtriket. Tips: Det är supersmart att förvara bröd i frysen och tina efter behov!",
+    "url": "https://www.hemkop.se/produkt/Jubileumskaka-Vallmo-101690702_ST",
+    "nutrition": {
+      "energi": "290 kilokalori",
+      "fett": "7.1 gram",
+      "varav mättat fett": "1.1 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "5.8 gram",
+      "fiber": "2.5 gram",
+      "protein": "8.6 gram",
+      "salt": "0.8 gram"
+    }
+  },
+  {
+    "title": "Hamburgerbröd 8-pack",
+    "price": "26,95",
+    "product_description": "INGREDIENSER: VETEMJÖL, vatten, socker, rapsolja, SESAMFRÖ 2,5%, jäst, salt, bakhjälpmedel (SOJAMJÖL, emulgeringsmedel (E471, E472e (vegetabiliska)), mjölbehandlingsmedel (askorbinsyra)), vinäger, VETEGLUTEN.",
+    "url": "https://www.hemkop.se/produkt/Hamburgerbrod-8-pack-101591227_ST",
+    "nutrition": {
+      "energi": "286 kilokalori",
+      "fett": "4.1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "52 gram",
+      "varav sockerarter": "8.6 gram",
+      "fiber": "3.2 gram",
+      "protein": "8.4 gram",
+      "salt": "1.3 gram"
+    }
+  },
+  {
+    "title": "Baguette Eko",
+    "price": "16,95",
+    "product_description": "VETEMJÖL* (malt av KORN), vatten, mannagryn*(VETE), havssalt, jäst, VETEGLUTEN*. Kan innehålla spår av mjölk, ägg, sesam, senap, soja och laktos. *= Ekologisk ingrediens. Certifierad av SE-EKO-01",
+    "url": "https://www.hemkop.se/produkt/Baguette-Eko-101591397_ST",
+    "nutrition": {
+      "energi": "228 kilokalori",
+      "fett": "0.7 gram",
+      "varav mättat fett": "0 gram",
+      "kolhydrat": "48 gram",
+      "varav sockerarter": "1 gram",
+      "fiber": "2.4 gram",
+      "protein": "8.2 gram",
+      "salt": "1.4 gram"
+    }
+  },
+  {
+    "title": "Hamburgerbröd 4-pack",
+    "price": "19,95",
+    "product_description": "INGREDIENSER: VETEMJÖL, vatten, socker, jäst, rapsolja, SESAMFRÖ 2,4%, salt, VETEGLUTEN, bakhjälpmedel (SOJAMJÖL, emulgeringsmedel (E471, E472e (vegetabiliska)), mjölbehandlingsmedel (askorbinsyra)), vinäger.",
+    "url": "https://www.hemkop.se/produkt/Hamburgerbrod-4-pack-101591237_ST",
+    "nutrition": {
+      "energi": "282 kilokalori",
+      "fett": "4 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "51 gram",
+      "varav sockerarter": "8.4 gram",
+      "fiber": "3.2 gram",
+      "protein": "8.7 gram",
+      "salt": "1.2 gram"
+    }
+  },
+  {
+    "title": "Mjuka Fröbitar",
+    "price": "32,95",
+    "product_description": "Mjuka Fröbitar är precis som namnet säger, mjuka och saftiga portionsbröd bakade på vår egen surdeg, solrosfrön och linfrön. Ett bröd rikt på smak och en källa till kostfiber och protein.",
+    "url": "https://www.hemkop.se/produkt/Mjuka-Frobitar-101691335_ST",
+    "nutrition": {
+      "energi": "210 kilokalori",
+      "fett": "3.1 gram",
+      "varav mättat fett": "0.5 gram",
+      "kolhydrat": "34 gram",
+      "varav sockerarter": "2.1 gram",
+      "fiber": "5.2 gram",
+      "protein": "8.8 gram",
+      "salt": "1 gram"
+    }
+  }
+]
