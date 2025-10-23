@@ -49,5 +49,15 @@ The system allows users to **chat** about what they want to eat (“I want a hig
 
 ---
 
-## 📂 Repository Structure
+## 🚀 Getting Started
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/alireza1420/MatKompis.git
+cd MatKompi
+```
+2️⃣ Create and activate a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate  # or on Windows: venv\Scripts\activate
+```
