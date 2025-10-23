@@ -61,3 +61,9 @@ cd MatKompi
 python -m venv venv
 source venv/bin/activate  # or on Windows: venv\Scripts\activate
 ```
+Start the FastAPI backend AND launch Gradio
+```bash
+uvicorn app:main --port 8000
+gradio client.py
+
+```
