@@ -17,7 +17,7 @@ The system allows users to **chat** about what they want to eat (“I want a hig
 ## 🧩 Architecture
 
 <p align="center">
-  <img src="9ad0f4d6-94ba-43bc-b71a-063f39a40385.png" alt="SmartRecipe AI Assistant Architecture" width="750"/>
+  <img width="811" height="445" alt="image" src="https://github.com/user-attachments/assets/356e599a-a5eb-438c-9910-a131a0fc7553" />
 </p>
 
 ### 🔹 Flow Summary
